@@ -1,0 +1,17 @@
+subject,grade,strand_code,strand_name,overall_code,overall_label,skill_code,skill_summary,notes
+Math,1,A,Social‑Emotional Learning Skills,A1,SEL skills in math,A1-1,"Set goals, persist through challenges during math tasks",Assessed within math contexts
+Math,1,B,Number,B1,Number relationships,B1-1,"Count, compare and compose/decompose numbers within 50","Focus on strategies, not rote only"
+Math,1,C,Algebra,C1,Patterns & relationships,C1-1,"Identify, extend, and create simple repeating patterns",Use concrete materials
+Math,1,D,Data,D1,Data literacy,D1-1,Collect and organize simple data; read pictographs,One-to-one pictographs
+Math,1,E,Spatial Sense,E1,Geometric reasoning,E1-1,Identify 2D shapes and 3D objects; describe attributes,Use everyday objects
+Math,1,F,Financial Literacy,F1,Money concepts,F1-1,Recognize Canadian coins up to $2; compare amounts,Concrete play store
+Math,3,B,Number,B1,Number relationships,B1-3,"Represent, compare, and order whole numbers to 1,000","Add/subtract within 1,000"
+Math,3,C,Algebra,C2,Equations & coding,C2-2,Use variables in simple equations; intro to coding logic,Unplugged activities OK
+Math,3,D,Data,D1,Data literacy,D1-3,Create bar graphs; describe trend and mode,"Pose questions, interpret"
+Math,3,E,Spatial Sense,E2,Measurement,E2-2,"Estimate/measure length, mass, capacity; perimeter","Use cm, m; standard units"
+Math,3,F,Financial Literacy,F1,Money & consumer awareness,F1-2,Add/subtract money amounts; make change to $10,Realistic word problems
+Math,6,B,Number,B1,Number relationships,B1-6,Fractions/decimals/percent connections; operations,Equivalent forms
+Math,6,C,Algebra,C3,Patterns & relations,C3-1,Represent linear growing patterns; graph on coordinate plane (first quadrant),Use tables and graphs
+Math,6,D,Data,D2,Probability,D2-1,"Describe probability with fractions, decimals, percents",Simple experiments
+Math,6,E,Spatial Sense,E2,Geometry & measurement,E2-3,Area of triangles/parallelograms; volume of right prisms,Formulas from reasoning
+Math,6,F,Financial Literacy,F1,Financial decisions,F1-3,Budgeting basics; unit rates; value vs. price,Consumer math

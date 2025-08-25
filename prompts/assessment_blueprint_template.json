@@ -1,0 +1,32 @@
+{
+  "subject": "Math",
+  "grade": 3,
+  "purpose": "diagnostic",
+  "items_per_skill": 3,
+  "strands": [
+    {
+      "code": "B",
+      "skills": [
+        "B1-number-sense",
+        "B2-operations"
+      ]
+    },
+    {
+      "code": "C",
+      "skills": [
+        "C1-patterns",
+        "C2-equations"
+      ]
+    }
+  ],
+  "routing_rules": [
+    {
+      "if_skill_below": "B2-operations",
+      "route_to": "B2-foundations"
+    },
+    {
+      "if_two_or_more_in_strand_below": "B",
+      "flag_strand_review": true
+    }
+  ]
+}

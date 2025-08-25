@@ -1,0 +1,56 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AssessmentItem",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "skill_code": {
+      "type": "string"
+    },
+    "grade": {
+      "type": "integer"
+    },
+    "stem": {
+      "type": "string"
+    },
+    "choices": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "answer_key": {
+      "type": "string"
+    },
+    "rubric": {
+      "type": "string"
+    },
+    "difficulty": {
+      "type": "string",
+      "enum": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    "format": {
+      "type": "string",
+      "enum": [
+        "SR",
+        "CR"
+      ]
+    },
+    "source_tag": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "id",
+    "skill_code",
+    "grade",
+    "stem",
+    "answer_key"
+  ]
+}

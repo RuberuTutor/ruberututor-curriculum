@@ -1,0 +1,66 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "CurriculumSkill",
+  "type": "object",
+  "properties": {
+    "subject": {
+      "type": "string",
+      "enum": [
+        "Math",
+        "Language",
+        "English"
+      ]
+    },
+    "grade": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 12
+    },
+    "strand_code": {
+      "type": "string"
+    },
+    "strand_name": {
+      "type": "string"
+    },
+    "overall_code": {
+      "type": "string"
+    },
+    "overall_label": {
+      "type": "string"
+    },
+    "skill_code": {
+      "type": "string"
+    },
+    "skill_summary": {
+      "type": "string"
+    },
+    "skill_detail": {
+      "type": "string"
+    },
+    "examples": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "prerequisites": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "notes": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "subject",
+    "grade",
+    "strand_code",
+    "strand_name",
+    "overall_code",
+    "overall_label",
+    "skill_code",
+    "skill_summary"
+  ]
+}
