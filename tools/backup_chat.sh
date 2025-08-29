@@ -1,11 +1,12 @@
 #!/bin/bash
 set -euo pipefail
 
-REPO="${1:-$HOME/Dropbox/ruberututor_knowledge_pack}"
+CATEGORY="${1:-misc}"
+REPO="$HOME/Dropbox/ruberututor_knowledge_pack"
 cd "$REPO" || { echo "❌ Repo not found at $REPO"; exit 1; }
 
 D="$(date +%F)"
-DIR="project_logs/conversations/misc/$D"
+DIR="project_logs/conversations/$CATEGORY/$D"
 mkdir -p "$DIR"
 
 echo "👉 COPY the entire chat now (⌘A, ⌘C). When ready, press ENTER here…"
@@ -25,7 +26,7 @@ awk -v DIR="$DIR" -v D="$D" -v N=400 '{f=sprintf("%s/%s_chat_part%02d.md",DIR,D,
 rm -f "$TMP"
 
 git add "$DIR"
-git commit -m "backup: chat split into parts for $D"
+git commit -m "backup: [$CATEGORY] chat split into parts for $D"
 git push
 
 echo "✅ Backed up to $DIR"
