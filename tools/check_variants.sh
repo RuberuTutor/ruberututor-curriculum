@@ -1,12 +1,11 @@
 #!/usr/bin/env bash
+# Variant checker (requires bash 4+)
 set -euo pipefail
 
 ROOT="materials"
 OUT="project_logs/reports/variants_report_$(date +%F).txt"
 mkdir -p "$(dirname "$OUT")"
 
-# Find all PDFs under materials and normalize names into base + variant
-# Expect variants _vA/_vB/_vC/_vD just before .pdf
 echo "Variant audit — $(date)" > "$OUT"
 echo "" >> "$OUT"
 
@@ -28,9 +27,8 @@ done < <(find "$ROOT" -type f -name "*.pdf" -print0)
 
 missing_total=0
 for key in "${!SEEN[@]}"; do
-  need=(A B C D)
   miss=()
-  for v in "${need[@]}"; do
+  for v in A B C D; do
     [[ -n "${HAVE["$key:$v"]+x}" ]] || miss+=("$v")
   done
   if ((${#miss[@]})); then
@@ -44,5 +42,4 @@ if ((missing_total==0)); then
 fi
 
 echo "" >> "$OUT"
-echo "Report saved to: $OUT"
 echo "Report saved to: $OUT"
