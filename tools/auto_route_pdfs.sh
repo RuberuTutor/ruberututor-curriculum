@@ -1,7 +1,4 @@
 #!/bin/bash
-# Auto-route PDFs by Ontario-coded filename into materials tree.
-# Usage:
-#   bash tools/auto_route_pdfs.sh <worksheets|assessments> <pdf1> [pdf2 ...]
 set -euo pipefail
 
 usage(){ echo "Usage: bash tools/auto_route_pdfs.sh <worksheets|assessments> <pdf1> [pdf2 ...]"; exit 1; }
@@ -18,56 +15,30 @@ added=0; skipped=0; failed=0
 
 route_one() {
   local PDF="$1"
-  local name base ext
+  local base dest ok gfolder subject strand
   [[ -f "$PDF" ]] || { echo "⚠️  Missing file: $PDF"; ((failed++)); return; }
   base="$(basename "$PDF")"
 
-  # Expect forms like:
-  # Gr1_Math_B_Number_B1-1_Count_to_50_vA.pdf
-  # Gr7_Math_C_Algebra_C2-3_OneStep_Equations_vB.pdf
-  # Gr9_English_ReadingLiterature_RL1_Theme_Inference_vC.pdf
-  # Gr3_English_B_Foundations_B2-1_Phonics_vD.pdf
-
-  # Split on underscores via awk for flexibility
   eval "$(
     echo "$base" | awk -F'_' '
-      function lower(s){ gsub(/[A-Z]/,"&",s); return tolower(s) }
       {
         n=NF
-        # Extract grade "GrX"
         grade=$1
-        if (match(grade, /^Gr([0-9]{1,2})$/)==0){ print "ok=0"; next }
+        if (grade !~ /^Gr[0-9]{1,2}$/) { print "ok=0"; next }
         gnum=substr(grade,3)
         gfolder="gr" gnum
 
         subj=$2
         subjl=tolower(subj)
 
-        # Determine strand/group token(s)
-        # Case A: Letter + Word (e.g., B_Number) → tokens 3 + 4
-        # Case B: Single word group (e.g., ReadingLiterature) → token 3
         strand=""
-        idx_after_strand=0
         if ($3 ~ /^[A-F]$/ && $4 ~ /^[A-Za-z]+$/) {
           strand=$3"_"$4
-          idx_after_strand=5
         } else {
           strand=$3
-          idx_after_strand=4
         }
 
-        # Skill code token (e.g., B1-1 or RL1); if pattern holds
-        skill=$idx_after_strand
-
-        # Variant at end must match _vA.._vD
-        variant=$n
-        if (match($variant, /^v[A-D]\.pdf$/)==0){
-          # Sometimes variant comes as last token with .pdf attached to previous
-          # Strip .pdf from last field
-          sub(/\.pdf$/,"", $n)
-        }
-
-        print "ok=1; gfolder=\""gfolder"\"; subject=\""subjl"\"; strand=\""<<strand<<"\""
+        printf "ok=1; gfolder=\"%s\"; subject=\"%s\"; strand=\"%s\"\n", gfolder, subjl, strand
       }'
   )"
 
@@ -100,7 +71,6 @@ if (( added > 0 )); then
   git push
 fi
 
-# Post-save quick audit for destination folders touched (ensure vA–vD per stem)
 report="$REPO/project_logs/reports/auto_route_audit_$(date +%F_%H%M%S).txt"
 mkdir -p "$(dirname "$report")"
 
