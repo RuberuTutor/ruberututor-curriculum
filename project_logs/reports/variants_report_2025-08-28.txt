@@ -1,0 +1,6 @@
+Variant audit — Thu 28 Aug 2025 23:57:18 EDT
+
+materials/worksheets/math/gr1/B_Number/Gr1_Math_B_Number_B1-1_Count_to_50  →  missing variants: A B C D
+materials/assessments/english/gr9/ReadingLiterature/Gr9_English_ReadingLiterature_RL1_Theme_Inference  →  missing variants: A B C D
+
+Report saved to: project_logs/reports/variants_report_2025-08-28.txt
