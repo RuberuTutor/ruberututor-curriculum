@@ -12,27 +12,21 @@ last_reviewed: 2025-08-30
 
 ## Strand A: Mathematical Thinking and Making Connections
 
-printf "\n## Strand A: Mathematical Thinking and Making Connections\n\n" >> "$FILE"
 pbpaste >> "$FILE"
-printf "\n\n---\n" >> "$FILE"
 
 
 ---
 
 ## Strand B: Number
 
-printf "\n## Strand B: Number\n\n" >> "$FILE"
 pbpaste >> "$FILE"
-printf "\n\n---\n" >> "$FILE"
 
 
 ---
 
 ## Strand C: Algebra
 
-printf "\n## Strand C: Algebra\n\n" >> "$FILE"
 pbpaste >> "$FILE"
-printf "\n\n---\n" >> "$FILE"
 
 
 ---
@@ -40,9 +34,7 @@ printf "\n\n---\n" >> "$FILE"
 ## Strand D: Data
 
 # Copy from PDF: Strand D Overall + D1./D2. specifics → to clipboard
-printf "\n## Strand D: Data\n\n" >> "$FILE"
 pbpaste >> "$FILE"
-printf "\n\n---\n" >> "$FILE"
 
 grep -n "## Strand D" "$FILE"
 egrep -n "^D[12]\.[0-9]+" "$FILE" | head
@@ -53,9 +45,7 @@ egrep -n "^D[12]\.[0-9]+" "$FILE" | head
 ## Strand E: Geometry and Measurement
 
 # Copy from PDF: Strand E Overall + E1.x specifics → to clipboard
-printf "\n## Strand E: Geometry and Measurement\n\n" >> "$FILE"
 pbpaste >> "$FILE"
-printf "\n\n---\n" >> "$FILE"
 
 grep -n "## Strand E" "$FILE"
 egrep -n "^E1\.[0-9]+" "$FILE" | head
@@ -66,9 +56,7 @@ egrep -n "^E1\.[0-9]+" "$FILE" | head
 ## Strand F: Financial Literacy
 
 # Copy from PDF: Strand F Overall + F1.x specifics → to clipboard
-printf "\n## Strand F: Financial Literacy\n\n" >> "$FILE"
 pbpaste >> "$FILE"
-printf "\n\n---\n" >> "$FILE"
 
 grep -n "## Strand F" "$FILE"
 egrep -n "^F1\.[0-9]+" "$FILE" | head
@@ -92,3 +80,28 @@ egrep -n "^F1\.[0-9]+" "$FILE" | head
 
 # Changelog
 - 2025-08-30: Populated verbatim from official MTH1W (2021) PDF.
+
+## Strand X: <exact title from PDF>
+
+FILE="$HOME/Dropbox/ruberututor_knowledge_pack/curriculum/ontario/maps/secondary/grade9_math_MTH1W.md"
+pbpaste >> "$FILE"
+
+
+---
+
+## Strand A: Mathematical Thinking and Making Connections
+
+FILE="$HOME/Dropbox/ruberututor_knowledge_pack/curriculum/ontario/maps/secondary/grade9_math_MTH1W.md"
+pbpaste >> "$FILE"
+
+
+---
+
+## Strand A: Mathematical Thinking and Making Connections
+
+printf "\n## Strand A: Mathematical Thinking and Making Connections\n\n" >> "$FILE"
+pbpaste >> "$FILE"
+printf "\n\n---\n" >> "$FILE"
+
+
+---
