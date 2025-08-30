@@ -1,23 +1,94 @@
-## Strand AA. Social-Emotional Learning (SEL) Skills in Mathematics
+---
+title: "Grade 9 Mathematics — Ontario Curriculum (MTH1W, 2021)"
+grade: 9
+subject: mathematics
+course_code: MTH1W
+sources:
+  - "The Ontario Curriculum, Grade 9: Mathematics (2021) — official PDF"
+last_reviewed: 2025-08-30
+---
 
-In this strand, students develop and apply social-emotional learning skills to support their engagement in learning mathematics and their overall well-being. The learning related to this strand takes place in the context of the other strands and should be assessed and evaluated within these contexts.
+# Expectations by Strand
 
-**Overall Expectation**
+## Strand A: Mathematical Thinking and Making Connections
 
-**AA1. Social-Emotional Learning Skills in Mathematics and the Mathematical Processes**  
-develop and apply social-emotional learning skills to support the use of mathematical processes, build perseverance, and enhance mathematical thinking and well-being
+printf "\n## Strand A: Mathematical Thinking and Making Connections\n\n" >> "$FILE"
+pbpaste >> "$FILE"
+printf "\n\n---\n" >> "$FILE"
+
 
 ---
 
-**Specific Expectations**
+## Strand B: Number
 
-AA1.1 use self-awareness and self-management skills to persevere in mathematical tasks and apply problem-solving strategies when faced with challenging situations  
+printf "\n## Strand B: Number\n\n" >> "$FILE"
+pbpaste >> "$FILE"
+printf "\n\n---\n" >> "$FILE"
 
-AA1.2 use social-awareness and relationship skills to work respectfully and collaboratively in teams, recognizing and celebrating each other’s strengths and learning from one another  
 
-AA1.3 apply critical and creative thinking skills to make decisions, set goals, and evaluate progress in mathematical learning  
+---
 
-AA1.4 apply stress-management and coping strategies when engaging in mathematics to support perseverance and well-being  
-# Grade 9 Mathematics (MTH1W) — Ontario Curriculum
+## Strand C: Algebra
 
-⚠️ Placeholder file. Waiting for official curriculum PDF before filling expectations.
+printf "\n## Strand C: Algebra\n\n" >> "$FILE"
+pbpaste >> "$FILE"
+printf "\n\n---\n" >> "$FILE"
+
+
+---
+
+## Strand D: Data
+
+# Copy from PDF: Strand D Overall + D1./D2. specifics → to clipboard
+printf "\n## Strand D: Data\n\n" >> "$FILE"
+pbpaste >> "$FILE"
+printf "\n\n---\n" >> "$FILE"
+
+grep -n "## Strand D" "$FILE"
+egrep -n "^D[12]\.[0-9]+" "$FILE" | head
+
+
+---
+
+## Strand E: Geometry and Measurement
+
+# Copy from PDF: Strand E Overall + E1.x specifics → to clipboard
+printf "\n## Strand E: Geometry and Measurement\n\n" >> "$FILE"
+pbpaste >> "$FILE"
+printf "\n\n---\n" >> "$FILE"
+
+grep -n "## Strand E" "$FILE"
+egrep -n "^E1\.[0-9]+" "$FILE" | head
+
+
+---
+
+## Strand F: Financial Literacy
+
+# Copy from PDF: Strand F Overall + F1.x specifics → to clipboard
+printf "\n## Strand F: Financial Literacy\n\n" >> "$FILE"
+pbpaste >> "$FILE"
+printf "\n\n---\n" >> "$FILE"
+
+grep -n "## Strand F" "$FILE"
+egrep -n "^F1\.[0-9]+" "$FILE" | head
+
+
+---
+
+# Planning
+
+## Worksheets (vA–vD)
+| Unit | Strand | Expectations | Variant(s) | Path |
+|------|--------|--------------|------------|------|
+|      |        |              | vA / vB / vC / vD | materials/worksheets/math/grade9/… |
+
+## Assessments (vA–vD)
+| Type | Strand | Expectations | Variant | Path |
+|------|--------|--------------|---------|------|
+| Quiz/Task | | | vA–vD | materials/assessments/math/grade9/… |
+
+---
+
+# Changelog
+- 2025-08-30: Populated verbatim from official MTH1W (2021) PDF.
