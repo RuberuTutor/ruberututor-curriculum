@@ -82,53 +82,34 @@ egrep -n "^F1\.[0-9]+" "$FILE" | head
 - 2025-08-30: Populated verbatim from official MTH1W (2021) PDF.
 
 
-## Strand A: Mathematical Thinking and Making Connections
-
-printf "\n## Strand A: Mathematical Thinking and Making Connections\n\n" >> "$FILE"
-pbpaste >> "$FILE"
-printf "\n\n---\n" >> "$FILE"
-
-
----
-
 ## Strand B: Number
 
 # Strand B
-printf "\n## Strand B: Number\n\n" >> "$FILE"
 pbpaste >> "$FILE"
-printf "\n\n---\n" >> "$FILE"
 sed -i '' -E 's/^\*\*(B[123]\.[0-9]+)\*\*/\1/' "$FILE"
 sed -i '' -E 's/^[[:space:]]*[-•][[:space:]]*(B[123]\.[0-9]+)/\1/' "$FILE"
 egrep -n "^B[123]\.[0-9]+" "$FILE" | head
 
 # Strand C
-printf "\n## Strand C: Algebra\n\n" >> "$FILE"
 pbpaste >> "$FILE"
-printf "\n\n---\n" >> "$FILE"
 sed -i '' -E 's/^\*\*(C[1-4]\.[0-9]+)\*\*/\1/' "$FILE"
 sed -i '' -E 's/^[[:space:]]*[-•][[:space:]]*(C[1-4]\.[0-9]+)/\1/' "$FILE"
 egrep -n "^C[1-4]\.[0-9]+" "$FILE" | head
 
 # Strand D
-printf "\n## Strand D: Data\n\n" >> "$FILE"
 pbpaste >> "$FILE"
-printf "\n\n---\n" >> "$FILE"
 sed -i '' -E 's/^\*\*(D[12]\.[0-9]+)\*\*/\1/' "$FILE"
 sed -i '' -E 's/^[[:space:]]*[-•][[:space:]]*(D[12]\.[0-9]+)/\1/' "$FILE"
 egrep -n "^D[12]\.[0-9]+" "$FILE" | head
 
 # Strand E
-printf "\n## Strand E: Geometry and Measurement\n\n" >> "$FILE"
 pbpaste >> "$FILE"
-printf "\n\n---\n" >> "$FILE"
 sed -i '' -E 's/^\*\*(E1\.[0-9]+)\*\*/\1/' "$FILE"
 sed -i '' -E 's/^[[:space:]]*[-•][[:space:]]*(E1\.[0-9]+)/\1/' "$FILE"
 egrep -n "^E1\.[0-9]+" "$FILE" | head
 
 # Strand F
-printf "\n## Strand F: Financial Literacy\n\n" >> "$FILE"
 pbpaste >> "$FILE"
-printf "\n\n---\n" >> "$FILE"
 sed -i '' -E 's/^\*\*(F1\.[0-9]+)\*\*/\1/' "$FILE"
 sed -i '' -E 's/^[[:space:]]*[-•][[:space:]]*(F1\.[0-9]+)/\1/' "$FILE"
 egrep -n "^F1\.[0-9]+" "$FILE" | head
@@ -139,41 +120,31 @@ egrep -n "^F1\.[0-9]+" "$FILE" | head
 ## Strand C: Algebra
 
 # Strand B
-printf "\n## Strand B: Number\n\n" >> "$FILE"
 pbpaste >> "$FILE"
-printf "\n\n---\n" >> "$FILE"
 sed -i '' -E 's/^\*\*(B[123]\.[0-9]+)\*\*/\1/' "$FILE"
 sed -i '' -E 's/^[[:space:]]*[-•][[:space:]]*(B[123]\.[0-9]+)/\1/' "$FILE"
 egrep -n "^B[123]\.[0-9]+" "$FILE" | head
 
 # Strand C
-printf "\n## Strand C: Algebra\n\n" >> "$FILE"
 pbpaste >> "$FILE"
-printf "\n\n---\n" >> "$FILE"
 sed -i '' -E 's/^\*\*(C[1-4]\.[0-9]+)\*\*/\1/' "$FILE"
 sed -i '' -E 's/^[[:space:]]*[-•][[:space:]]*(C[1-4]\.[0-9]+)/\1/' "$FILE"
 egrep -n "^C[1-4]\.[0-9]+" "$FILE" | head
 
 # Strand D
-printf "\n## Strand D: Data\n\n" >> "$FILE"
 pbpaste >> "$FILE"
-printf "\n\n---\n" >> "$FILE"
 sed -i '' -E 's/^\*\*(D[12]\.[0-9]+)\*\*/\1/' "$FILE"
 sed -i '' -E 's/^[[:space:]]*[-•][[:space:]]*(D[12]\.[0-9]+)/\1/' "$FILE"
 egrep -n "^D[12]\.[0-9]+" "$FILE" | head
 
 # Strand E
-printf "\n## Strand E: Geometry and Measurement\n\n" >> "$FILE"
 pbpaste >> "$FILE"
-printf "\n\n---\n" >> "$FILE"
 sed -i '' -E 's/^\*\*(E1\.[0-9]+)\*\*/\1/' "$FILE"
 sed -i '' -E 's/^[[:space:]]*[-•][[:space:]]*(E1\.[0-9]+)/\1/' "$FILE"
 egrep -n "^E1\.[0-9]+" "$FILE" | head
 
 # Strand F
-printf "\n## Strand F: Financial Literacy\n\n" >> "$FILE"
 pbpaste >> "$FILE"
-printf "\n\n---\n" >> "$FILE"
 sed -i '' -E 's/^\*\*(F1\.[0-9]+)\*\*/\1/' "$FILE"
 sed -i '' -E 's/^[[:space:]]*[-•][[:space:]]*(F1\.[0-9]+)/\1/' "$FILE"
 egrep -n "^F1\.[0-9]+" "$FILE" | head
@@ -184,41 +155,31 @@ egrep -n "^F1\.[0-9]+" "$FILE" | head
 ## Strand D: Data
 
 # Strand B
-printf "\n## Strand B: Number\n\n" >> "$FILE"
 pbpaste >> "$FILE"
-printf "\n\n---\n" >> "$FILE"
 sed -i '' -E 's/^\*\*(B[123]\.[0-9]+)\*\*/\1/' "$FILE"
 sed -i '' -E 's/^[[:space:]]*[-•][[:space:]]*(B[123]\.[0-9]+)/\1/' "$FILE"
 egrep -n "^B[123]\.[0-9]+" "$FILE" | head
 
 # Strand C
-printf "\n## Strand C: Algebra\n\n" >> "$FILE"
 pbpaste >> "$FILE"
-printf "\n\n---\n" >> "$FILE"
 sed -i '' -E 's/^\*\*(C[1-4]\.[0-9]+)\*\*/\1/' "$FILE"
 sed -i '' -E 's/^[[:space:]]*[-•][[:space:]]*(C[1-4]\.[0-9]+)/\1/' "$FILE"
 egrep -n "^C[1-4]\.[0-9]+" "$FILE" | head
 
 # Strand D
-printf "\n## Strand D: Data\n\n" >> "$FILE"
 pbpaste >> "$FILE"
-printf "\n\n---\n" >> "$FILE"
 sed -i '' -E 's/^\*\*(D[12]\.[0-9]+)\*\*/\1/' "$FILE"
 sed -i '' -E 's/^[[:space:]]*[-•][[:space:]]*(D[12]\.[0-9]+)/\1/' "$FILE"
 egrep -n "^D[12]\.[0-9]+" "$FILE" | head
 
 # Strand E
-printf "\n## Strand E: Geometry and Measurement\n\n" >> "$FILE"
 pbpaste >> "$FILE"
-printf "\n\n---\n" >> "$FILE"
 sed -i '' -E 's/^\*\*(E1\.[0-9]+)\*\*/\1/' "$FILE"
 sed -i '' -E 's/^[[:space:]]*[-•][[:space:]]*(E1\.[0-9]+)/\1/' "$FILE"
 egrep -n "^E1\.[0-9]+" "$FILE" | head
 
 # Strand F
-printf "\n## Strand F: Financial Literacy\n\n" >> "$FILE"
 pbpaste >> "$FILE"
-printf "\n\n---\n" >> "$FILE"
 sed -i '' -E 's/^\*\*(F1\.[0-9]+)\*\*/\1/' "$FILE"
 sed -i '' -E 's/^[[:space:]]*[-•][[:space:]]*(F1\.[0-9]+)/\1/' "$FILE"
 egrep -n "^F1\.[0-9]+" "$FILE" | head
@@ -229,41 +190,31 @@ egrep -n "^F1\.[0-9]+" "$FILE" | head
 ## Strand E: Geometry and Measurement
 
 # Strand B
-printf "\n## Strand B: Number\n\n" >> "$FILE"
 pbpaste >> "$FILE"
-printf "\n\n---\n" >> "$FILE"
 sed -i '' -E 's/^\*\*(B[123]\.[0-9]+)\*\*/\1/' "$FILE"
 sed -i '' -E 's/^[[:space:]]*[-•][[:space:]]*(B[123]\.[0-9]+)/\1/' "$FILE"
 egrep -n "^B[123]\.[0-9]+" "$FILE" | head
 
 # Strand C
-printf "\n## Strand C: Algebra\n\n" >> "$FILE"
 pbpaste >> "$FILE"
-printf "\n\n---\n" >> "$FILE"
 sed -i '' -E 's/^\*\*(C[1-4]\.[0-9]+)\*\*/\1/' "$FILE"
 sed -i '' -E 's/^[[:space:]]*[-•][[:space:]]*(C[1-4]\.[0-9]+)/\1/' "$FILE"
 egrep -n "^C[1-4]\.[0-9]+" "$FILE" | head
 
 # Strand D
-printf "\n## Strand D: Data\n\n" >> "$FILE"
 pbpaste >> "$FILE"
-printf "\n\n---\n" >> "$FILE"
 sed -i '' -E 's/^\*\*(D[12]\.[0-9]+)\*\*/\1/' "$FILE"
 sed -i '' -E 's/^[[:space:]]*[-•][[:space:]]*(D[12]\.[0-9]+)/\1/' "$FILE"
 egrep -n "^D[12]\.[0-9]+" "$FILE" | head
 
 # Strand E
-printf "\n## Strand E: Geometry and Measurement\n\n" >> "$FILE"
 pbpaste >> "$FILE"
-printf "\n\n---\n" >> "$FILE"
 sed -i '' -E 's/^\*\*(E1\.[0-9]+)\*\*/\1/' "$FILE"
 sed -i '' -E 's/^[[:space:]]*[-•][[:space:]]*(E1\.[0-9]+)/\1/' "$FILE"
 egrep -n "^E1\.[0-9]+" "$FILE" | head
 
 # Strand F
-printf "\n## Strand F: Financial Literacy\n\n" >> "$FILE"
 pbpaste >> "$FILE"
-printf "\n\n---\n" >> "$FILE"
 sed -i '' -E 's/^\*\*(F1\.[0-9]+)\*\*/\1/' "$FILE"
 sed -i '' -E 's/^[[:space:]]*[-•][[:space:]]*(F1\.[0-9]+)/\1/' "$FILE"
 egrep -n "^F1\.[0-9]+" "$FILE" | head
@@ -274,43 +225,118 @@ egrep -n "^F1\.[0-9]+" "$FILE" | head
 ## Strand F: Financial Literacy
 
 # Strand B
-printf "\n## Strand B: Number\n\n" >> "$FILE"
 pbpaste >> "$FILE"
-printf "\n\n---\n" >> "$FILE"
 sed -i '' -E 's/^\*\*(B[123]\.[0-9]+)\*\*/\1/' "$FILE"
 sed -i '' -E 's/^[[:space:]]*[-•][[:space:]]*(B[123]\.[0-9]+)/\1/' "$FILE"
 egrep -n "^B[123]\.[0-9]+" "$FILE" | head
 
 # Strand C
-printf "\n## Strand C: Algebra\n\n" >> "$FILE"
 pbpaste >> "$FILE"
-printf "\n\n---\n" >> "$FILE"
 sed -i '' -E 's/^\*\*(C[1-4]\.[0-9]+)\*\*/\1/' "$FILE"
 sed -i '' -E 's/^[[:space:]]*[-•][[:space:]]*(C[1-4]\.[0-9]+)/\1/' "$FILE"
 egrep -n "^C[1-4]\.[0-9]+" "$FILE" | head
 
 # Strand D
-printf "\n## Strand D: Data\n\n" >> "$FILE"
 pbpaste >> "$FILE"
-printf "\n\n---\n" >> "$FILE"
 sed -i '' -E 's/^\*\*(D[12]\.[0-9]+)\*\*/\1/' "$FILE"
 sed -i '' -E 's/^[[:space:]]*[-•][[:space:]]*(D[12]\.[0-9]+)/\1/' "$FILE"
 egrep -n "^D[12]\.[0-9]+" "$FILE" | head
 
 # Strand E
-printf "\n## Strand E: Geometry and Measurement\n\n" >> "$FILE"
 pbpaste >> "$FILE"
-printf "\n\n---\n" >> "$FILE"
 sed -i '' -E 's/^\*\*(E1\.[0-9]+)\*\*/\1/' "$FILE"
 sed -i '' -E 's/^[[:space:]]*[-•][[:space:]]*(E1\.[0-9]+)/\1/' "$FILE"
 egrep -n "^E1\.[0-9]+" "$FILE" | head
 
 # Strand F
+pbpaste >> "$FILE"
+sed -i '' -E 's/^\*\*(F1\.[0-9]+)\*\*/\1/' "$FILE"
+sed -i '' -E 's/^[[:space:]]*[-•][[:space:]]*(F1\.[0-9]+)/\1/' "$FILE"
+egrep -n "^F1\.[0-9]+" "$FILE" | head
+
+
+---
+
+## Strand A: Mathematical Thinking and Making Connections
+
+printf "\n## Strand A: Mathematical Thinking and Making Connections\n\n" >> "$FILE"
+pbpaste >> "$FILE"
+printf "\n\n---\n" >> "$FILE"
+
+# Normalize if bold bullets got copied (optional but helpful for greps)
+sed -i '' -E 's/^\*\*(A[12]\.[0-9]+)\*\*/\1/' "$FILE"
+sed -i '' -E 's/^[[:space:]]*[-•][[:space:]]*(A[12]\.[0-9]+)/\1/' "$FILE"
+
+egrep -n "^A[12]\.[0-9]+" "$FILE" | head
+
+
+---
+
+## Strand B: Number
+
+printf "\n## Strand B: Number\n\n" >> "$FILE"
+pbpaste >> "$FILE"
+printf "\n\n---\n" >> "$FILE"
+
+sed -i '' -E 's/^\*\*(B[123]\.[0-9]+)\*\*/\1/' "$FILE"
+sed -i '' -E 's/^[[:space:]]*[-•][[:space:]]*(B[123]\.[0-9]+)/\1/' "$FILE"
+
+egrep -n "^B[123]\.[0-9]+" "$FILE" | head
+
+
+---
+
+## Strand C: Algebra
+
+printf "\n## Strand C: Algebra\n\n" >> "$FILE"
+pbpaste >> "$FILE"
+printf "\n\n---\n" >> "$FILE"
+
+sed -i '' -E 's/^\*\*(C[1-4]\.[0-9]+)\*\*/\1/' "$FILE"
+sed -i '' -E 's/^[[:space:]]*[-•][[:space:]]*(C[1-4]\.[0-9]+)/\1/' "$FILE"
+
+egrep -n "^C[1-4]\.[0-9]+" "$FILE" | head
+
+
+---
+
+## Strand D: Data
+
+printf "\n## Strand D: Data\n\n" >> "$FILE"
+pbpaste >> "$FILE"
+printf "\n\n---\n" >> "$FILE"
+
+sed -i '' -E 's/^\*\*(D[12]\.[0-9]+)\*\*/\1/' "$FILE"
+sed -i '' -E 's/^[[:space:]]*[-•][[:space:]]*(D[12]\.[0-9]+)/\1/' "$FILE"
+
+egrep -n "^D[12]\.[0-9]+" "$FILE" | head
+
+
+---
+
+## Strand E: Geometry and Measurement
+
+printf "\n## Strand E: Geometry and Measurement\n\n" >> "$FILE"
+pbpaste >> "$FILE"
+printf "\n\n---\n" >> "$FILE"
+
+sed -i '' -E 's/^\*\*(E1\.[0-9]+)\*\*/\1/' "$FILE"
+sed -i '' -E 's/^[[:space:]]*[-•][[:space:]]*(E1\.[0-9]+)/\1/' "$FILE"
+
+egrep -n "^E1\.[0-9]+" "$FILE" | head
+
+
+---
+
+## Strand F: Financial Literacy
+
 printf "\n## Strand F: Financial Literacy\n\n" >> "$FILE"
 pbpaste >> "$FILE"
 printf "\n\n---\n" >> "$FILE"
+
 sed -i '' -E 's/^\*\*(F1\.[0-9]+)\*\*/\1/' "$FILE"
 sed -i '' -E 's/^[[:space:]]*[-•][[:space:]]*(F1\.[0-9]+)/\1/' "$FILE"
+
 egrep -n "^F1\.[0-9]+" "$FILE" | head
 
 
