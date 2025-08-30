@@ -31,3 +31,6 @@ Store it in a Git repo and cloud storage. If ChatGPT access is interrupted, you 
 
 ## Security
 - Avoid storing student PII here. If unavoidable, encrypt at rest (e.g., gpg, age) and never upload PII to LLMs.
+## Curriculum Maps
+- `curriculum/ontario/maps/gradeX_math.md`
+- `curriculum/ontario/maps/gradeX_language.md`
