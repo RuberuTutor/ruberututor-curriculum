@@ -8,3 +8,7 @@ Icon?
 .dropbox*
 Icon?
 Thumbs.db
+
+# Local backups
+*.bak.*
+*.tmp
