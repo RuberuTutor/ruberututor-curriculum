@@ -12,3 +12,7 @@ Thumbs.db
 # Local backups
 *.bak.*
 *.tmp
+
+# Local backups
+*.bak.*
+*.tmp

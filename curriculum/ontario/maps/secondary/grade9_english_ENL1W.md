@@ -200,3 +200,26 @@ D3.1 select appropriate media, techniques, and tools to publish and present fina
 D3.2 present and share texts clearly and effectively, using appropriate techniques to engage audiences  
 
 D3.3 evaluate and reflect on the effectiveness of their texts in meeting their purposes and addressing various topics  
+
+---
+
+# Planning
+
+## Worksheets (vA–vD)
+| Unit | Strand | Expectations | Variant(s) | Path |
+|------|--------|--------------|------------|------|
+|      | A | A1.x–A3.x | vA / vB / vC / vD | materials/worksheets/english/grade9/… |
+|      | B | B1.1–B3.3 | vA / vB / vC / vD | materials/worksheets/english/grade9/… |
+|      | C | C1.1–C3.x | vA / vB / vC / vD | materials/worksheets/english/grade9/… |
+|      | D | D1.1–D3.x | vA / vB / vC / vD | materials/worksheets/english/grade9/… |
+
+## Assessments (vA–vD)
+| Type | Strand | Expectations | Variant | Path |
+|------|--------|--------------|---------|------|
+| Quiz/Task | A | A1.x–A3.x | vA–vD | materials/assessments/english/grade9/… |
+| Quiz/Task | B | B1.1–B3.3 | vA–vD | materials/assessments/english/grade9/… |
+| Quiz/Task | C | C1.1–C3.x | vA–vD | materials/assessments/english/grade9/… |
+| Quiz/Task | D | D1.1–D3.x | vA–vD | materials/assessments/english/grade9/… |
+
+# Changelog
+- 2025-08-30: Populated from official ENL1W (2023) PDF; strands reordered A→B→C→D; codes validated.

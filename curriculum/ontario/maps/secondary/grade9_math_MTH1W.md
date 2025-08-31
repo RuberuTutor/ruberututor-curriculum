@@ -190,3 +190,32 @@ F1.1 identify a past or current financial situation and explain how it can infor
 F1.2 identify financial situations that involve appreciation and depreciation, and use associated graphs to answer related questions  
 F1.3 compare the effects that different interest rates, lengths of borrowing time, ways in which interest is calculated, and amounts of down payments have on the overall costs associated with purchasing goods or services, using appropriate tools  
 F1.4 modify budgets displayed in various ways to reflect specific changes in circumstances, and provide a rationale for the modifications  
+
+---
+
+# Planning
+
+## Worksheets (vA–vD)
+| Unit | Strand | Expectations | Variant(s) | Path |
+|------|--------|--------------|------------|------|
+|      | AA | AA1.1–AA1.4 | vA / vB / vC / vD | materials/worksheets/math/grade9/… |
+|      | A  | A1.x–A2.x     | vA / vB / vC / vD | materials/worksheets/math/grade9/… |
+|      | B  | B1.1–B3.5     | vA / vB / vC / vD | materials/worksheets/math/grade9/… |
+|      | C  | C1.1–C4.4     | vA / vB / vC / vD | materials/worksheets/math/grade9/… |
+|      | D  | D1.1–D2.5     | vA / vB / vC / vD | materials/worksheets/math/grade9/… |
+|      | E  | E1.1–E1.6     | vA / vB / vC / vD | materials/worksheets/math/grade9/… |
+|      | F  | F1.1–F1.4     | vA / vB / vC / vD | materials/worksheets/math/grade9/… |
+
+## Assessments (vA–vD)
+| Type | Strand | Expectations | Variant | Path |
+|------|--------|--------------|---------|------|
+| Quiz/Task | AA | AA1.1–AA1.4 | vA–vD | materials/assessments/math/grade9/… |
+| Quiz/Task | A  | A1.x–A2.x    | vA–vD | materials/assessments/math/grade9/… |
+| Quiz/Task | B  | B1.1–B3.5    | vA–vD | materials/assessments/math/grade9/… |
+| Quiz/Task | C  | C1.1–C4.4    | vA–vD | materials/assessments/math/grade9/… |
+| Quiz/Task | D  | D1.1–D2.5    | vA–vD | materials/assessments/math/grade9/… |
+| Quiz/Task | E  | E1.1–E1.6    | vA–vD | materials/assessments/math/grade9/… |
+| Quiz/Task | F  | F1.1–F1.4    | vA–vD | materials/assessments/math/grade9/… |
+
+# Changelog
+- 2025-08-30: Populated from official MTH1W (2021) Word doc; strand order AA→A→B→C→D→E→F; codes validated.
