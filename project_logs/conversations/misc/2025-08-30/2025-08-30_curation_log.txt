@@ -1,0 +1,1 @@
+Created ENL1W map from official PDF; captured all found expectations verbatim; flagged a few items for exact-text extraction (A-overalls, A2.5–A2.7, A3 specifics, B1 overalls+specifics, C2.4–C2.7, C3 block, all D overalls+specifics). Source: ENL1W PDF (2023).
