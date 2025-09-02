@@ -1,3 +1,7 @@
+### Strand F — Financial Literacy
+
+- **F1.1**: describe the factors that influence financial decisions, and explain the impact of those decisions on individuals, families, and communities
+- **F1.2**: make informed financial decisions by analysing costs, benefits, and potential risks, using appropriate tools and strategies
 ### Strand E — Geometry and Measurement
 
 - **E1.1**: demonstrate an understanding of the Pythagorean relationship, and apply it to solve problems
