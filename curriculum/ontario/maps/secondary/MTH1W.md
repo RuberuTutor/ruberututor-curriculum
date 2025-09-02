@@ -1,3 +1,12 @@
+### Strand C — Algebra
+
+- **C1.1**: demonstrate an understanding of the development of algebra, and make connections between algebra and numbers, using various tools and representations
+- **C1.2**: apply coding skills to represent mathematical concepts and relationships, and to solve problems, in algebra and across the other strands
+- **C2.1**: expand and simplify polynomial expressions, and solve problems that involve polynomial equations in one variable
+- **C2.2**: solve first-degree equations, including those involving rational expressions, and solve first-degree inequalities
+- **C3.1**: compare linear and non-linear relations using their different representations, and solve problems involving those relations
+- **C3.2**: determine the characteristics of various representations of linear and non-linear relations, and use these characteristics to solve problems
+- **C4.1**: solve problems by modelling linear and non-linear relations, using tools and strategies such as tables of values, graphs, and equations
 ### Strand B — Number
 
 - **B1.1**: demonstrate an understanding of the development of the real number system, including rational and irrational numbers, and describe associated concepts
