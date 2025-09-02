@@ -1,3 +1,8 @@
+### Strand E — Geometry and Measurement
+
+- **E1.1**: demonstrate an understanding of the Pythagorean relationship, and apply it to solve problems
+- **E1.2**: solve problems involving the surface area and volume of three-dimensional objects, and involving the area and perimeter of two-dimensional shapes, in various contexts
+- **E1.3**: apply geometric and measurement relationships to solve problems involving similar triangles, right triangles, and trigonometry in real-life situations
 ### Strand D — Data
 
 - **D1.1**: describe the collection and use of data, and represent and analyse data involving one variable
