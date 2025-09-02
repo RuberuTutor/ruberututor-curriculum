@@ -16,3 +16,8 @@ Thumbs.db
 # Local backups
 *.bak.*
 *.tmp
+*.save
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
