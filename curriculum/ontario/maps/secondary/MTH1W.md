@@ -1,3 +1,13 @@
+## 4) Planning Tables
+
+### 4.1 Worksheet Plan (by Specific Expectation)
+| Code  | Brief Skill/Focus | Worksheet ID | Version | Notes |
+|------:|-------------------|--------------|---------|-------|
+
+### 4.2 Assessment Plan (whole grade)
+| Assessment ID | Subject | Grade | Versions | Coverage | Notes |
+|---------------|---------|-------|----------|----------|-------|
+| AS-M9         | Math    | 9     | 1        | Strands A–F | Placement diagnostic |
 ### Strand F — Financial Literacy
 
 - **F1.1**: describe the factors that influence financial decisions, and explain the impact of those decisions on individuals, families, and communities
