@@ -1,3 +1,8 @@
+### Strand D — Data
+
+- **D1.1**: describe the collection and use of data, and represent and analyse data involving one variable
+- **D1.2**: analyse data involving two variables, using mathematical processes and appropriate tools, and describe relationships
+- **D2.1**: apply the process of mathematical modelling to represent, analyse, and make predictions about real-life situations, using data and mathematical concepts from other strands
 ### Strand C — Algebra
 
 - **C1.1**: demonstrate an understanding of the development of algebra, and make connections between algebra and numbers, using various tools and representations
