@@ -17,6 +17,9 @@
 | C3.1 | Comparing linear vs non-linear relations | WS-M9-012 | vA–vD | graph interpretation |
 | C3.2 | Characteristics of linear & non-linear relations | WS-M9-013 | vA–vD | word problems + graphs |
 | C4.1 | Modelling relations with tables, graphs, equations | WS-M9-014 | vA–vD | applied problem-solving |
+| D1.1 | Collecting & using one-variable data | WS-M9-015 | vA–vD | data tables + charts |
+| D1.2 | Analyzing two-variable data | WS-M9-016 | vA–vD | scatter plots & correlations |
+| D2.1 | Mathematical modelling with data | WS-M9-017 | vA–vD | prediction & interpretation |
 
 
 ### 4.2 Assessment Plan (whole grade)
