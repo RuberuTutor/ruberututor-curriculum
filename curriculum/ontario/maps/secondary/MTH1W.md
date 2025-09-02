@@ -1,3 +1,12 @@
+### Strand B — Number
+
+- **B1.1**: demonstrate an understanding of the development of the real number system, including rational and irrational numbers, and describe associated concepts
+- **B1.2**: represent numbers in various forms, such as fractions, decimals, percentages, and radicals, and describe the relationships among these representations
+- **B2.1**: apply the properties of powers, including the exponent rules, to simplify numerical expressions
+- **B2.2**: evaluate numerical expressions involving integer and rational exponents, including those expressed as radicals
+- **B2.3**: solve problems involving powers and radicals, including the use of scientific notation
+- **B3.1**: solve problems involving ratios, rates, percentages, and proportions, including problems involving scale factors
+- **B3.2**: apply proportional reasoning in various contexts, including financial contexts and unit analysis
 ### Strand A — Mathematical Thinking and Making Connections
 
 - **A1.1**: use mathematical processes to identify, extend, create, and analyse patterns; make and describe conjectures; test, verify, and refine conjectures; and justify and communicate thinking
