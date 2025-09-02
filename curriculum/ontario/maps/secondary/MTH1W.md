@@ -3,6 +3,14 @@
 ### 4.1 Worksheet Plan (by Specific Expectation)
 | Code  | Brief Skill/Focus | Worksheet ID | Version | Notes |
 |------:|-------------------|--------------|---------|-------|
+| B1.1 | Real number system, rational & irrational numbers | WS-M9-001 | vA–vD | classification exercises |
+| B1.2 | Converting between forms (fractions, decimals, radicals) | WS-M9-002 | vA–vD | scaffold with examples |
+| B2.1 | Exponent laws (integer exponents) | WS-M9-003 | vA–vD | step-by-step practice |
+| B2.2 | Expressions with rational exponents & radicals | WS-M9-004 | vA–vD | calculator & manual |
+| B2.3 | Scientific notation, powers & radicals in context | WS-M9-005 | vA–vD | applied word problems |
+| B3.1 | Ratios, rates, percentages, proportions | WS-M9-006 | vA–vD | includes scale factors |
+| B3.2 | Proportional reasoning in real contexts | WS-M9-007 | vA–vD | financial + unit analysis |
+
 
 ### 4.2 Assessment Plan (whole grade)
 | Assessment ID | Subject | Grade | Versions | Coverage | Notes |
