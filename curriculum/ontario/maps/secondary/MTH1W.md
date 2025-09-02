@@ -10,6 +10,13 @@
 | B2.3 | Scientific notation, powers & radicals in context | WS-M9-005 | vA–vD | applied word problems |
 | B3.1 | Ratios, rates, percentages, proportions | WS-M9-006 | vA–vD | includes scale factors |
 | B3.2 | Proportional reasoning in real contexts | WS-M9-007 | vA–vD | financial + unit analysis |
+| C1.1 | History & development of algebra, making connections | WS-M9-008 | vA–vD | includes coding tie-in |
+| C1.2 | Coding skills to model algebraic relationships | WS-M9-009 | vA–vD | computer-based tasks |
+| C2.1 | Expanding & simplifying polynomials | WS-M9-010 | vA–vD | step-by-step exercises |
+| C2.2 | Solving linear equations & inequalities | WS-M9-011 | vA–vD | include rational expressions |
+| C3.1 | Comparing linear vs non-linear relations | WS-M9-012 | vA–vD | graph interpretation |
+| C3.2 | Characteristics of linear & non-linear relations | WS-M9-013 | vA–vD | word problems + graphs |
+| C4.1 | Modelling relations with tables, graphs, equations | WS-M9-014 | vA–vD | applied problem-solving |
 
 
 ### 4.2 Assessment Plan (whole grade)
