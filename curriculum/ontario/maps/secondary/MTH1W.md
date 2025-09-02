@@ -1,3 +1,8 @@
+### Strand A — Mathematical Thinking and Making Connections
+
+- **A1.1**: use mathematical processes to identify, extend, create, and analyse patterns; make and describe conjectures; test, verify, and refine conjectures; and justify and communicate thinking
+- **A1.2**: make connections among concepts and procedures across strands, and between mathematics and other disciplines, including real-life applications
+- **A2.1**: describe and explain strategies used to make connections between mathematics and their lived experiences, cultural contexts, and various knowledge systems
 git add curriculum/ontario/maps/secondary/MTH1W.md
 git commit -m "feat(MTH1W): add map with strands + Overall Expectations filled; scaffold specifics"
 git push
