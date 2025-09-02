@@ -96,36 +96,6 @@ snapshot_doc: curriculum/ontario/snapshots/Mathematics.docx
 
 ## 3) Specific Expectations (verbatim with codes)
 
-### Strand A — Mathematical Thinking and Making Connections
-- **A1.1**: _paste verbatim text here_
-- **A1.2**: _…_
-- **A2.1**: _…_
-
-### Strand B — Number
-- **B1.1**: _…_
-- **B1.2**: _…_
-- **B2.1**: _…_
-- **B3.1**: _…_
-
-### Strand C — Algebra
-- **C1.1**: _…_
-- **C1.2**: _…_
-- **C2.1**: _…_
-- **C3.1**: _…_
-- **C4.1**: _…_
-
-### Strand D — Data
-- **D1.1**: _…_
-- **D1.2**: _…_
-- **D2.1**: _…_
-
-### Strand E — Geometry and Measurement
-- **E1.1**: _…_
-- **E1.2**: _…_
-
-### Strand F — Financial Literacy
-- **F1.1**: _…_
-- **F1.2**: _…_
 
 ## 4) Planning Tables (Worksheets & Assessments vA–vD)
 
