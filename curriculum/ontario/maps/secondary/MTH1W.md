@@ -20,6 +20,16 @@
 | D1.1 | Collecting & using one-variable data | WS-M9-015 | vA–vD | data tables + charts |
 | D1.2 | Analyzing two-variable data | WS-M9-016 | vA–vD | scatter plots & correlations |
 | D2.1 | Mathematical modelling with data | WS-M9-017 | vA–vD | prediction & interpretation |
+| E1.1 | Pythagorean theorem applications | WS-M9-018 | vA–vD | problem sets & diagrams |
+| E1.2 | Surface area & volume of 3D objects | WS-M9-019 | vA–vD | includes real-world contexts |
+| E1.3 | Area & perimeter of 2D shapes | WS-M9-020 | vA–vD | mixed practice |
+| E1.4 | Similar triangles & right triangles | WS-M9-021 | vA–vD | similarity + ratios |
+| E1.5 | Right-triangle trigonometry | WS-M9-022 | vA–vD | sin, cos, tan problems |
+| E1.6 | Trigonometry in real-life applications | WS-M9-023 | vA–vD | word problems & modelling |
+| F1.1 | Factors influencing financial decisions | WS-M9-024 | vA–vD | cost–benefit scenarios |
+| F1.2 | Making informed financial decisions | WS-M9-025 | vA–vD | risk analysis exercises |
+| F1.3 | Budgeting and saving strategies | WS-M9-026 | vA–vD | household/family contexts |
+| F1.4 | Evaluating financial products & services | WS-M9-027 | vA–vD | interest, loans, credit cards |
 
 
 ### 4.2 Assessment Plan (whole grade)
