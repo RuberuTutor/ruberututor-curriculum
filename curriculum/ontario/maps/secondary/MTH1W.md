@@ -31,11 +31,22 @@
 | F1.3 | Budgeting and saving strategies | WS-M9-026 | vA–vD | household/family contexts |
 | F1.4 | Evaluating financial products & services | WS-M9-027 | vA–vD | interest, loans, credit cards |
 
-
 ### 4.2 Assessment Plan (whole grade)
 | Assessment ID | Subject | Grade | Versions | Coverage | Notes |
 |---------------|---------|-------|----------|----------|-------|
-| AS-M9         | Math    | 9     | 1        | Strands A–F | Placement diagnostic |
+| AS-M9         | Math    | 9     | 1        | Strands A–F | One unified diagnostic test |
+
+#### Strand Coverage in AS-M9
+| Strand | Sample Expectations Assessed | Notes |
+|--------|-------------------------------|-------|
+| A — Mathematical Thinking | A1.1, A1.2, A2.1 | reasoning & problem-solving |
+| B — Number | B1.1, B2.1, B2.3, B3.2 | exponents, radicals, proportions |
+| C — Algebra | C2.1, C2.2, C3.1 | algebraic manipulation, graphs |
+| D — Data | D1.2, D2.1 | scatter plots, modelling |
+| E — Geometry & Measurement | E1.1, E1.5 | Pythagoras, trigonometry |
+| F — Financial Literacy | F1.1, F1.2 | decision-making, cost-benefit |
+
+
 ### Strand F — Financial Literacy
 
 - **F1.1**: describe the factors that influence financial decisions, and explain the impact of those decisions on individuals, families, and communities
