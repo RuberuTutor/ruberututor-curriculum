@@ -21,22 +21,22 @@ source_pdf: curriculum/ontario/Mathematics_Grade12_MHF4U_official.pdf
 ## 2) Overall Expectations (verbatim)
 
 ### Strand A — Mathematical Thinking and Making Connections
-- **A1**: _paste verbatim overall expectation here_
+- **A1**: apply the mathematical processes to develop reasoning, make connections, and solve multi-step problems in various contexts
 
 ### Strand B — Polynomial and Rational Functions
-- **B1**: _paste verbatim overall expectation here_
-- **B2**: _paste verbatim overall expectation here_
+- **B1**: demonstrate an understanding of polynomial expressions and equations, and solve related problems
+- **B2**: demonstrate an understanding of rational expressions and equations, and solve related problems
 
 ### Strand C — Exponential and Logarithmic Functions
-- **C1**: _paste verbatim overall expectation here_
-- **C2**: _paste verbatim overall expectation here_
+- **C1**: demonstrate an understanding of the properties and applications of exponential functions, and solve related problems
+- **C2**: demonstrate an understanding of the properties and applications of logarithmic functions, and solve related problems
 
 ### Strand D — Trigonometric Functions
-- **D1**: _paste verbatim overall expectation here_
-- **D2**: _paste verbatim overall expectation here_
+- **D1**: demonstrate an understanding of the properties and applications of trigonometric functions, and solve related problems
+- **D2**: solve problems involving trigonometric equations and identities, using a variety of strategies
 
 ### Strand E — Characteristics of Functions
-- **E1**: _paste verbatim overall expectation here_
+- **E1**: demonstrate an understanding of key features of functions and their representations, and apply these to compare functions and solve problems
 
 ## 3) Specific Expectations (verbatim with codes)
 
