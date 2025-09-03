@@ -60,10 +60,10 @@ source_pdf: curriculum/ontario/English_Grade11_ENL3W_official.pdf
 - **C3.1**: [paste verbatim specific expectation from the ENL3W PDF for C3.1]
 
 ### Strand D — Media Studies
-- **D1.1**: _…_
-- **D1.2**: _…_
-- **D2.1**: _…_
-- **D3.1**: _…_
+- **D1.1**: [paste verbatim expectation from ENL3W PDF for D1.1]
+- **D1.2**: [paste verbatim expectation from ENL3W PDF for D1.2]
+- **D2.1**: [paste verbatim expectation from ENL3W PDF for D2.1]
+- **D3.1**: [paste verbatim expectation from ENL3W PDF for D3.1]
 
 ## 4) Planning Tables
 
