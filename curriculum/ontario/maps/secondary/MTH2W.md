@@ -80,6 +80,9 @@ source_pdf: curriculum/ontario/Mathematics_Grade10_MTH2W_2021.pdf
 |------:|-------------------|--------------|---------|-------|
 | A1.1 | Developing, testing, and refining conjectures | WS-M10-001 | vA–vD | includes justification tasks |
 | A2.1 | Making and describing connections | WS-M10-002 | vA–vD | cross-strand and real-life links |
+| B1.1 | Properties of real numbers (rational & irrational) | WS-M10-003 | vA–vD | classification & examples |
+| B2.1 | Simplifying expressions with exponents & radicals | WS-M10-004 | vA–vD | step-by-step exercises |
+| B2.2 | Problem-solving with powers, radicals, scientific notation | WS-M10-005 | vA–vD | applied contexts |
 
 ### 4.2 Assessment Plan (whole grade)
 | Assessment ID | Subject | Grade | Versions | Coverage | Notes |
