@@ -24,15 +24,14 @@ source_pdf: curriculum/ontario/English_Grade10_ENL2W_official.pdf
 - **A3**: make connections between their literacy learning and diverse voices, perspectives, and knowledge systems, including those of First Nations, Métis, and Inuit communities
 
 ### Strand B — Reading and Literature Studies
-### Strand B — Reading and Literature Studies
 - **B1**: read, understand, and interpret a range of literary texts from diverse cultures and perspectives, using a variety of strategies to construct meaning
 - **B2**: recognize a variety of text forms, text features, and stylistic elements, and demonstrate understanding of how they communicate meaning
 - **B3**: analyse perspectives, values, and issues presented in texts, and make connections to their own lived experiences and to those of diverse communities, including First Nations, Métis, and Inuit
 
 ### Strand C — Writing
-- **C1**: _paste verbatim overall expectation here_
-- **C2**: _paste verbatim overall expectation here_
-- **C3**: _paste verbatim overall expectation here_
+- **C1**: generate, gather, and organize ideas and information to write for an intended purpose and audience
+- **C2**: draft and revise writing, using a variety of forms, conventions, and stylistic elements appropriate for the purpose and audience
+- **C3**: use editing, proofreading, and publishing skills and strategies, and knowledge of language conventions, to improve expression and communicate clearly
 
 ### Strand D — Media Studies
 - **D1**: _paste verbatim overall expectation here_
