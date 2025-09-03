@@ -41,10 +41,10 @@ source_pdf: curriculum/ontario/English_Grade9_ENL1W_2023.pdf
 - **C2.1**: draft and revise written work using appropriate forms, conventions, and stylistic elements for clarity and effect
 - **C3.1**: edit, proofread, and publish writing using knowledge of language conventions and tools to improve accuracy and presentation
 
-
 ### Strand D — Media Studies
-- **D1**: demonstrate an understanding of a variety of media texts and how they are constructed for specific purposes and audiences
-- **D2**: create a variety of media texts for different purposes and audiences, using appropriate forms, conventions, and techniques
+- **D1.1**: identify purpose and audience in a variety of media texts, and explain how choices in form, conventions, and techniques influence meaning
+- **D2.1**: plan, create, and refine media texts for different purposes and audiences, using appropriate forms, conventions, and techniques, and reflect on the impact of their choices
+
 
 
 ## 4) Planning Tables
