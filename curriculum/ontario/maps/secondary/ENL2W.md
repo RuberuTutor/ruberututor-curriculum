@@ -58,10 +58,10 @@ source_pdf: curriculum/ontario/English_Grade10_ENL2W_official.pdf
 - **C3.1**: edit, proofread, and publish writing, applying language conventions and using tools to improve accuracy and presentation
 
 ### Strand D — Media Studies
-- **D1.1**: _…_
-- **D1.2**: _…_
-- **D2.1**: _…_
-- **D3.1**: _…_
+- **D1.1**: identify purpose and audience in a variety of media texts, and explain how conventions and techniques influence meaning
+- **D1.2**: analyse how media texts reflect and shape perspectives, values, and issues in society
+- **D2.1**: create a variety of media texts for different purposes and audiences, using appropriate forms, conventions, and techniques
+- **D3.1**: reflect on their own media consumption and production practices, and explain how these practices influence their understanding of themselves and others
 
 ## 4) Planning Tables
 
