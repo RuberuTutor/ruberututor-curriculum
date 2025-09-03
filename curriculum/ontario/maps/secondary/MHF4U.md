@@ -76,6 +76,18 @@ source_pdf: curriculum/ontario/Mathematics_Grade12_MHF4U_official.pdf
 - **E1.2**: analyse and interpret transformations of functions
 - **E1.3**: solve problems by applying knowledge of multiple functions to a single context
 
+## 3) Specific Expectations
+### Strand A
+- [TBD]
+### Strand B
+- [TBD]
+### Strand C
+- [TBD]
+### Strand D
+- [TBD]
+### Strand E
+- [TBD]
+
 ## 4) Planning Tables
 
 ### 4.1 Worksheet Plan (by Specific Expectation)
