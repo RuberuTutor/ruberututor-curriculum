@@ -47,9 +47,11 @@ source_pdf: curriculum/ontario/Mathematics_Grade11_MCR3U_official.pdf
 - **B2.2**: apply algebraic techniques to model and solve problems in real-life situations
 
 ### Strand C — Functions
-- **C1.1**: _…_
-- **C2.1**: _…_
-- **C3.1**: _…_
+- **C1.1**: describe the characteristics (domain, range, intercepts, increasing/decreasing intervals) of linear, quadratic, and polynomial functions
+- **C1.2**: make connections among the algebraic, graphical, and numerical representations of functions
+- **C2.1**: model real-life situations with linear, quadratic, and polynomial functions, and interpret the solutions
+- **C2.2**: solve problems using transformations and combinations of functions (sum, difference, composition)
+- **C3.1**: analyse and compare functions using multiple representations to identify key features and draw conclusions
 
 ### Strand D — Financial Applications of Functions
 - **D1.1**: _…_
