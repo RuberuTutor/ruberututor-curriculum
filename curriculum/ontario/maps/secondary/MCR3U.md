@@ -38,7 +38,7 @@ source_pdf: curriculum/ontario/Mathematics_Grade11_MCR3U_official.pdf
 ## 3) Specific Expectations (verbatim with codes)
 
 ### Strand A — Mathematical Thinking and Making Connections
-- **A1.1**: _…_
+- **A1.1**: apply mathematical processes (e.g., problem solving, reasoning, communication) to make and evaluate conjectures, justify conclusions, and connect concepts across strands and to real-life contexts
 
 ### Strand B — Number & Algebra
 - **B1.1**: _…_
