@@ -74,6 +74,18 @@ source_pdf: curriculum/ontario/English_Grade11_ENL3W_official.pdf
 | A1.2 | Applying transferable skills in literacy tasks | WS-E11-002 | vA–vD | cross-disciplinary practice |
 | A2.1 | Safe and ethical online research & communication | WS-E11-003 | vA–vD | digital citizenship |
 | A3.1 | Making connections to diverse voices & perspectives | WS-E11-004 | vA–vD | Indigenous, global, workplace contexts |
+| B1.1 | Comprehension of complex literary texts | WS-E11-005 | vA–vD | novels, plays, poetry |
+| B1.2 | Thematic & perspective analysis | WS-E11-006 | vA–vD | evidence-based discussion |
+| B2.1 | Forms, features, stylistic elements | WS-E11-007 | vA–vD | figurative language & rhetoric |
+| B3.1 | Evaluating perspectives & values | WS-E11-008 | vA–vD | connections to self & world |
+| C1.1 | Generating & organizing ideas | WS-E11-009 | vA–vD | brainstorming, outlines |
+| C1.2 | Writing for different purposes & audiences | WS-E11-010 | vA–vD | literary, informational, graphic forms |
+| C2.1 | Drafting & revising writing | WS-E11-011 | vA–vD | peer & teacher feedback |
+| C3.1 | Editing, proofreading & publishing | WS-E11-012 | vA–vD | grammar, usage, conventions |
+| D1.1 | Purpose & audience of media texts | WS-E11-013 | vA–vD | deconstruction exercises |
+| D1.2 | Conventions & techniques in media | WS-E11-014 | vA–vD | analysis tasks |
+| D2.1 | Creating media texts | WS-E11-015 | vA–vD | form, style, audience |
+| D3.1 | Reflecting on media consumption & identity | WS-E11-016 | vA–vD | journaling & discussion |
 
 ### 4.2 Assessment Plan (whole grade)
 | Assessment ID | Subject | Grade | Versions | Coverage | Notes |
