@@ -72,7 +72,16 @@ source_pdf: curriculum/ontario/English_Grade9_ENL1W_2023.pdf
 ### 4.2 Assessment Plan (whole grade)
 | Assessment ID | Subject | Grade | Versions | Coverage | Notes |
 |---------------|---------|-------|----------|----------|-------|
-| AS-E9         | English | 9     | 1        | Strands A–D | Placement diagnostic |
+| AS-E9         | English | 9     | 1        | Strands A–D | One unified placement diagnostic |
+
+#### Strand Coverage in AS-E9
+| Strand | Sample Expectations Assessed | Notes |
+|--------|-------------------------------|-------|
+| A — Literacy Connections | A1.1, A2.1, A3.1 | transferable skills & digital literacy |
+| B — Reading & Literature | B1.1, B2.1, B3.1 | comprehension, analysis, perspectives |
+| C — Writing | C1.1, C2.1, C3.1 | writing process, revision, conventions |
+| D — Media Studies | D1.1, D2.1 | media analysis & creation |
+
 
 ## 5) Changelog
 
