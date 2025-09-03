@@ -64,6 +64,7 @@ source_pdf: curriculum/ontario/Mathematics_Grade11_MCR3U_official.pdf
 ### 4.1 Worksheet Plan (by Specific Expectation)
 | Code  | Brief Skill/Focus | Worksheet ID | Version | Notes |
 |------:|-------------------|--------------|---------|-------|
+| A1.1 | Applying mathematical processes: conjectures, reasoning, communication | WS-M11-001 | vA–vD | across strands & real-life tasks |
 
 ### 4.2 Assessment Plan (whole grade)
 | Assessment ID | Subject | Grade | Versions | Coverage | Notes |
