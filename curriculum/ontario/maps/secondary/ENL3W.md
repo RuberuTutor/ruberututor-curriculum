@@ -20,24 +20,24 @@ source_pdf: curriculum/ontario/English_Grade11_ENL3W_official.pdf
 ## 2) Overall Expectations (verbatim)
 
 ### Strand A — Literacy Connections and Applications
-- **A1**: _paste verbatim overall expectation here_
-- **A2**: _paste verbatim overall expectation here_
-- **A3**: _paste verbatim overall expectation here_  
+- **A1**: demonstrate an understanding of transferable skills (e.g., collaboration, critical thinking, digital literacy) and apply them in various literacy contexts
+- **A2**: apply safe, responsible, and ethical practices in digital and online environments when using and creating texts
+- **A3**: make connections between their literacy learning and diverse voices, perspectives, and knowledge systems, including those of First Nations, Métis, and Inuit communities
 
 ### Strand B — Reading and Literature Studies
-- **B1**: _paste verbatim overall expectation here_
-- **B2**: _paste verbatim overall expectation here_
-- **B3**: _paste verbatim overall expectation here_  
+- **B1**: read, understand, and interpret a range of increasingly complex literary texts from diverse cultures and perspectives, making inferences and drawing conclusions
+- **B2**: analyse text forms, stylistic elements, and rhetorical devices, and explain how they contribute to meaning and audience engagement
+- **B3**: evaluate perspectives, values, and issues in texts, and make connections to self, others, and the world
 
 ### Strand C — Writing
-- **C1**: _paste verbatim overall expectation here_
-- **C2**: _paste verbatim overall expectation here_
-- **C3**: _paste verbatim overall expectation here_  
+- **C1**: generate, gather, and organize ideas and information to write for specific purposes and audiences
+- **C2**: draft and revise writing, using a variety of forms, organizational patterns, and stylistic elements to communicate clearly
+- **C3**: use editing, proofreading, and publishing skills and strategies, and apply knowledge of language conventions, to improve expression and clarity
 
 ### Strand D — Media Studies
-- **D1**: _paste verbatim overall expectation here_
-- **D2**: _paste verbatim overall expectation here_
-- **D3**: _paste verbatim overall expectation here_
+- **D1**: demonstrate an understanding of a variety of media texts and explain how they are created to influence specific audiences
+- **D2**: create media texts for different purposes and audiences, using appropriate forms, conventions, and techniques
+- **D3**: reflect on their own media consumption and production practices, and explain how these influence their understanding of themselves and others
 
 ## 3) Specific Expectations (verbatim with codes)
 
