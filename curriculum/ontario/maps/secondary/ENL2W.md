@@ -72,6 +72,10 @@ source_pdf: curriculum/ontario/English_Grade10_ENL2W_official.pdf
 | A1.2 | Applying transferable skills in literacy tasks | WS-E10-002 | vA–vD | practice across subjects |
 | A2.1 | Safe and responsible online practices | WS-E10-003 | vA–vD | digital citizenship |
 | A3.1 | Connections to diverse voices and perspectives | WS-E10-004 | vA–vD | Indigenous and global contexts |
+| B1.1 | Comprehension of diverse literary texts | WS-E10-005 | vA–vD | short stories/poems/excerpts |
+| B1.2 | Theme & perspective with text evidence | WS-E10-006 | vA–vD | PEEL / quotation integration |
+| B2.1 | Forms, features, and style → meaning | WS-E10-007 | vA–vD | figurative language & rhetoric |
+| B3.1 | Evaluating perspectives/values/issues | WS-E10-008 | vA–vD | response + connection tasks |
 
 ### 4.2 Assessment Plan (whole grade)
 | Assessment ID | Subject | Grade | Versions | Coverage | Notes |
