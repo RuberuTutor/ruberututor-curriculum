@@ -42,10 +42,10 @@ source_pdf: curriculum/ontario/English_Grade11_ENL3W_official.pdf
 ## 3) Specific Expectations (verbatim with codes)
 
 ### Strand A — Literacy Connections and Applications
-- **A1.1**: _…_
-- **A1.2**: _…_
-- **A2.1**: _…_
-- **A3.1**: _…_
+- **A1.1**: identify and explain transferable skills demonstrated in texts (e.g., collaboration, critical thinking, digital literacy)
+- **A1.2**: apply transferable skills when completing literacy tasks, and reflect on how these skills support other subjects and workplace contexts
+- **A2.1**: demonstrate safe, responsible, and ethical practices when researching, creating, and communicating in digital spaces
+- **A3.1**: make connections between literacy learning and diverse voices, perspectives, and knowledge systems, including those of First Nations, Métis, and Inuit
 
 ### Strand B — Reading and Literature Studies
 - **B1.1**: _…_
