@@ -68,6 +68,10 @@ source_pdf: curriculum/ontario/English_Grade10_ENL2W_official.pdf
 ### 4.1 Worksheet Plan (by Specific Expectation)
 | Code  | Brief Skill/Focus | Worksheet ID | Version | Notes |
 |------:|-------------------|--------------|---------|-------|
+| A1.1 | Identifying transferable skills in texts | WS-E10-001 | vA–vD | collaboration, digital literacy |
+| A1.2 | Applying transferable skills in literacy tasks | WS-E10-002 | vA–vD | practice across subjects |
+| A2.1 | Safe and responsible online practices | WS-E10-003 | vA–vD | digital citizenship |
+| A3.1 | Connections to diverse voices and perspectives | WS-E10-004 | vA–vD | Indigenous and global contexts |
 
 ### 4.2 Assessment Plan (whole grade)
 | Assessment ID | Subject | Grade | Versions | Coverage | Notes |
