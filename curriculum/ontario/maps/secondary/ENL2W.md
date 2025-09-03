@@ -34,9 +34,9 @@ source_pdf: curriculum/ontario/English_Grade10_ENL2W_official.pdf
 - **C3**: use editing, proofreading, and publishing skills and strategies, and knowledge of language conventions, to improve expression and communicate clearly
 
 ### Strand D — Media Studies
-- **D1**: _paste verbatim overall expectation here_
-- **D2**: _paste verbatim overall expectation here_
-- **D3**: _paste verbatim overall expectation here_
+- **D1**: demonstrate an understanding of a variety of media texts and explain how they are created to appeal to specific audiences and serve particular purposes
+- **D2**: create a variety of media texts for different purposes and audiences, using appropriate forms, conventions, and techniques
+- **D3**: reflect on their own media consumption and production practices, and explain how these influence their understanding of themselves and others
 
 ## 3) Specific Expectations (verbatim with codes)
 ### Strand A — Literacy Connections and Applications
