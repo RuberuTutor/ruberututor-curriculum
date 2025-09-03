@@ -78,6 +78,8 @@ source_pdf: curriculum/ontario/Mathematics_Grade10_MTH2W_2021.pdf
 ### 4.1 Worksheet Plan (by Specific Expectation)
 | Code  | Brief Skill/Focus | Worksheet ID | Version | Notes |
 |------:|-------------------|--------------|---------|-------|
+| A1.1 | Developing, testing, and refining conjectures | WS-M10-001 | vA–vD | includes justification tasks |
+| A2.1 | Making and describing connections | WS-M10-002 | vA–vD | cross-strand and real-life links |
 
 ### 4.2 Assessment Plan (whole grade)
 | Assessment ID | Subject | Grade | Versions | Coverage | Notes |
