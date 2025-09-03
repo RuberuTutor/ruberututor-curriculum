@@ -62,6 +62,10 @@ source_pdf: curriculum/ontario/English_Grade9_ENL1W_2023.pdf
 | B2.1 | Text forms, features, and stylistic elements | WS-E9-006 | vA–vD | literary + informational |
 | B3.1 | Evaluating perspectives/values; making connections | WS-E9-007 | vA–vD | personal & community links |
 
+| C1.1 | Generating & organizing ideas for writing | WS-E9-008 | vA–vD | graphic organizers |
+| C2.1 | Drafting & revising written work | WS-E9-009 | vA–vD | focus on clarity & audience |
+| C3.1 | Editing, proofreading, and publishing | WS-E9-010 | vA–vD | grammar, style, conventions |
+
 ### 4.2 Assessment Plan (whole grade)
 | Assessment ID | Subject | Grade | Versions | Coverage | Notes |
 |---------------|---------|-------|----------|----------|-------|
