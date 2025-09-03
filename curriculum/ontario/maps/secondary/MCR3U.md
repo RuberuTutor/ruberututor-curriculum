@@ -74,6 +74,10 @@ source_pdf: curriculum/ontario/Mathematics_Grade11_MCR3U_official.pdf
 | C2.1 | Modelling real-life with linear, quadratic, polynomial functions | WS-M11-008 | vA–vD | applied word problems |
 | C2.2 | Transformations & combinations of functions | WS-M11-009 | vA–vD | sum, difference, composition |
 | C3.1 | Analysing & comparing functions across representations | WS-M11-010 | vA–vD | reasoning & communication |
+| D1.1 | Simple vs. compound interest | WS-M11-011 | vA–vD | tables, graphs, formulas |
+| D1.2 | Saving & investing strategies (future value, contributions) | WS-M11-012 | vA–vD | scenarios & comparisons |
+| D2.1 | Loans & debt repayment (mortgages, car loans) | WS-M11-013 | vA–vD | amortization schedules |
+| D2.2 | Financial decision analysis (taxes, fees, inflation) | WS-M11-014 | vA–vD | case studies & modelling |
 
 ### 4.2 Assessment Plan (whole grade)
 | Assessment ID | Subject | Grade | Versions | Coverage | Notes |
