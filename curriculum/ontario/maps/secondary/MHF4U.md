@@ -82,6 +82,44 @@ source_pdf: curriculum/ontario/Mathematics_Grade12_MHF4U_official.pdf
 | Code  | Brief Skill/Focus | Worksheet ID | Version | Notes |
 |------:|-------------------|--------------|---------|-------|
 
+### Strand A — Mathematical Thinking and Making Connections
+| A1.1 | Applying processes across function types | WS-M12-001 | vA–vD | multi-step problem solving |
+| A1.2 | Making conjectures & justifying conclusions | WS-M12-002 | vA–vD | reasoning tasks |
+| A1.3 | Connecting math concepts to real-life | WS-M12-003 | vA–vD | cross-strand activities |
+
+### Strand B — Polynomial and Rational Functions
+| B1.1 | Expanding, simplifying, solving polynomials | WS-M12-004 | vA–vD | algebraic practice |
+| B1.2 | Graphing polynomial functions | WS-M12-005 | vA–vD | intercepts, turning points |
+| B1.3 | Polynomial modelling problems | WS-M12-006 | vA–vD | real-life contexts |
+| B2.1 | Simplifying rational expressions | WS-M12-007 | vA–vD | restrictions included |
+| B2.2 | Solving rational equations | WS-M12-008 | vA–vD | algebraic + graphical |
+| B2.3 | Graphing rational functions | WS-M12-009 | vA–vD | asymptotes & behaviour |
+| B2.4 | Rational function modelling | WS-M12-010 | vA–vD | applied contexts |
+
+### Strand C — Exponential and Logarithmic Functions
+| C1.1 | Exponential properties & equations | WS-M12-011 | vA–vD | simplify & solve |
+| C1.2 | Graphing exponential functions | WS-M12-012 | vA–vD | domain, range, asymptotes |
+| C1.3 | Solving exponential equations | WS-M12-013 | vA–vD | algebraic & graphical |
+| C1.4 | Exponential growth & decay models | WS-M12-014 | vA–vD | applications |
+| C2.1 | Properties of logarithms | WS-M12-015 | vA–vD | base conversions |
+| C2.2 | Laws of logarithms | WS-M12-016 | vA–vD | simplify expressions |
+| C2.3 | Graphing logarithmic functions | WS-M12-017 | vA–vD | domain, range, asymptotes |
+| C2.4 | Solving logarithmic equations | WS-M12-018 | vA–vD | algebraic & graphical |
+| C2.5 | Real-world logarithmic models | WS-M12-019 | vA–vD | pH, Richter, decibels |
+
+### Strand D — Trigonometric Functions
+| D1.1 | Radian measure conversions | WS-M12-020 | vA–vD | degrees ↔ radians |
+| D1.2 | Graphing trig functions | WS-M12-021 | vA–vD | amplitude, period, shifts |
+| D1.3 | Modelling with trig functions | WS-M12-022 | vA–vD | applied problems |
+| D2.1 | Solving trig equations | WS-M12-023 | vA–vD | special angles, radians |
+| D2.2 | Trigonometric identities | WS-M12-024 | vA–vD | verify & apply |
+| D2.3 | Real-life trig modelling | WS-M12-025 | vA–vD | applications |
+
+### Strand E — Characteristics of Functions
+| E1.1 | Comparing functions (poly, rational, exp, log, trig) | WS-M12-026 | vA–vD | table & graph tasks |
+| E1.2 | Analysing transformations of functions | WS-M12-027 | vA–vD | shift, stretch, reflection |
+| E1.3 | Applying multiple function types | WS-M12-028 | vA–vD | mixed problems |
+
 ### 4.2 Assessment Plan (whole grade)
 | Assessment ID | Subject | Grade | Versions | Coverage | Notes |
 |---------------|---------|-------|----------|----------|-------|
