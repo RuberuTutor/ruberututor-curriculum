@@ -50,8 +50,9 @@ source_pdf: curriculum/ontario/Mathematics_Grade10_MTH2W_2021.pdf
 - **A2.1**: make and describe connections among mathematical concepts and procedures, and between mathematics, other subject areas, and real-life contexts
 
 ### Strand B — Number
-- **B1.1**: _…_
-- **B2.1**: _…_
+- **B1.1**: demonstrate an understanding of the properties of real numbers, including rational and irrational numbers, and make connections to their development in mathematics
+- **B2.1**: apply the exponent rules for integer and rational exponents, and simplify expressions involving powers and radicals
+- **B2.2**: solve problems involving powers, radicals, and scientific notation in real-life contexts
 
 ### Strand C — Algebra
 - **C1.1**: _…_
