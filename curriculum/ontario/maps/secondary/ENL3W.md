@@ -90,15 +90,15 @@ source_pdf: curriculum/ontario/English_Grade11_ENL3W_official.pdf
 ### 4.2 Assessment Plan (whole grade)
 | Assessment ID | Subject | Grade | Versions | Coverage | Notes |
 |---------------|---------|-------|----------|----------|-------|
-| AS-E11        | English | 11    | 1        | Strands A–D | One unified placement diagnostic |
+| AS-E11        | English | 11    | 1        | Strands A–D | Unified diagnostic to identify entry-level skills |
 
 #### Strand Coverage in AS-E11
 | Strand | Sample Expectations Assessed | Notes |
 |--------|-------------------------------|-------|
-| A — Literacy Connections | A1.1, A2.1, A3.1 | transferable & digital literacy |
-| B — Reading & Literature | B1.1, B1.2, B2.1, B3.1 | comprehension & analysis |
-| C — Writing | C1.1, C2.1, C3.1 | process, revision, conventions |
-| D — Media Studies | D1.1, D1.2, D2.1, D3.1 | media analysis & creation |
+| A — Literacy Connections | A1.1, A1.2, A2.1, A3.1 | transferable skills, safe online practices |
+| B — Reading & Literature | B1.1, B1.2, B2.1, B3.1 | comprehension, analysis, perspectives |
+| C — Writing | C1.1, C1.2, C2.1, C3.1 | writing process, drafting, conventions |
+| D — Media Studies | D1.1, D1.2, D2.1, D3.1 | media analysis, creation, reflection |
 
 ## 5) Changelog
 - 2025-09-03 — Initial scaffold for ENL3W (map, planning tables, AS-E11 placeholder)
