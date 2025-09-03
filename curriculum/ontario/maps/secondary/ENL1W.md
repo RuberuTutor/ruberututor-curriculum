@@ -53,6 +53,11 @@ source_pdf: curriculum/ontario/English_Grade9_ENL1W_2023.pdf
 | Code  | Brief Skill/Focus | Worksheet ID | Version | Notes |
 |------:|-------------------|--------------|---------|-------|
 
+| A1.1 | Identifying transferable skills in texts | WS-E9-001 | vA–vD | cross-strand practice |
+| A1.2 | Applying transferable skills in literacy tasks | WS-E9-002 | vA–vD | reflection + exercises |
+| A2.1 | Safe and responsible online practices | WS-E9-003 | vA–vD | digital literacy focus |
+| A3.1 | Connections to diverse voices and perspectives | WS-E9-004 | vA–vD | Indigenous and global contexts |
+
 ### 4.2 Assessment Plan (whole grade)
 | Assessment ID | Subject | Grade | Versions | Coverage | Notes |
 |---------------|---------|-------|----------|----------|-------|
