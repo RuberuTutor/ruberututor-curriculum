@@ -23,11 +23,13 @@ source_pdf: curriculum/ontario/English_Grade9_ENL1W_2023.pdf
 - **A3**: apply language and literacy skills in cross-curricular and integrated learning, and demonstrate an understanding of, and make connections to, diverse voices, experiences, perspectives, histories, and contributions, including those of First Nations, Métis, and Inuit individuals, communities, groups, and nations
 
 ## 3) Specific Expectations (verbatim with codes)
+
 ### Strand A — Literacy Connections and Applications
-- **A1.1**: _…_
-- **A1.2**: _…_
-- **A2.1**: _…_
-- **A3.1**: _…_
+- **A1.1**: identify and explain how transferable skills (e.g., collaboration, digital literacy, critical thinking) are demonstrated in oral, print, and media texts
+- **A1.2**: apply transferable skills in their own literacy tasks, reflecting on how these skills support learning across subjects
+- **A2.1**: demonstrate safe and responsible online practices when researching, creating, and communicating ideas
+- **A3.1**: make connections between their literacy learning and diverse voices, perspectives, and knowledge systems, including those of First Nations, Métis, and Inuit communities
+
 
 ### Strand B — Reading and Literature Studies
 - **B1**: read, understand, and interpret a variety of literary texts, using a range of strategies to construct meaning
