@@ -95,6 +95,14 @@ source_pdf: curriculum/ontario/Mathematics_Grade11_MCR3U_official.pdf
 #### Strand Coverage in AS-M11
 | Strand | Sample Expectations Assessed | Notes |
 |--------|-------------------------------|-------|
+| A — Mathematical Thinking | A1.1 | reasoning, conjectures, justification |
+| B — Number & Algebra | B1.1, B1.2, B2.1 | simplifying, solving, modelling |
+| C — Functions | C1.1, C2.1, C2.2, C3.1 | characteristics, modelling, transformations |
+| D — Financial Applications | D1.1, D1.2, D2.1 | compound interest, saving, loans |
+
+#### Strand Coverage in AS-M11
+| Strand | Sample Expectations Assessed | Notes |
+|--------|-------------------------------|-------|
 | A — Mathematical Thinking | A1.1 | reasoning & problem solving |
 | B — Number & Algebra | B1.1, B2.1 | number properties, algebra |
 | C — Functions | C1.1, C2.1, C3.1 | linear, quadratic, polynomial |
