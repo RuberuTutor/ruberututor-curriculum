@@ -70,8 +70,8 @@ source_pdf: curriculum/ontario/Mathematics_Grade10_MTH2W_2021.pdf
 - **E2.1**: solve problems involving perimeter, area, surface area, and volume of 2D and 3D figures, in exact and approximate forms
 
 ### Strand F — Financial Literacy
-- **F1.1**: _…_
-- **F2.1**: _…_
+- **F1.1**: describe factors that influence financial decisions, and explain the impact of these decisions on individuals, families, and communities
+- **F1.2**: make informed financial decisions by comparing costs and benefits of saving, investing, borrowing, and spending
 
 ## 4) Planning Tables
 
