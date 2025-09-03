@@ -23,8 +23,8 @@ source_pdf: curriculum/ontario/Mathematics_Grade11_MCR3U_official.pdf
 - **A1**: use mathematical processes to develop reasoning, solve problems, make connections, and communicate ideas across strands and in real-life contexts
 
 ### Strand B — Number & Algebra
-- **B1**: _paste verbatim overall expectation here_
-- **B2**: _paste verbatim overall expectation here_
+- **B1**: demonstrate an understanding of the properties of real numbers and algebraic expressions, and apply them in various contexts
+- **B2**: use algebraic techniques to simplify expressions, solve equations and inequalities, and model situations
 
 ### Strand C — Functions
 - **C1**: _paste verbatim overall expectation here_
