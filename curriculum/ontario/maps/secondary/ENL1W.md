@@ -1,0 +1,59 @@
+---
+course: ENL1W
+grade: 9
+subject: English
+stream: De-streamed
+stage: Secondary Curriculum Mapping (Stage 5)
+source_pdf: curriculum/ontario/English_Grade9_ENL1W_2023.pdf
+---
+
+# Grade 9 English (ENL1W)
+
+## 1) Strands Overview
+- Strand A: Literacy Connections and Applications
+- Strand B: Reading and Literature Studies
+- Strand C: Writing
+- Strand D: Media Studies
+
+## 2) Overall Expectations (verbatim)
+
+### Strand A — Literacy Connections and Applications
+- **A1**: demonstrate an understanding of how the seven transferable skills (critical thinking and problem solving; innovation, creativity, and entrepreneurship; self-directed learning; collaboration; communication; global citizenship and sustainability; and digital literacy) are used in various language and literacy contexts
+- **A2**: demonstrate and apply the knowledge and skills needed to interact safely and responsibly in online environments, use digital and media tools to construct knowledge, and demonstrate learning as critical consumers and creators of media
+- **A3**: apply language and literacy skills in cross-curricular and integrated learning, and demonstrate an understanding of, and make connections to, diverse voices, experiences, perspectives, histories, and contributions, including those of First Nations, Métis, and Inuit individuals, communities, groups, and nations
+
+## 3) Specific Expectations (verbatim with codes)
+### Strand A — Literacy Connections and Applications
+- **A1.1**: _…_
+- **A1.2**: _…_
+- **A2.1**: _…_
+- **A3.1**: _…_
+
+### Strand B — Reading and Literature Studies
+- **B1.1**: _…_
+- **B2.1**: _…_
+- **B3.1**: _…_
+
+### Strand C — Writing
+- **C1.1**: _…_
+- **C2.1**: _…_
+- **C3.1**: _…_
+
+### Strand D — Media Studies
+- **D1.1**: _…_
+- **D2.1**: _…_
+
+## 4) Planning Tables
+
+### 4.1 Worksheet Plan (by Specific Expectation)
+| Code  | Brief Skill/Focus | Worksheet ID | Version | Notes |
+|------:|-------------------|--------------|---------|-------|
+
+### 4.2 Assessment Plan (whole grade)
+| Assessment ID | Subject | Grade | Versions | Coverage | Notes |
+|---------------|---------|-------|----------|----------|-------|
+| AS-E9         | English | 9     | 1        | Strands A–D | Placement diagnostic |
+
+## 5) Changelog
+- 2025-09-02 — Initial scaffold for ENL1W
+
