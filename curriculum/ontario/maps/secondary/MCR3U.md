@@ -20,7 +20,7 @@ source_pdf: curriculum/ontario/Mathematics_Grade11_MCR3U_official.pdf
 ## 2) Overall Expectations (verbatim)
 
 ### Strand A — Mathematical Thinking and Making Connections
-- **A1**: _paste verbatim overall expectation here_
+- **A1**: use mathematical processes to develop reasoning, solve problems, make connections, and communicate ideas across strands and in real-life contexts
 
 ### Strand B — Number & Algebra
 - **B1**: _paste verbatim overall expectation here_
