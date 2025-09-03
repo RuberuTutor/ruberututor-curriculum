@@ -1,4 +1,4 @@
-k# MCF3M — Functions and Applications
+# MCF3M — Functions and Applications
 
 stage: 6
 grade: 11
@@ -93,6 +93,5 @@ By the end of this course, students will:
 ---
 
 ## 5) Changelog
-- 2025-09-03 — Scaffold created for Stage 6 (MCF3M).
 - 2025-09-03 — Added Overall + Specific Expectations and Planning Tables.
 
