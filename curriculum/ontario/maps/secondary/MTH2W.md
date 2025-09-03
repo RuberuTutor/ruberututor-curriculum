@@ -46,8 +46,8 @@ source_pdf: curriculum/ontario/Mathematics_Grade10_MTH2W_2021.pdf
 
 ## 3) Specific Expectations (verbatim with codes)
 ### Strand A — Mathematical Thinking and Making Connections
-- **A1.1**: _…_
-- **A2.1**: _…_
+- **A1.1**: use mathematical processes to develop, test, and refine conjectures and to justify and communicate conclusions
+- **A2.1**: make and describe connections among mathematical concepts and procedures, and between mathematics, other subject areas, and real-life contexts
 
 ### Strand B — Number
 - **B1.1**: _…_
