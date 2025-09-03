@@ -76,6 +76,10 @@ source_pdf: curriculum/ontario/English_Grade10_ENL2W_official.pdf
 | B1.2 | Theme & perspective with text evidence | WS-E10-006 | vA–vD | PEEL / quotation integration |
 | B2.1 | Forms, features, and style → meaning | WS-E10-007 | vA–vD | figurative language & rhetoric |
 | B3.1 | Evaluating perspectives/values/issues | WS-E10-008 | vA–vD | response + connection tasks |
+| C1.1 | Idea generation & organization | WS-E10-009 | vA–vD | brainstorming, outlines, research notes |
+| C1.2 | Purpose, audience, and form | WS-E10-010 | vA–vD | thesis, tone, genre conventions |
+| C2.1 | Drafting & revising for clarity/coherence | WS-E10-011 | vA–vD | peer feedback + revision checklist |
+| C3.1 | Editing, proofreading, and publishing | WS-E10-012 | vA–vD | grammar, citation, layout tools |
 
 ### 4.2 Assessment Plan (whole grade)
 | Assessment ID | Subject | Grade | Versions | Coverage | Notes |
