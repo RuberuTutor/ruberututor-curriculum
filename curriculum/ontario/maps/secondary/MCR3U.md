@@ -32,8 +32,8 @@ source_pdf: curriculum/ontario/Mathematics_Grade11_MCR3U_official.pdf
 - **C3**: analyse and interpret functions in multiple representations (algebraic, graphical, numerical), and communicate reasoning
 
 ### Strand D — Financial Applications of Functions
-- **D1**: _paste verbatim overall expectation here_
-- **D2**: _paste verbatim overall expectation here_
+- **D1**: demonstrate an understanding of financial concepts and strategies related to saving, investing, borrowing, and managing money
+- **D2**: apply functions and formulas to solve problems involving compound interest, annuities, loans, and other financial contexts
 
 ## 3) Specific Expectations (verbatim with codes)
 
