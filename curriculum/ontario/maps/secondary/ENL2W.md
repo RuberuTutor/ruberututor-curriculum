@@ -80,6 +80,10 @@ source_pdf: curriculum/ontario/English_Grade10_ENL2W_official.pdf
 | C1.2 | Purpose, audience, and form | WS-E10-010 | vA–vD | thesis, tone, genre conventions |
 | C2.1 | Drafting & revising for clarity/coherence | WS-E10-011 | vA–vD | peer feedback + revision checklist |
 | C3.1 | Editing, proofreading, and publishing | WS-E10-012 | vA–vD | grammar, citation, layout tools |
+| D1.1 | Purpose & audience in media texts | WS-E10-013 | vA–vD | ads, news, film examples |
+| D1.2 | Media techniques & social impact | WS-E10-014 | vA–vD | bias, stereotypes, influence |
+| D2.1 | Creating media texts for audiences | WS-E10-015 | vA–vD | posters, podcasts, blogs |
+| D3.1 | Reflecting on media consumption & production | WS-E10-016 | vA–vD | journaling & discussion prompts |
 
 ### 4.2 Assessment Plan (whole grade)
 | Assessment ID | Subject | Grade | Versions | Coverage | Notes |
