@@ -55,8 +55,9 @@ source_pdf: curriculum/ontario/Mathematics_Grade10_MTH2W_2021.pdf
 - **B2.2**: solve problems involving powers, radicals, and scientific notation in real-life contexts
 
 ### Strand C — Algebra
-- **C1.1**: _…_
-- **C2.1**: _…_
+- **C1.1**: simplify algebraic expressions involving polynomials, and solve linear and quadratic equations in one variable
+- **C1.2**: model and solve problems using linear and quadratic relations, and interpret the solutions in real-life contexts
+- **C2.1**: use coding to represent mathematical concepts, and design simple algorithms to solve algebraic problems
 
 ### Strand D — Data
 - **D1.1**: _…_
