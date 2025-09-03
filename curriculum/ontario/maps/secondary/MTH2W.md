@@ -25,12 +25,12 @@ source_pdf: curriculum/ontario/Mathematics_Grade10_MTH2W_2021.pdf
 
 
 ### Strand B — Number
-- **B1**: _paste verbatim overall expectation here_
-- **B2**: _paste verbatim overall expectation here_
+- **B1**: demonstrate an understanding of numbers, and make connections to the development of the real number system
+- **B2**: apply properties of numbers, including powers and radicals, to solve problems
 
 ### Strand C — Algebra
-- **C1**: _paste verbatim overall expectation here_
-- **C2**: _paste verbatim overall expectation here_
+- **C1**: demonstrate an understanding of algebraic concepts by simplifying expressions, solving equations, and modelling relationships
+- **C2**: apply the process of coding to represent mathematical concepts and to solve problems involving algebra
 
 ### Strand D — Data
 - **D1**: _paste verbatim overall expectation here_
