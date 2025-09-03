@@ -59,5 +59,4 @@ source_pdf: curriculum/ontario/English_Grade9_ENL1W_2023.pdf
 | AS-E9         | English | 9     | 1        | Strands A–D | Placement diagnostic |
 
 ## 5) Changelog
-- 2025-09-03 — TEST: Demo line to confirm commit/push workflow
 
