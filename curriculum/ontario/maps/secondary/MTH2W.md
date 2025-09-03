@@ -89,6 +89,9 @@ source_pdf: curriculum/ontario/Mathematics_Grade10_MTH2W_2021.pdf
 | D1.1 | Collecting, organizing, and displaying data | WS-M10-009 | vA–vD | frequency tables & graphs |
 | D1.2 | Analyzing one- and two-variable data | WS-M10-010 | vA–vD | measures of centre & spread |
 | D2.1 | Mathematical modelling with data | WS-M10-011 | vA–vD | real-life scenarios |
+| E1.1 | Similar & congruent triangles; Pythagorean theorem | WS-M10-012 | vA–vD | proof + applied problems |
+| E1.2 | Trigonometry: sine, cosine, tangent; sine/cosine law | WS-M10-013 | vA–vD | word problems & diagrams |
+| E2.1 | Perimeter, area, surface area, volume of 2D/3D figures | WS-M10-014 | vA–vD | exact & approximate forms |
 
 ### 4.2 Assessment Plan (whole grade)
 | Assessment ID | Subject | Grade | Versions | Coverage | Notes |
