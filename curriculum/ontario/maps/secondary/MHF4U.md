@@ -38,25 +38,43 @@ source_pdf: curriculum/ontario/Mathematics_Grade12_MHF4U_official.pdf
 ### Strand E — Characteristics of Functions
 - **E1**: demonstrate an understanding of key features of functions and their representations, and apply these to compare functions and solve problems
 
-## 3) Specific Expectations (verbatim with codes)
-
 ### Strand A — Mathematical Thinking and Making Connections
-- **A1.1**: _…_
+- **A1.1**: use mathematical processes to solve problems involving polynomial, rational, exponential, logarithmic, and trigonometric functions
+- **A1.2**: make and evaluate conjectures, justify conclusions, and communicate reasoning clearly
+- **A1.3**: connect concepts and procedures across strands and to real-life contexts
 
 ### Strand B — Polynomial and Rational Functions
-- **B1.1**: _…_
-- **B2.1**: _…_
+- **B1.1**: expand and simplify polynomial expressions, and solve polynomial equations
+- **B1.2**: graph polynomial functions, identifying key features such as zeros, end behaviour, and turning points
+- **B1.3**: apply polynomial models to solve problems in real contexts
+- **B2.1**: simplify rational expressions, identifying restrictions on the variable
+- **B2.2**: solve rational equations, and verify solutions
+- **B2.3**: graph rational functions, identifying asymptotes, intercepts, and behaviour
+- **B2.4**: apply rational function models to solve problems
 
 ### Strand C — Exponential and Logarithmic Functions
-- **C1.1**: _…_
-- **C2.1**: _…_
+- **C1.1**: demonstrate an understanding of the properties of exponential expressions and equations
+- **C1.2**: graph exponential functions, identifying domain, range, and asymptotes
+- **C1.3**: solve exponential equations using algebraic and graphical strategies
+- **C1.4**: apply exponential models to represent and solve growth and decay problems
+- **C2.1**: demonstrate an understanding of the properties of logarithms and the relationship between logarithms and exponents
+- **C2.2**: evaluate logarithmic expressions and simplify using laws of logarithms
+- **C2.3**: graph logarithmic functions, identifying domain, range, and asymptotes
+- **C2.4**: solve logarithmic equations, algebraically and graphically
+- **C2.5**: apply logarithmic models to real-life contexts (e.g., pH, Richter scale)
 
 ### Strand D — Trigonometric Functions
-- **D1.1**: _…_
-- **D2.1**: _…_
+- **D1.1**: demonstrate an understanding of radian measure, and convert between radians and degrees
+- **D1.2**: graph sine, cosine, and tangent functions, identifying amplitude, period, phase shift, and vertical shift
+- **D1.3**: model and solve problems involving trigonometric functions
+- **D2.1**: solve trigonometric equations involving special angles, in degrees and radians
+- **D2.2**: verify and apply trigonometric identities
+- **D2.3**: apply trigonometric models to real-world problems
 
 ### Strand E — Characteristics of Functions
-- **E1.1**: _…_
+- **E1.1**: compare properties of functions (e.g., polynomial, rational, exponential, logarithmic, trigonometric) represented in different ways
+- **E1.2**: analyse and interpret transformations of functions
+- **E1.3**: solve problems by applying knowledge of multiple functions to a single context
 
 ## 4) Planning Tables
 
