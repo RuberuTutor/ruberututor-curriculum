@@ -69,6 +69,11 @@ source_pdf: curriculum/ontario/Mathematics_Grade11_MCR3U_official.pdf
 | B1.2 | Solve linear & quadratic equations | WS-M11-003 | vA–vD | check by substitution/graph |
 | B2.1 | Solve inequalities & systems | WS-M11-004 | vA–vD | algebraic + graphical methods |
 | B2.2 | Model with algebra in contexts | WS-M11-005 | vA–vD | word problems → equations |
+| C1.1 | Characteristics of functions (domain, range, intercepts, intervals) | WS-M11-006 | vA–vD | includes polynomial examples |
+| C1.2 | Connections among algebraic, graphical, numerical representations | WS-M11-007 | vA–vD | multi-representation matching |
+| C2.1 | Modelling real-life with linear, quadratic, polynomial functions | WS-M11-008 | vA–vD | applied word problems |
+| C2.2 | Transformations & combinations of functions | WS-M11-009 | vA–vD | sum, difference, composition |
+| C3.1 | Analysing & comparing functions across representations | WS-M11-010 | vA–vD | reasoning & communication |
 
 ### 4.2 Assessment Plan (whole grade)
 | Assessment ID | Subject | Grade | Versions | Coverage | Notes |
