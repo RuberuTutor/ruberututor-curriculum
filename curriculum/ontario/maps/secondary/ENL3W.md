@@ -54,16 +54,16 @@ source_pdf: curriculum/ontario/English_Grade11_ENL3W_official.pdf
 - **B3.1**: evaluate perspectives, values, and issues in texts, and make connections to self, others, and the world
 
 ### Strand C — Writing
-- **C1.1**: [paste verbatim specific expectation from the ENL3W PDF for C1.1]
-- **C1.2**: [paste verbatim specific expectation from the ENL3W PDF for C1.2]
-- **C2.1**: [paste verbatim specific expectation from the ENL3W PDF for C2.1]
-- **C3.1**: [paste verbatim specific expectation from the ENL3W PDF for C3.1]
+- **C1.1**: generate, develop, and organize ideas and information for writing using a variety of strategies and sources
+- **C1.2**: write for different purposes and audiences, using several literary, informational, and graphic forms
+- **C2.1**: revise drafts to improve organization, clarify ideas, and enhance style, using feedback from peers and teachers
+- **C3.1**: use knowledge of grammar, usage, spelling, and punctuation to edit and proofread their work, and use technology to publish writing for appropriate audiences
 
 ### Strand D — Media Studies
-- **D1.1**: [paste verbatim expectation from ENL3W PDF for D1.1]
-- **D1.2**: [paste verbatim expectation from ENL3W PDF for D1.2]
-- **D2.1**: [paste verbatim expectation from ENL3W PDF for D2.1]
-- **D3.1**: [paste verbatim expectation from ENL3W PDF for D3.1]
+- **D1.1**: interpret and explain the purpose and audience of a variety of media texts, and analyse how they are constructed to achieve specific effects
+- **D1.2**: identify media conventions and techniques and explain how they influence meaning and audience response
+- **D2.1**: create media texts that demonstrate understanding of conventions, forms, and techniques, and that are appropriate for purpose and audience
+- **D3.1**: reflect on their personal media habits, consumption, and creation, and explain how these influence their identity and perspectives
 
 ## 4) Planning Tables
 
