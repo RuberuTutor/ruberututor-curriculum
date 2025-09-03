@@ -1,0 +1,1027 @@
+RuberuTutor — Secondary Maps QA Report  (Wed  3 Sep 2025 11:31:43 EDT)
+Repo: /Users/studio/ruberututor-curriculum
+======================================================================
+
+
+## curriculum/ontario/maps/secondary/ENG2D.md
+- Basic metadata/frontmatter check:
+    3:stage: Secondary Curriculum Mapping (Grades 9–12)
+    5:course_code: TBD
+    6:course_title: TBD
+    7:grade: 9–12
+    8:subject: Math | English
+    12:source_pdf: curriculum/ontario/<official-source>.pdf
+- Required sections present:
+    ✓ ## 1) Strands Overview
+    ✓ ## 2) Overall Expectations
+    ✓ ## 3) Specific Expectations
+    ✓ ## 4) Planning Tables
+- Placeholder scan (should be ZERO hits):
+    ⚠ 5:course_code: TBD
+    ⚠ 6:course_title: TBD
+    ⚠ 31:- **A1**: …
+    ⚠ 32:- **A2**: …
+    ⚠ 35:- **B1**: …
+    ⚠ 36:- **B2**: …
+    ⚠ 39:- **C1**: …
+    ⚠ 40:- **C2**: …
+    ⚠ 43:- **D1**: …
+    ⚠ 44:- **D2**: …
+    ⚠ 47:- **E1**: …
+    ⚠ 50:- **F1**: …
+    ⚠ 56:- **A1.1**: …
+    ⚠ 57:- **A1.2**: …
+    ⚠ 58:- **A2.1**: …
+    ⚠ 59:- …
+    ⚠ 62:- **B1.1**: …
+    ⚠ 63:- **B1.2**: …
+    ⚠ 64:- **B2.1**: …
+    ⚠ 65:- …
+    ⚠ 68:- **C1.1**: …
+    ⚠ 69:- **C1.2**: …
+    ⚠ 70:- …
+    ⚠ 73:- **D1.1**: …
+    ⚠ 74:- **D1.2**: …
+    ⚠ 75:- …
+    ⚠ 78:- **E1.1**: …
+    ⚠ 79:- …
+    ⚠ 82:- **F1.1**: …
+    ⚠ 83:- …
+    ⚠ 90:| B2.1 | …                 | WS-M9-001    | vA–vD   | …     |
+    ⚠ 95:| B2.1 | Quiz | AS-M9-001     | vA–vD   | …                 | …     |
+- Expectation code scan (format like A1, B2.1, etc.):
+    • 19:> **Scope**: Secondary only (Grades 9–12). Keep codes exactly as in the PDF (e.g., B2.1, C1.4).
+    • 31:- **A1**: …
+    • 32:- **A2**: …
+    • 35:- **B1**: …
+    • 36:- **B2**: …
+    • 39:- **C1**: …
+    • 40:- **C2**: …
+    • 43:- **D1**: …
+    • 44:- **D2**: …
+    • 47:- **E1**: …
+    • 50:- **F1**: …
+    • 53:> Keep the original numbering (e.g., **B2.1**, **C1.4**). Do not merge or split.
+    • 56:- **A1.1**: …
+    • 57:- **A1.2**: …
+    • 58:- **A2.1**: …
+    • 62:- **B1.1**: …
+    • 63:- **B1.2**: …
+    • 64:- **B2.1**: …
+    • 68:- **C1.1**: …
+    • 69:- **C1.2**: …
+    • 73:- **D1.1**: …
+    • 74:- **D1.2**: …
+    • 78:- **E1.1**: …
+    • 82:- **F1.1**: …
+    • 90:| B2.1 | …                 | WS-M9-001    | vA–vD   | …     |
+    • 95:| B2.1 | Quiz | AS-M9-001     | vA–vD   | …                 | …     |
+- Worksheet Plan rows (quick count):
+    ✓ Rows found: 1
+- Assessment Plan sanity:
+    ⚠ Assessment table present but no AS-* ID detected
+
+
+## curriculum/ontario/maps/secondary/ENG4U.md
+- Basic metadata/frontmatter check:
+    3:stage: Secondary Curriculum Mapping (Grades 9–12)
+    5:course_code: TBD
+    6:course_title: TBD
+    7:grade: 9–12
+    8:subject: Math | English
+    12:source_pdf: curriculum/ontario/<official-source>.pdf
+- Required sections present:
+    ✓ ## 1) Strands Overview
+    ✓ ## 2) Overall Expectations
+    ✓ ## 3) Specific Expectations
+    ✓ ## 4) Planning Tables
+- Placeholder scan (should be ZERO hits):
+    ⚠ 5:course_code: TBD
+    ⚠ 6:course_title: TBD
+    ⚠ 31:- **A1**: …
+    ⚠ 32:- **A2**: …
+    ⚠ 35:- **B1**: …
+    ⚠ 36:- **B2**: …
+    ⚠ 39:- **C1**: …
+    ⚠ 40:- **C2**: …
+    ⚠ 43:- **D1**: …
+    ⚠ 44:- **D2**: …
+    ⚠ 47:- **E1**: …
+    ⚠ 50:- **F1**: …
+    ⚠ 56:- **A1.1**: …
+    ⚠ 57:- **A1.2**: …
+    ⚠ 58:- **A2.1**: …
+    ⚠ 59:- …
+    ⚠ 62:- **B1.1**: …
+    ⚠ 63:- **B1.2**: …
+    ⚠ 64:- **B2.1**: …
+    ⚠ 65:- …
+    ⚠ 68:- **C1.1**: …
+    ⚠ 69:- **C1.2**: …
+    ⚠ 70:- …
+    ⚠ 73:- **D1.1**: …
+    ⚠ 74:- **D1.2**: …
+    ⚠ 75:- …
+    ⚠ 78:- **E1.1**: …
+    ⚠ 79:- …
+    ⚠ 82:- **F1.1**: …
+    ⚠ 83:- …
+    ⚠ 90:| B2.1 | …                 | WS-M9-001    | vA–vD   | …     |
+    ⚠ 95:| B2.1 | Quiz | AS-M9-001     | vA–vD   | …                 | …     |
+- Expectation code scan (format like A1, B2.1, etc.):
+    • 19:> **Scope**: Secondary only (Grades 9–12). Keep codes exactly as in the PDF (e.g., B2.1, C1.4).
+    • 31:- **A1**: …
+    • 32:- **A2**: …
+    • 35:- **B1**: …
+    • 36:- **B2**: …
+    • 39:- **C1**: …
+    • 40:- **C2**: …
+    • 43:- **D1**: …
+    • 44:- **D2**: …
+    • 47:- **E1**: …
+    • 50:- **F1**: …
+    • 53:> Keep the original numbering (e.g., **B2.1**, **C1.4**). Do not merge or split.
+    • 56:- **A1.1**: …
+    • 57:- **A1.2**: …
+    • 58:- **A2.1**: …
+    • 62:- **B1.1**: …
+    • 63:- **B1.2**: …
+    • 64:- **B2.1**: …
+    • 68:- **C1.1**: …
+    • 69:- **C1.2**: …
+    • 73:- **D1.1**: …
+    • 74:- **D1.2**: …
+    • 78:- **E1.1**: …
+    • 82:- **F1.1**: …
+    • 90:| B2.1 | …                 | WS-M9-001    | vA–vD   | …     |
+    • 95:| B2.1 | Quiz | AS-M9-001     | vA–vD   | …                 | …     |
+- Worksheet Plan rows (quick count):
+    ✓ Rows found: 1
+- Assessment Plan sanity:
+    ⚠ Assessment table present but no AS-* ID detected
+
+
+## curriculum/ontario/maps/secondary/ENL1W.md
+- Basic metadata/frontmatter check:
+    2:course: ENL1W
+    3:grade: 9
+    4:subject: English
+    5:stream: De-streamed
+    6:stage: Secondary Curriculum Mapping (Stage 5)
+    7:source_pdf: curriculum/ontario/English_Grade9_ENL1W_2023.pdf
+- Required sections present:
+    ✓ ## 1) Strands Overview
+    ✓ ## 2) Overall Expectations
+    ✓ ## 3) Specific Expectations
+    ✓ ## 4) Planning Tables
+- Placeholder scan (should be ZERO hits):
+    ✓ No placeholders found
+- Expectation code scan (format like A1, B2.1, etc.):
+    • 2:course: ENL1W
+    • 7:source_pdf: curriculum/ontario/English_Grade9_ENL1W_2023.pdf
+    • 10:# Grade 9 English (ENL1W)
+    • 21:- **A1**: demonstrate an understanding of how the seven transferable skills (critical thinking and problem solving; innovation, creativity, and entrepreneurship; self-directed learning; collaboration; communication; global citizenship and sustainability; and digital literacy) are used in various language and literacy contexts
+    • 22:- **A2**: demonstrate and apply the knowledge and skills needed to interact safely and responsibly in online environments, use digital and media tools to construct knowledge, and demonstrate learning as critical consumers and creators of media
+    • 23:- **A3**: apply language and literacy skills in cross-curricular and integrated learning, and demonstrate an understanding of, and make connections to, diverse voices, experiences, perspectives, histories, and contributions, including those of First Nations, Métis, and Inuit individuals, communities, groups, and nations
+    • 28:- **A1.1**: identify and explain how transferable skills (e.g., collaboration, digital literacy, critical thinking) are demonstrated in oral, print, and media texts
+    • 29:- **A1.2**: apply transferable skills in their own literacy tasks, reflecting on how these skills support learning across subjects
+    • 30:- **A2.1**: demonstrate safe and responsible online practices when researching, creating, and communicating ideas
+    • 31:- **A3.1**: make connections between their literacy learning and diverse voices, perspectives, and knowledge systems, including those of First Nations, Métis, and Inuit communities
+    • 35:- **B1.1**: read and demonstrate understanding of a variety of texts from diverse cultures and perspectives, including Indigenous voices, by summarizing, analyzing, and making inferences
+    • 36:- **B2.1**: identify text forms, features, and stylistic elements in literary and informational texts, and explain how they help communicate meaning
+    • 37:- **B3.1**: evaluate perspectives, values, and issues presented in texts, making connections to their own experiences and to those of diverse communities, including First Nations, Métis, and Inuit
+    • 40:- **C1.1**: generate and gather ideas for writing, and organize information to suit purpose and audience
+    • 41:- **C2.1**: draft and revise written work using appropriate forms, conventions, and stylistic elements for clarity and effect
+    • 42:- **C3.1**: edit, proofread, and publish writing using knowledge of language conventions and tools to improve accuracy and presentation
+    • 45:- **D1.1**: identify purpose and audience in a variety of media texts, and explain how choices in form, conventions, and techniques influence meaning
+    • 46:- **D2.1**: plan, create, and refine media texts for different purposes and audiences, using appropriate forms, conventions, and techniques, and reflect on the impact of their choices
+    • 56:| A1.1 | Identifying transferable skills in texts | WS-E9-001 | vA–vD | cross-strand practice |
+    • 57:| A1.2 | Applying transferable skills in literacy tasks | WS-E9-002 | vA–vD | reflection + exercises |
+    • 58:| A2.1 | Safe and responsible online practices | WS-E9-003 | vA–vD | digital literacy focus |
+    • 59:| A3.1 | Connections to diverse voices and perspectives | WS-E9-004 | vA–vD | Indigenous and global contexts |
+    • 61:| B1.1 | Comprehension: summarize, infer, analyze diverse texts | WS-E9-005 | vA–vD | includes Indigenous voices |
+    • 62:| B2.1 | Text forms, features, and stylistic elements | WS-E9-006 | vA–vD | literary + informational |
+    • 63:| B3.1 | Evaluating perspectives/values; making connections | WS-E9-007 | vA–vD | personal & community links |
+    • 65:| C1.1 | Generating & organizing ideas for writing | WS-E9-008 | vA–vD | graphic organizers |
+    • 66:| C2.1 | Drafting & revising written work | WS-E9-009 | vA–vD | focus on clarity & audience |
+    • 67:| C3.1 | Editing, proofreading, and publishing | WS-E9-010 | vA–vD | grammar, style, conventions |
+    • 69:| D1.1 | Analyzing purpose, audience, and techniques in media texts | WS-E9-011 | vA–vD | film, ads, digital media |
+    • 70:| D2.1 | Creating media texts for different audiences | WS-E9-012 | vA–vD | posters, podcasts, blogs |
+    • 75:| AS-E9         | English | 9     | 1        | Strands A–D | One unified placement diagnostic |
+    • 77:#### Strand Coverage in AS-E9
+    • 80:| A — Literacy Connections | A1.1, A2.1, A3.1 | transferable skills & digital literacy |
+    • 81:| B — Reading & Literature | B1.1, B2.1, B3.1 | comprehension, analysis, perspectives |
+    • 82:| C — Writing | C1.1, C2.1, C3.1 | writing process, revision, conventions |
+    • 83:| D — Media Studies | D1.1, D2.1 | media analysis & creation |
+- Worksheet Plan rows (quick count):
+    ✓ Rows found: 12
+- Assessment Plan sanity:
+    ✓ Assessment ID present
+
+
+## curriculum/ontario/maps/secondary/ENL2W.md
+- Basic metadata/frontmatter check:
+    2:course: ENL2W
+    3:grade: 10
+    4:subject: English
+    5:stream: De-streamed (project scaffold)
+    6:stage: Secondary Curriculum Mapping (Stage 5)
+    7:source_pdf: curriculum/ontario/English_Grade10_ENL2W_official.pdf
+- Required sections present:
+    ✓ ## 1) Strands Overview
+    ✓ ## 2) Overall Expectations
+    ✓ ## 3) Specific Expectations
+    ✓ ## 4) Planning Tables
+- Placeholder scan (should be ZERO hits):
+    ✓ No placeholders found
+- Expectation code scan (format like A1, B2.1, etc.):
+    • 2:course: ENL2W
+    • 7:source_pdf: curriculum/ontario/English_Grade10_ENL2W_official.pdf
+    • 10:# Grade 10 English (ENL2W)
+    • 22:- **A1**: demonstrate an understanding of how transferable skills (e.g., collaboration, communication, critical thinking, digital literacy) are applied in various language and literacy contexts
+    • 23:- **A2**: apply safe, responsible, and ethical practices in digital and online environments when consuming and creating texts
+    • 24:- **A3**: make connections between their literacy learning and diverse voices, perspectives, and knowledge systems, including those of First Nations, Métis, and Inuit communities
+    • 27:- **B1**: read, understand, and interpret a range of literary texts from diverse cultures and perspectives, using a variety of strategies to construct meaning
+    • 28:- **B2**: recognize a variety of text forms, text features, and stylistic elements, and demonstrate understanding of how they communicate meaning
+    • 29:- **B3**: analyse perspectives, values, and issues presented in texts, and make connections to their own lived experiences and to those of diverse communities, including First Nations, Métis, and Inuit
+    • 32:- **C1**: generate, gather, and organize ideas and information to write for an intended purpose and audience
+    • 33:- **C2**: draft and revise writing, using a variety of forms, conventions, and stylistic elements appropriate for the purpose and audience
+    • 34:- **C3**: use editing, proofreading, and publishing skills and strategies, and knowledge of language conventions, to improve expression and communicate clearly
+    • 37:- **D1**: demonstrate an understanding of a variety of media texts and explain how they are created to appeal to specific audiences and serve particular purposes
+    • 38:- **D2**: create a variety of media texts for different purposes and audiences, using appropriate forms, conventions, and techniques
+    • 39:- **D3**: reflect on their own media consumption and production practices, and explain how these influence their understanding of themselves and others
+    • 43:- **A1.1**: identify and explain how transferable skills (e.g., collaboration, digital literacy, critical thinking) are demonstrated in oral, print, and media texts
+    • 44:- **A1.2**: apply transferable skills in their own literacy tasks, and reflect on how these skills support learning across subjects
+    • 45:- **A2.1**: demonstrate safe, responsible, and ethical practices when researching, creating, and communicating in digital spaces
+    • 46:- **A3.1**: make connections between their literacy learning and diverse voices, perspectives, and knowledge systems, including First Nations, Métis, and Inuit
+    • 49:- **B1.1**: read and demonstrate understanding of a variety of increasingly complex literary texts from diverse cultures and perspectives, including Indigenous voices
+    • 50:- **B1.2**: analyse themes, ideas, and perspectives in texts, citing evidence to support interpretations
+    • 51:- **B2.1**: identify and explain text forms, features, and stylistic elements in literary and informational texts, and analyse how they shape meaning
+    • 52:- **B3.1**: evaluate perspectives, values, and issues presented in texts, and make connections to their own experiences and to those of diverse communities
+    • 55:- **C1.1**: generate and organize ideas for writing, using a variety of strategies and resources
+    • 56:- **C1.2**: determine purpose and audience for writing, and select appropriate forms and stylistic elements
+    • 57:- **C2.1**: draft and revise their writing, integrating feedback, to improve clarity, coherence, and effectiveness
+    • 58:- **C3.1**: edit, proofread, and publish writing, applying language conventions and using tools to improve accuracy and presentation
+    • 61:- **D1.1**: identify purpose and audience in a variety of media texts, and explain how conventions and techniques influence meaning
+    • 62:- **D1.2**: analyse how media texts reflect and shape perspectives, values, and issues in society
+    • 63:- **D2.1**: create a variety of media texts for different purposes and audiences, using appropriate forms, conventions, and techniques
+    • 64:- **D3.1**: reflect on their own media consumption and production practices, and explain how these practices influence their understanding of themselves and others
+    • 71:| A1.1 | Identifying transferable skills in texts | WS-E10-001 | vA–vD | collaboration, digital literacy |
+    • 72:| A1.2 | Applying transferable skills in literacy tasks | WS-E10-002 | vA–vD | practice across subjects |
+    • 73:| A2.1 | Safe and responsible online practices | WS-E10-003 | vA–vD | digital citizenship |
+    • 74:| A3.1 | Connections to diverse voices and perspectives | WS-E10-004 | vA–vD | Indigenous and global contexts |
+    • 75:| B1.1 | Comprehension of diverse literary texts | WS-E10-005 | vA–vD | short stories/poems/excerpts |
+    • 76:| B1.2 | Theme & perspective with text evidence | WS-E10-006 | vA–vD | PEEL / quotation integration |
+    • 77:| B2.1 | Forms, features, and style → meaning | WS-E10-007 | vA–vD | figurative language & rhetoric |
+    • 78:| B3.1 | Evaluating perspectives/values/issues | WS-E10-008 | vA–vD | response + connection tasks |
+    • 79:| C1.1 | Idea generation & organization | WS-E10-009 | vA–vD | brainstorming, outlines, research notes |
+    • 80:| C1.2 | Purpose, audience, and form | WS-E10-010 | vA–vD | thesis, tone, genre conventions |
+    • 81:| C2.1 | Drafting & revising for clarity/coherence | WS-E10-011 | vA–vD | peer feedback + revision checklist |
+    • 82:| C3.1 | Editing, proofreading, and publishing | WS-E10-012 | vA–vD | grammar, citation, layout tools |
+    • 83:| D1.1 | Purpose & audience in media texts | WS-E10-013 | vA–vD | ads, news, film examples |
+    • 84:| D1.2 | Media techniques & social impact | WS-E10-014 | vA–vD | bias, stereotypes, influence |
+    • 85:| D2.1 | Creating media texts for audiences | WS-E10-015 | vA–vD | posters, podcasts, blogs |
+    • 86:| D3.1 | Reflecting on media consumption & production | WS-E10-016 | vA–vD | journaling & discussion prompts |
+    • 91:| AS-E10        | English | 10    | 1        | Strands A–D | One unified placement diagnostic |
+    • 93:#### Strand Coverage in AS-E10
+    • 96:| A — Literacy Connections | A1.1, A2.1, A3.1 | transferable & digital literacy |
+    • 97:| B — Reading & Literature | B1.1, B1.2, B2.1, B3.1 | comprehension & analysis |
+    • 98:| C — Writing | C1.1, C2.1, C3.1 | process, revision, conventions |
+    • 99:| D — Media Studies | D1.1, D1.2, D2.1, D3.1 | media analysis & creation |
+    • 103:- 2025-09-03 — Initial scaffold for ENL2W (map, planning tables, AS-E10 placeholder)
+- Worksheet Plan rows (quick count):
+    ✓ Rows found: 16
+- Assessment Plan sanity:
+    ✓ Assessment ID present
+
+
+## curriculum/ontario/maps/secondary/ENL3W.md
+- Basic metadata/frontmatter check:
+    2:course: ENL3W
+    3:grade: 11
+    4:subject: English
+    5:stream: University/Workplace (Writing course)
+    6:stage: Secondary Curriculum Mapping (Stage 5)
+    7:source_pdf: curriculum/ontario/English_Grade11_ENL3W_official.pdf
+- Required sections present:
+    ✓ ## 1) Strands Overview
+    ✓ ## 2) Overall Expectations
+    ✓ ## 3) Specific Expectations
+    ✓ ## 4) Planning Tables
+- Placeholder scan (should be ZERO hits):
+    ✓ No placeholders found
+- Expectation code scan (format like A1, B2.1, etc.):
+    • 2:course: ENL3W
+    • 7:source_pdf: curriculum/ontario/English_Grade11_ENL3W_official.pdf
+    • 10:# Grade 11 English (ENL3W)
+    • 23:- **A1**: demonstrate an understanding of transferable skills (e.g., collaboration, critical thinking, digital literacy) and apply them in various literacy contexts
+    • 24:- **A2**: apply safe, responsible, and ethical practices in digital and online environments when using and creating texts
+    • 25:- **A3**: make connections between their literacy learning and diverse voices, perspectives, and knowledge systems, including those of First Nations, Métis, and Inuit communities
+    • 28:- **B1**: read, understand, and interpret a range of increasingly complex literary texts from diverse cultures and perspectives, making inferences and drawing conclusions
+    • 29:- **B2**: analyse text forms, stylistic elements, and rhetorical devices, and explain how they contribute to meaning and audience engagement
+    • 30:- **B3**: evaluate perspectives, values, and issues in texts, and make connections to self, others, and the world
+    • 33:- **C1**: generate, gather, and organize ideas and information to write for specific purposes and audiences
+    • 34:- **C2**: draft and revise writing, using a variety of forms, organizational patterns, and stylistic elements to communicate clearly
+    • 35:- **C3**: use editing, proofreading, and publishing skills and strategies, and apply knowledge of language conventions, to improve expression and clarity
+    • 38:- **D1**: demonstrate an understanding of a variety of media texts and explain how they are created to influence specific audiences
+    • 39:- **D2**: create media texts for different purposes and audiences, using appropriate forms, conventions, and techniques
+    • 40:- **D3**: reflect on their own media consumption and production practices, and explain how these influence their understanding of themselves and others
+    • 45:- **A1.1**: identify and explain transferable skills demonstrated in texts (e.g., collaboration, critical thinking, digital literacy)
+    • 46:- **A1.2**: apply transferable skills when completing literacy tasks, and reflect on how these skills support other subjects and workplace contexts
+    • 47:- **A2.1**: demonstrate safe, responsible, and ethical practices when researching, creating, and communicating in digital spaces
+    • 48:- **A3.1**: make connections between literacy learning and diverse voices, perspectives, and knowledge systems, including those of First Nations, Métis, and Inuit
+    • 51:- **B1.1**: read and demonstrate understanding of increasingly complex literary texts from diverse cultures and perspectives, including Indigenous voices
+    • 52:- **B1.2**: analyse themes, ideas, and perspectives in texts, citing evidence to support interpretations
+    • 53:- **B2.1**: identify and explain text forms, features, and stylistic elements, and analyse how they shape meaning
+    • 54:- **B3.1**: evaluate perspectives, values, and issues in texts, and make connections to self, others, and the world
+    • 57:- **C1.1**: generate, develop, and organize ideas and information for writing using a variety of strategies and sources
+    • 58:- **C1.2**: write for different purposes and audiences, using several literary, informational, and graphic forms
+    • 59:- **C2.1**: revise drafts to improve organization, clarify ideas, and enhance style, using feedback from peers and teachers
+    • 60:- **C3.1**: use knowledge of grammar, usage, spelling, and punctuation to edit and proofread their work, and use technology to publish writing for appropriate audiences
+    • 63:- **D1.1**: interpret and explain the purpose and audience of a variety of media texts, and analyse how they are constructed to achieve specific effects
+    • 64:- **D1.2**: identify media conventions and techniques and explain how they influence meaning and audience response
+    • 65:- **D2.1**: create media texts that demonstrate understanding of conventions, forms, and techniques, and that are appropriate for purpose and audience
+    • 66:- **D3.1**: reflect on their personal media habits, consumption, and creation, and explain how these influence their identity and perspectives
+    • 73:| A1.1 | Identifying transferable skills in academic & workplace texts | WS-E11-001 | vA–vD | collaboration, critical thinking |
+    • 74:| A1.2 | Applying transferable skills in literacy tasks | WS-E11-002 | vA–vD | cross-disciplinary practice |
+    • 75:| A2.1 | Safe and ethical online research & communication | WS-E11-003 | vA–vD | digital citizenship |
+    • 76:| A3.1 | Making connections to diverse voices & perspectives | WS-E11-004 | vA–vD | Indigenous, global, workplace contexts |
+    • 77:| B1.1 | Comprehension of complex literary texts | WS-E11-005 | vA–vD | novels, plays, poetry |
+    • 78:| B1.2 | Thematic & perspective analysis | WS-E11-006 | vA–vD | evidence-based discussion |
+    • 79:| B2.1 | Forms, features, stylistic elements | WS-E11-007 | vA–vD | figurative language & rhetoric |
+    • 80:| B3.1 | Evaluating perspectives & values | WS-E11-008 | vA–vD | connections to self & world |
+    • 81:| C1.1 | Generating & organizing ideas | WS-E11-009 | vA–vD | brainstorming, outlines |
+    • 82:| C1.2 | Writing for different purposes & audiences | WS-E11-010 | vA–vD | literary, informational, graphic forms |
+    • 83:| C2.1 | Drafting & revising writing | WS-E11-011 | vA–vD | peer & teacher feedback |
+    • 84:| C3.1 | Editing, proofreading & publishing | WS-E11-012 | vA–vD | grammar, usage, conventions |
+    • 85:| D1.1 | Purpose & audience of media texts | WS-E11-013 | vA–vD | deconstruction exercises |
+    • 86:| D1.2 | Conventions & techniques in media | WS-E11-014 | vA–vD | analysis tasks |
+    • 87:| D2.1 | Creating media texts | WS-E11-015 | vA–vD | form, style, audience |
+    • 88:| D3.1 | Reflecting on media consumption & identity | WS-E11-016 | vA–vD | journaling & discussion |
+    • 93:| AS-E11        | English | 11    | 1        | Strands A–D | Unified diagnostic to identify entry-level skills |
+    • 95:#### Strand Coverage in AS-E11
+    • 98:| A — Literacy Connections | A1.1, A1.2, A2.1, A3.1 | transferable skills, safe online practices |
+    • 99:| B — Reading & Literature | B1.1, B1.2, B2.1, B3.1 | comprehension, analysis, perspectives |
+    • 100:| C — Writing | C1.1, C1.2, C2.1, C3.1 | writing process, drafting, conventions |
+    • 101:| D — Media Studies | D1.1, D1.2, D2.1, D3.1 | media analysis, creation, reflection |
+    • 104:- 2025-09-03 — Initial scaffold for ENL3W (map, planning tables, AS-E11 placeholder)
+- Worksheet Plan rows (quick count):
+    ✓ Rows found: 16
+- Assessment Plan sanity:
+    ✓ Assessment ID present
+
+
+## curriculum/ontario/maps/secondary/ENL4W.md
+- Basic metadata/frontmatter check:
+    2:course: ENL4W
+    3:grade: 12
+    4:subject: English
+    5:stream: De-streamed
+    6:stage: 6
+    7:source_pdf: curriculum/ontario/secondary/english_gr12_enl4w.pdf
+- Required sections present:
+    ✓ ## 1) Strands Overview
+    ✓ ## 2) Overall Expectations
+    ✓ ## 3) Specific Expectations
+    ✓ ## 4) Planning Tables
+- Placeholder scan (should be ZERO hits):
+    ⚠ 13:- A. [from PDF]
+    ⚠ 14:- B. [from PDF]
+    ⚠ 15:- C. [from PDF]
+    ⚠ 16:- D. [from PDF]
+    ⚠ 30:- A1.1 [verbatim]
+    ⚠ 31:- A1.2 [verbatim]
+    ⚠ 32:- …
+    ⚠ 34:- B1.1 [verbatim]
+    ⚠ 35:- …
+    ⚠ 37:- C1.1 [verbatim]
+    ⚠ 38:- …
+    ⚠ 40:- D1.1 [verbatim]
+    ⚠ 41:- …
+    ⚠ 48:| A1.1 | [title] | WS-E12-001 | vA–vD | |
+    ⚠ 49:| A1.2 | [title] | WS-E12-002 | vA–vD | |
+    ⚠ 50:| …    | …       | …            | …        | … |
+    ⚠ 58:- Strand A: (A1.1, A1.2, …)  
+    ⚠ 59:- Strand B: (…)  
+    ⚠ 60:- Strand C: (…)  
+    ⚠ 61:- Strand D: (…)  
+- Expectation code scan (format like A1, B2.1, etc.):
+    • 2:course: ENL4W
+    • 10:# ENL4W — English, Grade 12
+    • 30:- A1.1 [verbatim]
+    • 31:- A1.2 [verbatim]
+    • 34:- B1.1 [verbatim]
+    • 37:- C1.1 [verbatim]
+    • 40:- D1.1 [verbatim]
+    • 48:| A1.1 | [title] | WS-E12-001 | vA–vD | |
+    • 49:| A1.2 | [title] | WS-E12-002 | vA–vD | |
+    • 55:| **AS-E12** | English | 12 | 1 | Strands A–D | Culminating; diagnostic coverage |
+    • 58:- Strand A: (A1.1, A1.2, …)  
+    • 64:- 2025-09-03 — Scaffold created for Stage 6 (ENL4W).
+- Worksheet Plan rows (quick count):
+    ✓ Rows found: 2
+- Assessment Plan sanity:
+    ⚠ Assessment table present but no AS-* ID detected
+
+
+## curriculum/ontario/maps/secondary/MBF3C.md
+- Basic metadata/frontmatter check:
+    2:course: MBF3C
+    3:grade: 11
+    4:subject: Mathematics
+    5:stream: College
+    6:stage: 6
+    7:source_pdf: curriculum/ontario/secondary/math_gr11_mbf3c.pdf
+- Required sections present:
+    ✓ ## 1) Strands Overview
+    ✓ ## 2) Overall Expectations
+    ✓ ## 3) Specific Expectations
+    ✓ ## 4) Planning Tables
+- Placeholder scan (should be ZERO hits):
+    ⚠ 13:- A. [from PDF]
+    ⚠ 14:- B. [from PDF]
+    ⚠ 15:- C. [from PDF]
+    ⚠ 16:- D. [from PDF]
+    ⚠ 30:- A1.1 [verbatim]
+    ⚠ 31:- A1.2 [verbatim]
+    ⚠ 32:- …
+    ⚠ 34:- B1.1 [verbatim]
+    ⚠ 35:- …
+    ⚠ 37:- C1.1 [verbatim]
+    ⚠ 38:- …
+    ⚠ 40:- D1.1 [verbatim]
+    ⚠ 41:- …
+    ⚠ 48:| A1.1 | [title] | WS-M11-011 | vA–vD | |
+    ⚠ 49:| A1.2 | [title] | WS-M11-012 | vA–vD | |
+    ⚠ 50:| …    | …       | …            | …        | … |
+    ⚠ 58:- Strand A: (A1.1, A1.2, …)  
+    ⚠ 59:- Strand B: (…)  
+    ⚠ 60:- Strand C: (…)  
+    ⚠ 61:- Strand D: (…)  
+- Expectation code scan (format like A1, B2.1, etc.):
+    • 2:course: MBF3C
+    • 10:# MBF3C — Foundations for College Mathematics
+    • 30:- A1.1 [verbatim]
+    • 31:- A1.2 [verbatim]
+    • 34:- B1.1 [verbatim]
+    • 37:- C1.1 [verbatim]
+    • 40:- D1.1 [verbatim]
+    • 48:| A1.1 | [title] | WS-M11-011 | vA–vD | |
+    • 49:| A1.2 | [title] | WS-M11-012 | vA–vD | |
+    • 55:| **AS-M11C** | Math | 11 | 1 | Strands A–D | Culminating; diagnostic coverage |
+    • 58:- Strand A: (A1.1, A1.2, …)  
+    • 64:- 2025-09-03 — Scaffold created for Stage 6 (MBF3C).
+- Worksheet Plan rows (quick count):
+    ✓ Rows found: 2
+- Assessment Plan sanity:
+    ⚠ Assessment table present but no AS-* ID detected
+
+
+## curriculum/ontario/maps/secondary/MCF3M.md
+- Basic metadata/frontmatter check:
+    3:grade: 11
+    4:subject: Mathematics
+    5:course_code: MCF3M
+    6:stream: University/College Preparation
+    7:source_pdf: curriculum/ontario/secondary/math/MCF3M.pdf
+- Required sections present:
+    ✓ ## 1) Strands Overview
+    ✓ ## 2) Overall Expectations
+    ✓ ## 3) Specific Expectations
+    ✓ ## 4) Planning Tables
+- Placeholder scan (should be ZERO hits):
+    ✓ No placeholders found
+- Expectation code scan (format like A1, B2.1, etc.):
+    • 1:# MCF3M — Functions and Applications
+    • 5:course_code: MCF3M
+    • 7:source_pdf: curriculum/ontario/secondary/math/MCF3M.pdf
+    • 43:- A1.1 Expand and simplify quadratic expressions.  
+    • 44:- A1.2 Solve quadratic equations by factoring, completing the square, and using the quadratic formula.  
+    • 45:- A1.3 Make connections between the roots of a quadratic equation and the x-intercepts of its graph.  
+    • 46:- A1.4 Demonstrate an understanding of transformations of quadratic functions.  
+    • 47:- A1.5 Solve application problems involving quadratic functions (e.g., projectile motion, optimization).  
+    • 50:- B1.1 Apply the laws of exponents to simplify and evaluate numerical expressions.  
+    • 51:- B1.2 Recognize, represent, and interpret exponential functions in various contexts.  
+    • 52:- B1.3 Solve problems involving exponential growth and decay.  
+    • 53:- B1.4 Solve problems involving compound interest, annuities, and financial applications.  
+    • 56:- C1.1 Solve problems in acute triangles using the sine law and the cosine law.  
+    • 57:- C1.2 Demonstrate an understanding of periodic relationships and describe their key features.  
+    • 58:- C1.3 Graph sine functions and make connections among numeric, graphical, and algebraic representations.  
+    • 59:- C1.4 Solve real-world problems involving sine functions (e.g., tides, seasonal changes).  
+    • 68:| A1.1             | Expanding & simplifying quadratics | WS-M11-001 | vA–vD   |       |
+    • 69:| A1.2             | Solving quadratic equations        | WS-M11-002 | vA–vD   |       |
+    • 70:| A1.3             | Quadratic roots & graphs           | WS-M11-003 | vA–vD   |       |
+    • 71:| A1.4             | Transformations of quadratics      | WS-M11-004 | vA–vD   |       |
+    • 72:| A1.5             | Quadratic applications             | WS-M11-005 | vA–vD   |       |
+    • 73:| B1.1             | Exponent laws                     | WS-M11-006 | vA–vD   |       |
+    • 74:| B1.2             | Exponential functions basics       | WS-M11-007 | vA–vD   |       |
+    • 75:| B1.3             | Growth & decay problems            | WS-M11-008 | vA–vD   |       |
+    • 76:| B1.4             | Compound interest & annuities      | WS-M11-009 | vA–vD   |       |
+    • 77:| C1.1             | Sine & cosine law                  | WS-M11-010 | vA–vD   |       |
+    • 78:| C1.2             | Periodic relationships             | WS-M11-011 | vA–vD   |       |
+    • 79:| C1.3             | Graphing sine functions            | WS-M11-012 | vA–vD   |       |
+    • 80:| C1.4             | Applications of sine functions     | WS-M11-013 | vA–vD   |       |
+    • 85:| **AS-M11**    | Math    | 11    | 1     | Strands A–C     | Culminating task; covers all strands |
+    • 88:- Strand A: A1.1–A1.5  
+    • 89:- Strand B: B1.1–B1.4  
+    • 90:- Strand C: C1.1–C1.4  
+    • 95:- 2025-09-03 — Scaffold created for Stage 6 (MCF3M).  
+- Worksheet Plan rows (quick count):
+    ✓ Rows found: 13
+- Assessment Plan sanity:
+    ⚠ Assessment table present but no AS-* ID detected
+
+
+## curriculum/ontario/maps/secondary/MCR3U.md
+- Basic metadata/frontmatter check:
+    2:course: MCR3U
+    3:grade: 11
+    4:subject: Mathematics
+    5:stream: University Preparation
+    6:stage: Secondary Curriculum Mapping (Stage 5)
+    7:source_pdf: curriculum/ontario/Mathematics_Grade11_MCR3U_official.pdf
+- Required sections present:
+    ✓ ## 1) Strands Overview
+    ✓ ## 2) Overall Expectations
+    ✓ ## 3) Specific Expectations
+    ✓ ## 4) Planning Tables
+- Placeholder scan (should be ZERO hits):
+    ✓ No placeholders found
+- Expectation code scan (format like A1, B2.1, etc.):
+    • 2:course: MCR3U
+    • 7:source_pdf: curriculum/ontario/Mathematics_Grade11_MCR3U_official.pdf
+    • 10:# Grade 11 Math (MCR3U) — Functions
+    • 23:- **A1**: use mathematical processes to develop reasoning, solve problems, make connections, and communicate ideas across strands and in real-life contexts
+    • 26:- **B1**: demonstrate an understanding of the properties of real numbers and algebraic expressions, and apply them in various contexts
+    • 27:- **B2**: use algebraic techniques to simplify expressions, solve equations and inequalities, and model situations
+    • 30:- **C1**: demonstrate an understanding of the characteristics of functions and their representations, and make connections among them
+    • 31:- **C2**: model and solve problems using a variety of function types (e.g., linear, quadratic, polynomial, exponential), selecting appropriate tools and strategies
+    • 32:- **C3**: analyse and interpret functions in multiple representations (algebraic, graphical, numerical), and communicate reasoning
+    • 35:- **D1**: demonstrate an understanding of financial concepts and strategies related to saving, investing, borrowing, and managing money
+    • 36:- **D2**: apply functions and formulas to solve problems involving compound interest, annuities, loans, and other financial contexts
+    • 41:- **A1.1**: apply mathematical processes (e.g., problem solving, reasoning, communication) to make and evaluate conjectures, justify conclusions, and connect concepts across strands and to real-life contexts
+    • 44:- **B1.1**: simplify algebraic expressions involving polynomials, rational expressions, and exponents
+    • 45:- **B1.2**: solve linear and quadratic equations, and verify solutions in real contexts
+    • 46:- **B2.1**: solve inequalities and systems of equations algebraically and graphically
+    • 47:- **B2.2**: apply algebraic techniques to model and solve problems in real-life situations
+    • 50:- **C1.1**: describe the characteristics (domain, range, intercepts, increasing/decreasing intervals) of linear, quadratic, and polynomial functions
+    • 51:- **C1.2**: make connections among the algebraic, graphical, and numerical representations of functions
+    • 52:- **C2.1**: model real-life situations with linear, quadratic, and polynomial functions, and interpret the solutions
+    • 53:- **C2.2**: solve problems using transformations and combinations of functions (sum, difference, composition)
+    • 54:- **C3.1**: analyse and compare functions using multiple representations to identify key features and draw conclusions
+    • 57:- **D1.1**: calculate and compare simple and compound interest, and interpret growth using tables, graphs, and formulas
+    • 58:- **D1.2**: solve problems involving saving and investing (e.g., future value, regular contributions), and evaluate strategies and risk
+    • 59:- **D2.1**: model loans and debt repayment (e.g., mortgages, car loans) using functions and technology; interpret amortization features
+    • 60:- **D2.2**: analyse financial decisions (taxes, fees, inflation) using functional models; communicate assumptions and limitations
+    • 67:| A1.1 | Applying mathematical processes: conjectures, reasoning, communication | WS-M11-001 | vA–vD | across strands & real-life tasks |
+    • 68:| B1.1 | Simplify polynomials, rationals, exponents | WS-M11-002 | vA–vD | mixed practice + error analysis |
+    • 69:| B1.2 | Solve linear & quadratic equations | WS-M11-003 | vA–vD | check by substitution/graph |
+    • 70:| B2.1 | Solve inequalities & systems | WS-M11-004 | vA–vD | algebraic + graphical methods |
+    • 71:| B2.2 | Model with algebra in contexts | WS-M11-005 | vA–vD | word problems → equations |
+    • 72:| C1.1 | Characteristics of functions (domain, range, intercepts, intervals) | WS-M11-006 | vA–vD | includes polynomial examples |
+    • 73:| C1.2 | Connections among algebraic, graphical, numerical representations | WS-M11-007 | vA–vD | multi-representation matching |
+    • 74:| C2.1 | Modelling real-life with linear, quadratic, polynomial functions | WS-M11-008 | vA–vD | applied word problems |
+    • 75:| C2.2 | Transformations & combinations of functions | WS-M11-009 | vA–vD | sum, difference, composition |
+    • 76:| C3.1 | Analysing & comparing functions across representations | WS-M11-010 | vA–vD | reasoning & communication |
+    • 77:| D1.1 | Simple vs. compound interest | WS-M11-011 | vA–vD | tables, graphs, formulas |
+    • 78:| D1.2 | Saving & investing strategies (future value, contributions) | WS-M11-012 | vA–vD | scenarios & comparisons |
+    • 79:| D2.1 | Loans & debt repayment (mortgages, car loans) | WS-M11-013 | vA–vD | amortization schedules |
+    • 80:| D2.2 | Financial decision analysis (taxes, fees, inflation) | WS-M11-014 | vA–vD | case studies & modelling |
+    • 85:| AS-M11        | Math    | 11    | 1        | Strands A–D | One unified placement diagnostic |
+    • 87:#### Strand Coverage in AS-M11
+    • 90:| A — Mathematical Thinking | A1.1 | reasoning, conjectures, justification |
+    • 91:| B — Number & Algebra | B1.1, B1.2, B2.1 | simplifying, solving, modelling |
+    • 92:| C — Functions | C1.1, C2.1, C2.2, C3.1 | characteristics, modelling, transformations |
+    • 93:| D — Financial Applications | D1.1, D1.2, D2.1 | compound interest, saving, loans |
+    • 95:#### Strand Coverage in AS-M11
+    • 98:| A — Mathematical Thinking | A1.1 | reasoning, conjectures, justification |
+    • 99:| B — Number & Algebra | B1.1, B1.2, B2.1 | simplifying, solving, modelling |
+    • 100:| C — Functions | C1.1, C2.1, C2.2, C3.1 | characteristics, modelling, transformations |
+    • 101:| D — Financial Applications | D1.1, D1.2, D2.1 | compound interest, saving, loans |
+    • 103:#### Strand Coverage in AS-M11
+    • 106:| A — Mathematical Thinking | A1.1 | reasoning, conjectures, justification |
+    • 107:| B — Number & Algebra | B1.1, B1.2, B2.1 | simplifying, solving, modelling |
+    • 108:| C — Functions | C1.1, C2.1, C2.2, C3.1 | characteristics, modelling, transformations |
+    • 109:| D — Financial Applications | D1.1, D1.2, D2.1 | compound interest, saving, loans |
+    • 111:#### Strand Coverage in AS-M11
+    • 114:| A — Mathematical Thinking | A1.1 | reasoning & problem solving |
+    • 115:| B — Number & Algebra | B1.1, B2.1 | number properties, algebra |
+    • 116:| C — Functions | C1.1, C2.1, C3.1 | linear, quadratic, polynomial |
+    • 117:| D — Financial Applications | D1.1, D2.1 | compound interest, investments |
+    • 120:- 2025-09-03 — Initial scaffold for MCR3U (map, planning tables, AS-M11 placeholder)
+- Worksheet Plan rows (quick count):
+    ✓ Rows found: 14
+- Assessment Plan sanity:
+    ✓ Assessment ID present
+
+
+## curriculum/ontario/maps/secondary/MCV4U.md
+- Basic metadata/frontmatter check:
+    2:course: MCF3M
+    3:grade: 11
+    4:subject: Mathematics
+    5:stream: Mixed
+    6:stage: 6
+    7:source_pdf: curriculum/ontario/secondary/math_gr11_mcf3m.pdf
+- Required sections present:
+    ✓ ## 1) Strands Overview
+    ✓ ## 2) Overall Expectations
+    ✓ ## 3) Specific Expectations
+    ✓ ## 4) Planning Tables
+- Placeholder scan (should be ZERO hits):
+    ✓ No placeholders found
+- Expectation code scan (format like A1, B2.1, etc.):
+    • 2:course: MCF3M
+    • 10:# MCF3M — Functions and Applications
+    • 43:- A1.1 Expand and simplify quadratic expressions, solve quadratic equations, and relate the roots of a quadratic equation to the corresponding graph.  
+    • 44:- A1.2 Demonstrate an understanding of functions, and make connections between the numeric, graphical, and algebraic representations of quadratic functions.  
+    • 45:- A1.3 Solve problems involving quadratic functions, including problems arising from real-world applications.  
+    • 51:- B1.1 Simplify and evaluate numerical expressions involving exponents, and make connections between the numeric, graphical, and algebraic representations of exponential functions.  
+    • 52:- B1.2 Identify and represent exponential functions, and solve problems involving exponential functions, including problems arising from real-world applications.  
+    • 53:- B1.3 Demonstrate an understanding of compound interest and annuities, and solve related problems.  
+    • 59:- C1.1 Solve problems involving trigonometry in acute triangles using the sine law and the cosine law, including problems arising from real-world applications.  
+    • 60:- C1.2 Demonstrate an understanding of periodic relationships and the sine function, and make connections between the numeric, graphical, and algebraic representations of sine functions.  
+    • 61:- C1.3 Identify and represent sine functions, and solve problems involving sine functions, including problems arising from real-world applications.  
+    • 68:| A1.1             | Expanding & simplifying quadratics | WS-M11-001 | vA–vD   |       |
+    • 69:| A1.2             | Graphing & interpreting quadratics | WS-M11-002 | vA–vD   |       |
+    • 70:| A1.3             | Quadratic applications (real-world) | WS-M11-003 | vA–vD   |       |
+    • 71:| B1.1             | Exponential laws & evaluation     | WS-M11-004 | vA–vD   |       |
+    • 72:| B1.2             | Graphing exponential functions    | WS-M11-005 | vA–vD   |       |
+    • 73:| B1.3             | Compound interest & annuities     | WS-M11-006 | vA–vD   |       |
+    • 74:| C1.1             | Sine & cosine law problems        | WS-M11-007 | vA–vD   |       |
+    • 75:| C1.2             | Periodic relationships & sine     | WS-M11-008 | vA–vD   |       |
+    • 76:| C1.3             | Graphing & solving sine functions | WS-M11-009 | vA–vD   |       |
+    • 81:| **AS-M11**    | Math    | 11    | 1     | Strands A–C     | Culminating; diagnostic review |
+    • 84:- Strand A: A1.1, A1.2, A1.3  
+    • 85:- Strand B: B1.1, B1.2, B1.3  
+    • 86:- Strand C: C1.1, C1.2, C1.3  
+    • 89:- 2025-09-03 — Scaffold created for Stage 6 (MCF3M).
+- Worksheet Plan rows (quick count):
+    ✓ Rows found: 9
+- Assessment Plan sanity:
+    ⚠ Assessment table present but no AS-* ID detected
+
+
+## curriculum/ontario/maps/secondary/MDM4U.md
+- Basic metadata/frontmatter check:
+    3:stage: Secondary Curriculum Mapping (Grades 9–12)
+    5:course_code: TBD
+    6:course_title: TBD
+    7:grade: 9–12
+    8:subject: Math | English
+    12:source_pdf: curriculum/ontario/<official-source>.pdf
+- Required sections present:
+    ✓ ## 1) Strands Overview
+    ✓ ## 2) Overall Expectations
+    ✓ ## 3) Specific Expectations
+    ✓ ## 4) Planning Tables
+- Placeholder scan (should be ZERO hits):
+    ⚠ 5:course_code: TBD
+    ⚠ 6:course_title: TBD
+    ⚠ 31:- **A1**: …
+    ⚠ 32:- **A2**: …
+    ⚠ 35:- **B1**: …
+    ⚠ 36:- **B2**: …
+    ⚠ 39:- **C1**: …
+    ⚠ 40:- **C2**: …
+    ⚠ 43:- **D1**: …
+    ⚠ 44:- **D2**: …
+    ⚠ 47:- **E1**: …
+    ⚠ 50:- **F1**: …
+    ⚠ 56:- **A1.1**: …
+    ⚠ 57:- **A1.2**: …
+    ⚠ 58:- **A2.1**: …
+    ⚠ 59:- …
+    ⚠ 62:- **B1.1**: …
+    ⚠ 63:- **B1.2**: …
+    ⚠ 64:- **B2.1**: …
+    ⚠ 65:- …
+    ⚠ 68:- **C1.1**: …
+    ⚠ 69:- **C1.2**: …
+    ⚠ 70:- …
+    ⚠ 73:- **D1.1**: …
+    ⚠ 74:- **D1.2**: …
+    ⚠ 75:- …
+    ⚠ 78:- **E1.1**: …
+    ⚠ 79:- …
+    ⚠ 82:- **F1.1**: …
+    ⚠ 83:- …
+    ⚠ 90:| B2.1 | …                 | WS-M9-001    | vA–vD   | …     |
+    ⚠ 95:| B2.1 | Quiz | AS-M9-001     | vA–vD   | …                 | …     |
+- Expectation code scan (format like A1, B2.1, etc.):
+    • 19:> **Scope**: Secondary only (Grades 9–12). Keep codes exactly as in the PDF (e.g., B2.1, C1.4).
+    • 31:- **A1**: …
+    • 32:- **A2**: …
+    • 35:- **B1**: …
+    • 36:- **B2**: …
+    • 39:- **C1**: …
+    • 40:- **C2**: …
+    • 43:- **D1**: …
+    • 44:- **D2**: …
+    • 47:- **E1**: …
+    • 50:- **F1**: …
+    • 53:> Keep the original numbering (e.g., **B2.1**, **C1.4**). Do not merge or split.
+    • 56:- **A1.1**: …
+    • 57:- **A1.2**: …
+    • 58:- **A2.1**: …
+    • 62:- **B1.1**: …
+    • 63:- **B1.2**: …
+    • 64:- **B2.1**: …
+    • 68:- **C1.1**: …
+    • 69:- **C1.2**: …
+    • 73:- **D1.1**: …
+    • 74:- **D1.2**: …
+    • 78:- **E1.1**: …
+    • 82:- **F1.1**: …
+    • 90:| B2.1 | …                 | WS-M9-001    | vA–vD   | …     |
+    • 95:| B2.1 | Quiz | AS-M9-001     | vA–vD   | …                 | …     |
+- Worksheet Plan rows (quick count):
+    ✓ Rows found: 1
+- Assessment Plan sanity:
+    ⚠ Assessment table present but no AS-* ID detected
+
+
+## curriculum/ontario/maps/secondary/MHF4U.md
+- Basic metadata/frontmatter check:
+    2:course: MHF4U
+    3:grade: 12
+    4:subject: Mathematics
+    5:stream: University Preparation
+    6:stage: Secondary Curriculum Mapping (Stage 5)
+    7:source_pdf: curriculum/ontario/Mathematics_Grade12_MHF4U_official.pdf
+- Required sections present:
+    ✓ ## 1) Strands Overview
+    ✓ ## 2) Overall Expectations
+    ✓ ## 3) Specific Expectations
+    ✓ ## 4) Planning Tables
+- Placeholder scan (should be ZERO hits):
+    ⚠ 81:- [TBD]
+    ⚠ 83:- [TBD]
+    ⚠ 85:- [TBD]
+    ⚠ 87:- [TBD]
+    ⚠ 89:- [TBD]
+- Expectation code scan (format like A1, B2.1, etc.):
+    • 2:course: MHF4U
+    • 7:source_pdf: curriculum/ontario/Mathematics_Grade12_MHF4U_official.pdf
+    • 10:# Grade 12 Math — Advanced Functions (MHF4U)
+    • 24:- **A1**: apply the mathematical processes to develop reasoning, make connections, and solve multi-step problems in various contexts
+    • 27:- **B1**: demonstrate an understanding of polynomial expressions and equations, and solve related problems
+    • 28:- **B2**: demonstrate an understanding of rational expressions and equations, and solve related problems
+    • 31:- **C1**: demonstrate an understanding of the properties and applications of exponential functions, and solve related problems
+    • 32:- **C2**: demonstrate an understanding of the properties and applications of logarithmic functions, and solve related problems
+    • 35:- **D1**: demonstrate an understanding of the properties and applications of trigonometric functions, and solve related problems
+    • 36:- **D2**: solve problems involving trigonometric equations and identities, using a variety of strategies
+    • 39:- **E1**: demonstrate an understanding of key features of functions and their representations, and apply these to compare functions and solve problems
+    • 42:- **A1.1**: use mathematical processes to solve problems involving polynomial, rational, exponential, logarithmic, and trigonometric functions
+    • 43:- **A1.2**: make and evaluate conjectures, justify conclusions, and communicate reasoning clearly
+    • 44:- **A1.3**: connect concepts and procedures across strands and to real-life contexts
+    • 47:- **B1.1**: expand and simplify polynomial expressions, and solve polynomial equations
+    • 48:- **B1.2**: graph polynomial functions, identifying key features such as zeros, end behaviour, and turning points
+    • 49:- **B1.3**: apply polynomial models to solve problems in real contexts
+    • 50:- **B2.1**: simplify rational expressions, identifying restrictions on the variable
+    • 51:- **B2.2**: solve rational equations, and verify solutions
+    • 52:- **B2.3**: graph rational functions, identifying asymptotes, intercepts, and behaviour
+    • 53:- **B2.4**: apply rational function models to solve problems
+    • 56:- **C1.1**: demonstrate an understanding of the properties of exponential expressions and equations
+    • 57:- **C1.2**: graph exponential functions, identifying domain, range, and asymptotes
+    • 58:- **C1.3**: solve exponential equations using algebraic and graphical strategies
+    • 59:- **C1.4**: apply exponential models to represent and solve growth and decay problems
+    • 60:- **C2.1**: demonstrate an understanding of the properties of logarithms and the relationship between logarithms and exponents
+    • 61:- **C2.2**: evaluate logarithmic expressions and simplify using laws of logarithms
+    • 62:- **C2.3**: graph logarithmic functions, identifying domain, range, and asymptotes
+    • 63:- **C2.4**: solve logarithmic equations, algebraically and graphically
+    • 64:- **C2.5**: apply logarithmic models to real-life contexts (e.g., pH, Richter scale)
+    • 67:- **D1.1**: demonstrate an understanding of radian measure, and convert between radians and degrees
+    • 68:- **D1.2**: graph sine, cosine, and tangent functions, identifying amplitude, period, phase shift, and vertical shift
+    • 69:- **D1.3**: model and solve problems involving trigonometric functions
+    • 70:- **D2.1**: solve trigonometric equations involving special angles, in degrees and radians
+    • 71:- **D2.2**: verify and apply trigonometric identities
+    • 72:- **D2.3**: apply trigonometric models to real-world problems
+    • 75:- **E1.1**: compare properties of functions (e.g., polynomial, rational, exponential, logarithmic, trigonometric) represented in different ways
+    • 76:- **E1.2**: analyse and interpret transformations of functions
+    • 77:- **E1.3**: solve problems by applying knowledge of multiple functions to a single context
+    • 98:| A1.1 | Applying processes across function types | WS-M12-001 | vA–vD | multi-step problem solving |
+    • 99:| A1.2 | Making conjectures & justifying conclusions | WS-M12-002 | vA–vD | reasoning tasks |
+    • 100:| A1.3 | Connecting math concepts to real-life | WS-M12-003 | vA–vD | cross-strand activities |
+    • 103:| B1.1 | Expanding, simplifying, solving polynomials | WS-M12-004 | vA–vD | algebraic practice |
+    • 104:| B1.2 | Graphing polynomial functions | WS-M12-005 | vA–vD | intercepts, turning points |
+    • 105:| B1.3 | Polynomial modelling problems | WS-M12-006 | vA–vD | real-life contexts |
+    • 106:| B2.1 | Simplifying rational expressions | WS-M12-007 | vA–vD | restrictions included |
+    • 107:| B2.2 | Solving rational equations | WS-M12-008 | vA–vD | algebraic + graphical |
+    • 108:| B2.3 | Graphing rational functions | WS-M12-009 | vA–vD | asymptotes & behaviour |
+    • 109:| B2.4 | Rational function modelling | WS-M12-010 | vA–vD | applied contexts |
+    • 112:| C1.1 | Exponential properties & equations | WS-M12-011 | vA–vD | simplify & solve |
+    • 113:| C1.2 | Graphing exponential functions | WS-M12-012 | vA–vD | domain, range, asymptotes |
+    • 114:| C1.3 | Solving exponential equations | WS-M12-013 | vA–vD | algebraic & graphical |
+    • 115:| C1.4 | Exponential growth & decay models | WS-M12-014 | vA–vD | applications |
+    • 116:| C2.1 | Properties of logarithms | WS-M12-015 | vA–vD | base conversions |
+    • 117:| C2.2 | Laws of logarithms | WS-M12-016 | vA–vD | simplify expressions |
+    • 118:| C2.3 | Graphing logarithmic functions | WS-M12-017 | vA–vD | domain, range, asymptotes |
+    • 119:| C2.4 | Solving logarithmic equations | WS-M12-018 | vA–vD | algebraic & graphical |
+    • 120:| C2.5 | Real-world logarithmic models | WS-M12-019 | vA–vD | pH, Richter, decibels |
+    • 123:| D1.1 | Radian measure conversions | WS-M12-020 | vA–vD | degrees ↔ radians |
+    • 124:| D1.2 | Graphing trig functions | WS-M12-021 | vA–vD | amplitude, period, shifts |
+    • 125:| D1.3 | Modelling with trig functions | WS-M12-022 | vA–vD | applied problems |
+    • 126:| D2.1 | Solving trig equations | WS-M12-023 | vA–vD | special angles, radians |
+    • 127:| D2.2 | Trigonometric identities | WS-M12-024 | vA–vD | verify & apply |
+    • 128:| D2.3 | Real-life trig modelling | WS-M12-025 | vA–vD | applications |
+    • 131:| E1.1 | Comparing functions (poly, rational, exp, log, trig) | WS-M12-026 | vA–vD | table & graph tasks |
+    • 132:| E1.2 | Analysing transformations of functions | WS-M12-027 | vA–vD | shift, stretch, reflection |
+    • 133:| E1.3 | Applying multiple function types | WS-M12-028 | vA–vD | mixed problems |
+    • 138:| AS-M12        | Math    | 12    | 1        | Strands A–E | Placement diagnostic |
+    • 140:#### Strand Coverage in AS-M12
+    • 143:| A — Thinking & Connections | A1.1 | conjectures, reasoning |
+    • 144:| B — Polynomial & Rational | B1.1, B2.1 | simplification, applications |
+    • 145:| C — Exponential & Logarithmic | C1.1, C2.1 | growth/decay, logarithms |
+    • 146:| D — Trigonometric | D1.1, D2.1 | trig identities & equations |
+    • 147:| E — Characteristics | E1.1 | multiple representations |
+    • 150:- 2025-09-03 — Initial scaffold for MHF4U (map, planning tables, AS-M12 placeholder)
+- Worksheet Plan rows (quick count):
+    ✓ Rows found: 28
+- Assessment Plan sanity:
+    ✓ Assessment ID present
+
+
+## curriculum/ontario/maps/secondary/MTH1W.md
+- Basic metadata/frontmatter check:
+    93:stage: Secondary Curriculum Mapping (Grades 9–12)
+    95:course_code: MTH1W
+    96:course_title: Grade 9 Mathematics (De-streamed)
+    97:grade: 9
+    98:subject: Math
+    102:source_pdf: curriculum/ontario/Mathematics_Grade9_MTH1W_2021_with-Teacher-Supports.pdf
+- Required sections present:
+    ✓ ## 1) Strands Overview
+    ✓ ## 2) Overall Expectations
+    ✓ ## 3) Specific Expectations
+    ✓ ## 4) Planning Tables
+- Placeholder scan (should be ZERO hits):
+    ✓ No placeholders found
+- Expectation code scan (format like A1, B2.1, etc.):
+    • 6:| B1.1 | Real number system, rational & irrational numbers | WS-M9-001 | vA–vD | classification exercises |
+    • 7:| B1.2 | Converting between forms (fractions, decimals, radicals) | WS-M9-002 | vA–vD | scaffold with examples |
+    • 8:| B2.1 | Exponent laws (integer exponents) | WS-M9-003 | vA–vD | step-by-step practice |
+    • 9:| B2.2 | Expressions with rational exponents & radicals | WS-M9-004 | vA–vD | calculator & manual |
+    • 10:| B2.3 | Scientific notation, powers & radicals in context | WS-M9-005 | vA–vD | applied word problems |
+    • 11:| B3.1 | Ratios, rates, percentages, proportions | WS-M9-006 | vA–vD | includes scale factors |
+    • 12:| B3.2 | Proportional reasoning in real contexts | WS-M9-007 | vA–vD | financial + unit analysis |
+    • 13:| C1.1 | History & development of algebra, making connections | WS-M9-008 | vA–vD | includes coding tie-in |
+    • 14:| C1.2 | Coding skills to model algebraic relationships | WS-M9-009 | vA–vD | computer-based tasks |
+    • 15:| C2.1 | Expanding & simplifying polynomials | WS-M9-010 | vA–vD | step-by-step exercises |
+    • 16:| C2.2 | Solving linear equations & inequalities | WS-M9-011 | vA–vD | include rational expressions |
+    • 17:| C3.1 | Comparing linear vs non-linear relations | WS-M9-012 | vA–vD | graph interpretation |
+    • 18:| C3.2 | Characteristics of linear & non-linear relations | WS-M9-013 | vA–vD | word problems + graphs |
+    • 19:| C4.1 | Modelling relations with tables, graphs, equations | WS-M9-014 | vA–vD | applied problem-solving |
+    • 20:| D1.1 | Collecting & using one-variable data | WS-M9-015 | vA–vD | data tables + charts |
+    • 21:| D1.2 | Analyzing two-variable data | WS-M9-016 | vA–vD | scatter plots & correlations |
+    • 22:| D2.1 | Mathematical modelling with data | WS-M9-017 | vA–vD | prediction & interpretation |
+    • 23:| E1.1 | Pythagorean theorem applications | WS-M9-018 | vA–vD | problem sets & diagrams |
+    • 24:| E1.2 | Surface area & volume of 3D objects | WS-M9-019 | vA–vD | includes real-world contexts |
+    • 25:| E1.3 | Area & perimeter of 2D shapes | WS-M9-020 | vA–vD | mixed practice |
+    • 26:| E1.4 | Similar triangles & right triangles | WS-M9-021 | vA–vD | similarity + ratios |
+    • 27:| E1.5 | Right-triangle trigonometry | WS-M9-022 | vA–vD | sin, cos, tan problems |
+    • 28:| E1.6 | Trigonometry in real-life applications | WS-M9-023 | vA–vD | word problems & modelling |
+    • 29:| F1.1 | Factors influencing financial decisions | WS-M9-024 | vA–vD | cost–benefit scenarios |
+    • 30:| F1.2 | Making informed financial decisions | WS-M9-025 | vA–vD | risk analysis exercises |
+    • 31:| F1.3 | Budgeting and saving strategies | WS-M9-026 | vA–vD | household/family contexts |
+    • 32:| F1.4 | Evaluating financial products & services | WS-M9-027 | vA–vD | interest, loans, credit cards |
+    • 37:| AS-M9         | Math    | 9     | 1        | Strands A–F | One unified diagnostic test |
+    • 39:#### Strand Coverage in AS-M9
+    • 42:| A — Mathematical Thinking | A1.1, A1.2, A2.1 | reasoning & problem-solving |
+    • 43:| B — Number | B1.1, B2.1, B2.3, B3.2 | exponents, radicals, proportions |
+    • 44:| C — Algebra | C2.1, C2.2, C3.1 | algebraic manipulation, graphs |
+    • 45:| D — Data | D1.2, D2.1 | scatter plots, modelling |
+    • 46:| E — Geometry & Measurement | E1.1, E1.5 | Pythagoras, trigonometry |
+    • 47:| F — Financial Literacy | F1.1, F1.2 | decision-making, cost-benefit |
+    • 52:- **F1.1**: describe the factors that influence financial decisions, and explain the impact of those decisions on individuals, families, and communities
+    • 53:- **F1.2**: make informed financial decisions by analysing costs, benefits, and potential risks, using appropriate tools and strategies
+    • 56:- **E1.1**: demonstrate an understanding of the Pythagorean relationship, and apply it to solve problems
+    • 57:- **E1.2**: solve problems involving the surface area and volume of three-dimensional objects, and involving the area and perimeter of two-dimensional shapes, in various contexts
+    • 58:- **E1.3**: apply geometric and measurement relationships to solve problems involving similar triangles, right triangles, and trigonometry in real-life situations
+    • 61:- **D1.1**: describe the collection and use of data, and represent and analyse data involving one variable
+    • 62:- **D1.2**: analyse data involving two variables, using mathematical processes and appropriate tools, and describe relationships
+    • 63:- **D2.1**: apply the process of mathematical modelling to represent, analyse, and make predictions about real-life situations, using data and mathematical concepts from other strands
+    • 66:- **C1.1**: demonstrate an understanding of the development of algebra, and make connections between algebra and numbers, using various tools and representations
+    • 67:- **C1.2**: apply coding skills to represent mathematical concepts and relationships, and to solve problems, in algebra and across the other strands
+    • 68:- **C2.1**: expand and simplify polynomial expressions, and solve problems that involve polynomial equations in one variable
+    • 69:- **C2.2**: solve first-degree equations, including those involving rational expressions, and solve first-degree inequalities
+    • 70:- **C3.1**: compare linear and non-linear relations using their different representations, and solve problems involving those relations
+    • 71:- **C3.2**: determine the characteristics of various representations of linear and non-linear relations, and use these characteristics to solve problems
+    • 72:- **C4.1**: solve problems by modelling linear and non-linear relations, using tools and strategies such as tables of values, graphs, and equations
+    • 75:- **B1.1**: demonstrate an understanding of the development of the real number system, including rational and irrational numbers, and describe associated concepts
+    • 76:- **B1.2**: represent numbers in various forms, such as fractions, decimals, percentages, and radicals, and describe the relationships among these representations
+    • 77:- **B2.1**: apply the properties of powers, including the exponent rules, to simplify numerical expressions
+    • 78:- **B2.2**: evaluate numerical expressions involving integer and rational exponents, including those expressed as radicals
+    • 79:- **B2.3**: solve problems involving powers and radicals, including the use of scientific notation
+    • 80:- **B3.1**: solve problems involving ratios, rates, percentages, and proportions, including problems involving scale factors
+    • 81:- **B3.2**: apply proportional reasoning in various contexts, including financial contexts and unit analysis
+    • 84:- **A1.1**: use mathematical processes to identify, extend, create, and analyse patterns; make and describe conjectures; test, verify, and refine conjectures; and justify and communicate thinking
+    • 85:- **A1.2**: make connections among concepts and procedures across strands, and between mathematics and other disciplines, including real-life applications
+    • 86:- **A2.1**: describe and explain strategies used to make connections between mathematics and their lived experiences, cultural contexts, and various knowledge systems
+    • 87:git add curriculum/ontario/maps/secondary/MTH1W.md
+    • 88:git commit -m "feat(MTH1W): add map with strands + Overall Expectations filled; scaffold specifics"
+    • 90:nano curriculum/ontario/maps/secondary/MTH1W.md
+    • 95:course_code: MTH1W
+    • 102:source_pdf: curriculum/ontario/Mathematics_Grade9_MTH1W_2021_with-Teacher-Supports.pdf
+    • 106:# MTH1W — Grade 9 Mathematics (De-streamed)
+    • 122:- **A1**: apply the mathematical processes to develop a conceptual understanding of, and procedural fluency with, the mathematics they are learning
+    • 123:- **A2**: make connections between mathematics and various knowledge systems, their lived experiences, and various real-life applications of mathematics, including careers
+    • 126:- **B1**: demonstrate an understanding of the development and use of numbers, and make connections between sets of numbers
+    • 127:- **B2**: represent numbers in various ways, evaluate powers, and simplify expressions by using the relationships between powers and their exponents
+    • 128:- **B3**: apply an understanding of rational numbers, ratios, rates, percentages, and proportions, in various mathematical contexts, and to solve problems
+    • 131:- **C1**: demonstrate an understanding of the development and use of algebraic concepts and of their connection to numbers, using various tools and representations
+    • 132:- **C2**: apply coding skills to represent mathematical concepts and relationships dynamically, and to solve problems, in algebra and across the other strands
+    • 133:- **C3**: represent and compare linear and non-linear relations that model real-life situations, and use these representations to make predictions
+    • 134:- **C4**: demonstrate an understanding of the characteristics of various representations of linear and non-linear relations, using tools, including coding when appropriate
+    • 137:- **D1**: describe the collection and use of data, and represent and analyse data involving one and two variables
+    • 138:- **D2**: apply the process of mathematical modelling, using data and mathematical concepts from other strands, to represent, analyse, make predictions, and provide insight into real-life situations
+    • 141:- **E1**: demonstrate an understanding of the development and use of geometric and measurement relationships, and apply these relationships to solve problems, including problems involving real-life situations
+    • 144:- **F1**: demonstrate the knowledge and skills needed to make informed financial decisions
+    • 154:| B2.1 |                    | WS-M9-001    | vA–vD   |       |
+    • 159:| B2.1 | Quiz | AS-M9-001     | vA–vD   |                   |       |
+    • 166:- **2025-09-01 (v0.1)** — Initial shell created for MTH1W. Sourced from `source_pdf` and `snapshot_doc`.
+- Worksheet Plan rows (quick count):
+    ✓ Rows found: 28
+- Assessment Plan sanity:
+    ✓ Assessment ID present
+
+
+## curriculum/ontario/maps/secondary/MTH2W.md
+- Basic metadata/frontmatter check:
+    2:course: MTH2W
+    3:grade: 10
+    4:subject: Mathematics
+    5:stream: De-streamed
+    6:stage: Secondary Curriculum Mapping (Stage 5)
+    7:source_pdf: curriculum/ontario/Mathematics_Grade10_MTH2W_2021.pdf
+- Required sections present:
+    ✓ ## 1) Strands Overview
+    ✓ ## 2) Overall Expectations
+    ✓ ## 3) Specific Expectations
+    ✓ ## 4) Planning Tables
+- Placeholder scan (should be ZERO hits):
+    ✓ No placeholders found
+- Expectation code scan (format like A1, B2.1, etc.):
+    • 2:course: MTH2W
+    • 7:source_pdf: curriculum/ontario/Mathematics_Grade10_MTH2W_2021.pdf
+    • 10:# Grade 10 Math (MTH2W)
+    • 23:- **A1**: use mathematical processes and skills to develop and apply reasoning, problem-solving, and communication strategies
+    • 24:- **A2**: make connections among mathematical concepts and procedures, and relate them to real-life situations and other subject areas
+    • 28:- **B1**: demonstrate an understanding of numbers, and make connections to the development of the real number system
+    • 29:- **B2**: apply properties of numbers, including powers and radicals, to solve problems
+    • 32:- **C1**: demonstrate an understanding of algebraic concepts by simplifying expressions, solving equations, and modelling relationships
+    • 33:- **C2**: apply the process of coding to represent mathematical concepts and to solve problems involving algebra
+    • 36:- **D1**: collect, organize, and analyse data, using tools and strategies, to make inferences and solve problems
+    • 37:- **D2**: apply the process of mathematical modelling, involving data and mathematical concepts from other strands, to represent and analyse real-life situations
+    • 40:- **E1**: demonstrate an understanding of geometric and measurement relationships, and apply this knowledge to solve problems
+    • 41:- **E2**: solve problems involving trigonometry and measurement in real-life applications
+    • 44:- **F1**: demonstrate the knowledge and skills needed to make informed financial decisions
+    • 45:- **F2**: demonstrate an understanding of the important role that money plays in society and the ways in which financial decisions can impact individuals and communities
+    • 49:- **A1.1**: use mathematical processes to develop, test, and refine conjectures and to justify and communicate conclusions
+    • 50:- **A2.1**: make and describe connections among mathematical concepts and procedures, and between mathematics, other subject areas, and real-life contexts
+    • 53:- **B1.1**: demonstrate an understanding of the properties of real numbers, including rational and irrational numbers, and make connections to their development in mathematics
+    • 54:- **B2.1**: apply the exponent rules for integer and rational exponents, and simplify expressions involving powers and radicals
+    • 55:- **B2.2**: solve problems involving powers, radicals, and scientific notation in real-life contexts
+    • 58:- **C1.1**: simplify algebraic expressions involving polynomials, and solve linear and quadratic equations in one variable
+    • 59:- **C1.2**: model and solve problems using linear and quadratic relations, and interpret the solutions in real-life contexts
+    • 60:- **C2.1**: use coding to represent mathematical concepts, and design simple algorithms to solve algebraic problems
+    • 63:- **D1.1**: collect, organize, and display data using appropriate tools; describe distributions and key features (e.g., centre, spread, shape)
+    • 64:- **D1.2**: analyse one- and two-variable data using numerical and graphical methods; draw conclusions and communicate results
+    • 65:- **D2.1**: apply the process of mathematical modelling with data from real contexts to pose questions, make assumptions, build and test models, and refine conclusions
+    • 68:- **E1.1**: solve problems involving similar and congruent triangles, and apply the Pythagorean theorem
+    • 69:- **E1.2**: apply trigonometric ratios and the sine law and cosine law to solve real-life problems involving triangles
+    • 70:- **E2.1**: solve problems involving perimeter, area, surface area, and volume of 2D and 3D figures, in exact and approximate forms
+    • 73:- **F1.1**: describe factors that influence financial decisions, and explain the impact of these decisions on individuals, families, and communities
+    • 74:- **F1.2**: make informed financial decisions by comparing costs and benefits of saving, investing, borrowing, and spending
+    • 81:| A1.1 | Developing, testing, and refining conjectures | WS-M10-001 | vA–vD | includes justification tasks |
+    • 82:| A2.1 | Making and describing connections | WS-M10-002 | vA–vD | cross-strand and real-life links |
+    • 83:| B1.1 | Properties of real numbers (rational & irrational) | WS-M10-003 | vA–vD | classification & examples |
+    • 84:| B2.1 | Simplifying expressions with exponents & radicals | WS-M10-004 | vA–vD | step-by-step exercises |
+    • 85:| B2.2 | Problem-solving with powers, radicals, scientific notation | WS-M10-005 | vA–vD | applied contexts |
+    • 86:| C1.1 | Simplify polynomials; solve linear & quadratic equations | WS-M10-006 | vA–vD | include factoring set |
+    • 87:| C1.2 | Model with linear & quadratic relations; interpret solutions | WS-M10-007 | vA–vD | tables, graphs, equations |
+    • 88:| C2.1 | Coding for algebra (represent & solve) | WS-M10-008 | vA–vD | pseudocode + optional Python |
+    • 89:| D1.1 | Collecting, organizing, and displaying data | WS-M10-009 | vA–vD | frequency tables & graphs |
+    • 90:| D1.2 | Analyzing one- and two-variable data | WS-M10-010 | vA–vD | measures of centre & spread |
+    • 91:| D2.1 | Mathematical modelling with data | WS-M10-011 | vA–vD | real-life scenarios |
+    • 92:| E1.1 | Similar & congruent triangles; Pythagorean theorem | WS-M10-012 | vA–vD | proof + applied problems |
+    • 93:| E1.2 | Trigonometry: sine, cosine, tangent; sine/cosine law | WS-M10-013 | vA–vD | word problems & diagrams |
+    • 94:| E2.1 | Perimeter, area, surface area, volume of 2D/3D figures | WS-M10-014 | vA–vD | exact & approximate forms |
+    • 95:| F1.1 | Factors influencing financial decisions | WS-M10-015 | vA–vD | decision-making scenarios |
+    • 96:| F1.2 | Comparing saving, investing, borrowing, spending | WS-M10-016 | vA–vD | cost-benefit analysis |
+    • 101:| AS-M10        | Math    | 10    | 1        | Strands A–F | One unified placement diagnostic |
+    • 103:#### Strand Coverage in AS-M10
+    • 106:| A — Mathematical Thinking | A1.1, A2.1 | reasoning, connections |
+    • 107:| B — Number | B1.1, B2.1, B2.2 | exponents, radicals, scientific notation |
+    • 108:| C — Algebra | C1.1, C1.2, C2.1 | polynomials, quadratics, coding |
+    • 109:| D — Data | D1.1, D1.2, D2.1 | data analysis & modelling |
+    • 110:| E — Geometry & Measurement | E1.1, E1.2, E2.1 | trigonometry, area, volume |
+    • 111:| F — Financial Literacy | F1.1, F1.2 | decision-making, financial contexts |
+    • 114:- 2025-09-03 — Initial scaffold for MTH2W
+- Worksheet Plan rows (quick count):
+    ✓ Rows found: 16
+- Assessment Plan sanity:
+    ✓ Assessment ID present
+
+======================================================================
+Validator output:
