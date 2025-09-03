@@ -54,8 +54,10 @@ source_pdf: curriculum/ontario/Mathematics_Grade11_MCR3U_official.pdf
 - **C3.1**: analyse and compare functions using multiple representations to identify key features and draw conclusions
 
 ### Strand D — Financial Applications of Functions
-- **D1.1**: _…_
-- **D2.1**: _…_
+- **D1.1**: calculate and compare simple and compound interest, and interpret growth using tables, graphs, and formulas
+- **D1.2**: solve problems involving saving and investing (e.g., future value, regular contributions), and evaluate strategies and risk
+- **D2.1**: model loans and debt repayment (e.g., mortgages, car loans) using functions and technology; interpret amortization features
+- **D2.2**: analyse financial decisions (taxes, fees, inflation) using functional models; communicate assumptions and limitations
 
 ## 4) Planning Tables
 
