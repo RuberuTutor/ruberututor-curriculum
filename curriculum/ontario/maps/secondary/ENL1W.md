@@ -58,6 +58,10 @@ source_pdf: curriculum/ontario/English_Grade9_ENL1W_2023.pdf
 | A2.1 | Safe and responsible online practices | WS-E9-003 | vA–vD | digital literacy focus |
 | A3.1 | Connections to diverse voices and perspectives | WS-E9-004 | vA–vD | Indigenous and global contexts |
 
+| B1.1 | Comprehension: summarize, infer, analyze diverse texts | WS-E9-005 | vA–vD | includes Indigenous voices |
+| B2.1 | Text forms, features, and stylistic elements | WS-E9-006 | vA–vD | literary + informational |
+| B3.1 | Evaluating perspectives/values; making connections | WS-E9-007 | vA–vD | personal & community links |
+
 ### 4.2 Assessment Plan (whole grade)
 | Assessment ID | Subject | Grade | Versions | Coverage | Notes |
 |---------------|---------|-------|----------|----------|-------|
