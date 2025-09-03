@@ -83,6 +83,9 @@ source_pdf: curriculum/ontario/Mathematics_Grade10_MTH2W_2021.pdf
 | B1.1 | Properties of real numbers (rational & irrational) | WS-M10-003 | vA–vD | classification & examples |
 | B2.1 | Simplifying expressions with exponents & radicals | WS-M10-004 | vA–vD | step-by-step exercises |
 | B2.2 | Problem-solving with powers, radicals, scientific notation | WS-M10-005 | vA–vD | applied contexts |
+| C1.1 | Simplify polynomials; solve linear & quadratic equations | WS-M10-006 | vA–vD | include factoring set |
+| C1.2 | Model with linear & quadratic relations; interpret solutions | WS-M10-007 | vA–vD | tables, graphs, equations |
+| C2.1 | Coding for algebra (represent & solve) | WS-M10-008 | vA–vD | pseudocode + optional Python |
 
 ### 4.2 Assessment Plan (whole grade)
 | Assessment ID | Subject | Grade | Versions | Coverage | Notes |
