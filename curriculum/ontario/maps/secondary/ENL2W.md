@@ -52,10 +52,10 @@ source_pdf: curriculum/ontario/English_Grade10_ENL2W_official.pdf
 - **B3.1**: evaluate perspectives, values, and issues presented in texts, and make connections to their own experiences and to those of diverse communities
 
 ### Strand C — Writing
-- **C1.1**: _…_
-- **C1.2**: _…_
-- **C2.1**: _…_
-- **C3.1**: _…_
+- **C1.1**: generate and organize ideas for writing, using a variety of strategies and resources
+- **C1.2**: determine purpose and audience for writing, and select appropriate forms and stylistic elements
+- **C2.1**: draft and revise their writing, integrating feedback, to improve clarity, coherence, and effectiveness
+- **C3.1**: edit, proofread, and publish writing, applying language conventions and using tools to improve accuracy and presentation
 
 ### Strand D — Media Studies
 - **D1.1**: _…_
