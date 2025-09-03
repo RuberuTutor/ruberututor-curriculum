@@ -88,15 +88,16 @@ source_pdf: curriculum/ontario/English_Grade10_ENL2W_official.pdf
 ### 4.2 Assessment Plan (whole grade)
 | Assessment ID | Subject | Grade | Versions | Coverage | Notes |
 |---------------|---------|-------|----------|----------|-------|
-| AS-E10        | English | 10    | 1        | Strands A–D | Placement diagnostic |
+| AS-E10        | English | 10    | 1        | Strands A–D | One unified placement diagnostic |
 
-#### Strand Coverage in AS-E10 (example scaffold; adjust after expectations are pasted)
+#### Strand Coverage in AS-E10
 | Strand | Sample Expectations Assessed | Notes |
 |--------|-------------------------------|-------|
-| A — Literacy Connections | A1.1, A2.1, A3.1 | transferable skills |
-| B — Reading & Lit | B1.1, B2.1, B3.1 | comprehension & analysis |
-| C — Writing | C1.1, C2.1, C3.1 | process & conventions |
-| D — Media | D1.1, D2.1 | analysis & creation |
+| A — Literacy Connections | A1.1, A2.1, A3.1 | transferable & digital literacy |
+| B — Reading & Literature | B1.1, B1.2, B2.1, B3.1 | comprehension & analysis |
+| C — Writing | C1.1, C2.1, C3.1 | process, revision, conventions |
+| D — Media Studies | D1.1, D1.2, D2.1, D3.1 | media analysis & creation |
+
 
 ## 5) Changelog
 - 2025-09-03 — Initial scaffold for ENL2W (map, planning tables, AS-E10 placeholder)
