@@ -18,9 +18,11 @@ source_pdf: curriculum/ontario/Mathematics_Grade10_MTH2W_2021.pdf
 - Strand F: Financial Literacy
 
 ## 2) Overall Expectations (verbatim)
+
 ### Strand A — Mathematical Thinking and Making Connections
-- **A1**: _paste verbatim overall expectation here_
-- **A2**: _paste verbatim overall expectation here_
+- **A1**: use mathematical processes and skills to develop and apply reasoning, problem-solving, and communication strategies
+- **A2**: make connections among mathematical concepts and procedures, and relate them to real-life situations and other subject areas
+
 
 ### Strand B — Number
 - **B1**: _paste verbatim overall expectation here_
