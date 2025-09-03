@@ -65,8 +65,9 @@ source_pdf: curriculum/ontario/Mathematics_Grade10_MTH2W_2021.pdf
 - **D2.1**: apply the process of mathematical modelling with data from real contexts to pose questions, make assumptions, build and test models, and refine conclusions
 
 ### Strand E — Geometry and Measurement
-- **E1.1**: _…_
-- **E2.1**: _…_
+- **E1.1**: solve problems involving similar and congruent triangles, and apply the Pythagorean theorem
+- **E1.2**: apply trigonometric ratios and the sine law and cosine law to solve real-life problems involving triangles
+- **E2.1**: solve problems involving perimeter, area, surface area, and volume of 2D and 3D figures, in exact and approximate forms
 
 ### Strand F — Financial Literacy
 - **F1.1**: _…_
