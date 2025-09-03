@@ -41,8 +41,8 @@ source_pdf: curriculum/ontario/Mathematics_Grade10_MTH2W_2021.pdf
 - **E2**: solve problems involving trigonometry and measurement in real-life applications
 
 ### Strand F — Financial Literacy
-- **F1**: _paste verbatim overall expectation here_
-- **F2**: _paste verbatim overall expectation here_
+- **F1**: demonstrate the knowledge and skills needed to make informed financial decisions
+- **F2**: demonstrate an understanding of the important role that money plays in society and the ways in which financial decisions can impact individuals and communities
 
 ## 3) Specific Expectations (verbatim with codes)
 ### Strand A — Mathematical Thinking and Making Connections
