@@ -40,10 +40,10 @@ source_pdf: curriculum/ontario/English_Grade9_ENL1W_2023.pdf
 - **C2**: draft and revise their writing, using a variety of literary, informational, and graphic forms and stylistic elements appropriate for the purpose and audience
 - **C3**: use editing, proofreading, and publishing skills and strategies, and knowledge of language conventions, to correct errors, refine expression, and present work effectively
 
-
 ### Strand D — Media Studies
-- **D1.1**: _…_
-- **D2.1**: _…_
+- **D1**: demonstrate an understanding of a variety of media texts and how they are constructed for specific purposes and audiences
+- **D2**: create a variety of media texts for different purposes and audiences, using appropriate forms, conventions, and techniques
+
 
 ## 4) Planning Tables
 
