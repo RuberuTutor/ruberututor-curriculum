@@ -54,10 +54,10 @@ source_pdf: curriculum/ontario/English_Grade11_ENL3W_official.pdf
 - **B3.1**: evaluate perspectives, values, and issues in texts, and make connections to self, others, and the world
 
 ### Strand C — Writing
-- **C1.1**: _…_
-- **C1.2**: _…_
-- **C2.1**: _…_
-- **C3.1**: _…_
+- **C1.1**: [paste verbatim specific expectation from the ENL3W PDF for C1.1]
+- **C1.2**: [paste verbatim specific expectation from the ENL3W PDF for C1.2]
+- **C2.1**: [paste verbatim specific expectation from the ENL3W PDF for C2.1]
+- **C3.1**: [paste verbatim specific expectation from the ENL3W PDF for C3.1]
 
 ### Strand D — Media Studies
 - **D1.1**: _…_
