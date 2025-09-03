@@ -70,6 +70,10 @@ source_pdf: curriculum/ontario/English_Grade11_ENL3W_official.pdf
 ### 4.1 Worksheet Plan (by Specific Expectation)
 | Code  | Brief Skill/Focus | Worksheet ID | Version | Notes |
 |------:|-------------------|--------------|---------|-------|
+| A1.1 | Identifying transferable skills in academic & workplace texts | WS-E11-001 | vA–vD | collaboration, critical thinking |
+| A1.2 | Applying transferable skills in literacy tasks | WS-E11-002 | vA–vD | cross-disciplinary practice |
+| A2.1 | Safe and ethical online research & communication | WS-E11-003 | vA–vD | digital citizenship |
+| A3.1 | Making connections to diverse voices & perspectives | WS-E11-004 | vA–vD | Indigenous, global, workplace contexts |
 
 ### 4.2 Assessment Plan (whole grade)
 | Assessment ID | Subject | Grade | Versions | Coverage | Notes |
