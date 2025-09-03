@@ -92,11 +92,23 @@ source_pdf: curriculum/ontario/Mathematics_Grade10_MTH2W_2021.pdf
 | E1.1 | Similar & congruent triangles; Pythagorean theorem | WS-M10-012 | vA–vD | proof + applied problems |
 | E1.2 | Trigonometry: sine, cosine, tangent; sine/cosine law | WS-M10-013 | vA–vD | word problems & diagrams |
 | E2.1 | Perimeter, area, surface area, volume of 2D/3D figures | WS-M10-014 | vA–vD | exact & approximate forms |
+| F1.1 | Factors influencing financial decisions | WS-M10-015 | vA–vD | decision-making scenarios |
+| F1.2 | Comparing saving, investing, borrowing, spending | WS-M10-016 | vA–vD | cost-benefit analysis |
 
 ### 4.2 Assessment Plan (whole grade)
 | Assessment ID | Subject | Grade | Versions | Coverage | Notes |
 |---------------|---------|-------|----------|----------|-------|
-| AS-M10        | Math    | 10    | 1        | Strands A–F | Placement diagnostic |
+| AS-M10        | Math    | 10    | 1        | Strands A–F | One unified placement diagnostic |
+
+#### Strand Coverage in AS-M10
+| Strand | Sample Expectations Assessed | Notes |
+|--------|-------------------------------|-------|
+| A — Mathematical Thinking | A1.1, A2.1 | reasoning, connections |
+| B — Number | B1.1, B2.1, B2.2 | exponents, radicals, scientific notation |
+| C — Algebra | C1.1, C1.2, C2.1 | polynomials, quadratics, coding |
+| D — Data | D1.1, D1.2, D2.1 | data analysis & modelling |
+| E — Geometry & Measurement | E1.1, E1.2, E2.1 | trigonometry, area, volume |
+| F — Financial Literacy | F1.1, F1.2 | decision-making, financial contexts |
 
 ## 5) Changelog
 - 2025-09-03 — Initial scaffold for MTH2W
