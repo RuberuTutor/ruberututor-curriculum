@@ -80,4 +80,4 @@ source_pdf: curriculum/ontario/Mathematics_Grade10_MTH2W_2021.pdf
 
 ## 5) Changelog
 - 2025-09-03 — Initial scaffold for MTH2W
-# Placeholder — to be populated from official PDFs
+
