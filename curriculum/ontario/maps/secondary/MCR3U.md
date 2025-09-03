@@ -41,8 +41,10 @@ source_pdf: curriculum/ontario/Mathematics_Grade11_MCR3U_official.pdf
 - **A1.1**: apply mathematical processes (e.g., problem solving, reasoning, communication) to make and evaluate conjectures, justify conclusions, and connect concepts across strands and to real-life contexts
 
 ### Strand B — Number & Algebra
-- **B1.1**: _…_
-- **B2.1**: _…_
+- **B1.1**: simplify algebraic expressions involving polynomials, rational expressions, and exponents
+- **B1.2**: solve linear and quadratic equations, and verify solutions in real contexts
+- **B2.1**: solve inequalities and systems of equations algebraically and graphically
+- **B2.2**: apply algebraic techniques to model and solve problems in real-life situations
 
 ### Strand C — Functions
 - **C1.1**: _…_
