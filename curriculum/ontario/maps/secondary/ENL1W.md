@@ -66,6 +66,9 @@ source_pdf: curriculum/ontario/English_Grade9_ENL1W_2023.pdf
 | C2.1 | Drafting & revising written work | WS-E9-009 | vA–vD | focus on clarity & audience |
 | C3.1 | Editing, proofreading, and publishing | WS-E9-010 | vA–vD | grammar, style, conventions |
 
+| D1.1 | Analyzing purpose, audience, and techniques in media texts | WS-E9-011 | vA–vD | film, ads, digital media |
+| D2.1 | Creating media texts for different audiences | WS-E9-012 | vA–vD | posters, podcasts, blogs |
+
 ### 4.2 Assessment Plan (whole grade)
 | Assessment ID | Subject | Grade | Versions | Coverage | Notes |
 |---------------|---------|-------|----------|----------|-------|
