@@ -33,8 +33,8 @@ source_pdf: curriculum/ontario/Mathematics_Grade10_MTH2W_2021.pdf
 - **C2**: apply the process of coding to represent mathematical concepts and to solve problems involving algebra
 
 ### Strand D — Data
-- **D1**: _paste verbatim overall expectation here_
-- **D2**: _paste verbatim overall expectation here_
+- **D1**: collect, organize, and analyse data, using tools and strategies, to make inferences and solve problems
+- **D2**: apply the process of mathematical modelling, involving data and mathematical concepts from other strands, to represent and analyse real-life situations
 
 ### Strand E — Geometry and Measurement
 - **E1**: _paste verbatim overall expectation here_
