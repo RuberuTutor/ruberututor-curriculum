@@ -65,6 +65,10 @@ source_pdf: curriculum/ontario/Mathematics_Grade11_MCR3U_official.pdf
 | Code  | Brief Skill/Focus | Worksheet ID | Version | Notes |
 |------:|-------------------|--------------|---------|-------|
 | A1.1 | Applying mathematical processes: conjectures, reasoning, communication | WS-M11-001 | vA–vD | across strands & real-life tasks |
+| B1.1 | Simplify polynomials, rationals, exponents | WS-M11-002 | vA–vD | mixed practice + error analysis |
+| B1.2 | Solve linear & quadratic equations | WS-M11-003 | vA–vD | check by substitution/graph |
+| B2.1 | Solve inequalities & systems | WS-M11-004 | vA–vD | algebraic + graphical methods |
+| B2.2 | Model with algebra in contexts | WS-M11-005 | vA–vD | word problems → equations |
 
 ### 4.2 Assessment Plan (whole grade)
 | Assessment ID | Subject | Grade | Versions | Coverage | Notes |
