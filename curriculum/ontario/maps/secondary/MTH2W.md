@@ -37,8 +37,8 @@ source_pdf: curriculum/ontario/Mathematics_Grade10_MTH2W_2021.pdf
 - **D2**: apply the process of mathematical modelling, involving data and mathematical concepts from other strands, to represent and analyse real-life situations
 
 ### Strand E — Geometry and Measurement
-- **E1**: _paste verbatim overall expectation here_
-- **E2**: _paste verbatim overall expectation here_
+- **E1**: demonstrate an understanding of geometric and measurement relationships, and apply this knowledge to solve problems
+- **E2**: solve problems involving trigonometry and measurement in real-life applications
 
 ### Strand F — Financial Literacy
 - **F1**: _paste verbatim overall expectation here_
