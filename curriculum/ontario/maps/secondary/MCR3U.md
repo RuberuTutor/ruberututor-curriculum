@@ -27,9 +27,9 @@ source_pdf: curriculum/ontario/Mathematics_Grade11_MCR3U_official.pdf
 - **B2**: use algebraic techniques to simplify expressions, solve equations and inequalities, and model situations
 
 ### Strand C — Functions
-- **C1**: _paste verbatim overall expectation here_
-- **C2**: _paste verbatim overall expectation here_
-- **C3**: _paste verbatim overall expectation here_
+- **C1**: demonstrate an understanding of the characteristics of functions and their representations, and make connections among them
+- **C2**: model and solve problems using a variety of function types (e.g., linear, quadratic, polynomial, exponential), selecting appropriate tools and strategies
+- **C3**: analyse and interpret functions in multiple representations (algebraic, graphical, numerical), and communicate reasoning
 
 ### Strand D — Financial Applications of Functions
 - **D1**: _paste verbatim overall expectation here_
