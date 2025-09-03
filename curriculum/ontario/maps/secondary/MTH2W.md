@@ -86,6 +86,9 @@ source_pdf: curriculum/ontario/Mathematics_Grade10_MTH2W_2021.pdf
 | C1.1 | Simplify polynomials; solve linear & quadratic equations | WS-M10-006 | vA–vD | include factoring set |
 | C1.2 | Model with linear & quadratic relations; interpret solutions | WS-M10-007 | vA–vD | tables, graphs, equations |
 | C2.1 | Coding for algebra (represent & solve) | WS-M10-008 | vA–vD | pseudocode + optional Python |
+| D1.1 | Collecting, organizing, and displaying data | WS-M10-009 | vA–vD | frequency tables & graphs |
+| D1.2 | Analyzing one- and two-variable data | WS-M10-010 | vA–vD | measures of centre & spread |
+| D2.1 | Mathematical modelling with data | WS-M10-011 | vA–vD | real-life scenarios |
 
 ### 4.2 Assessment Plan (whole grade)
 | Assessment ID | Subject | Grade | Versions | Coverage | Notes |
