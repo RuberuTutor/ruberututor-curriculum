@@ -36,9 +36,10 @@ source_pdf: curriculum/ontario/English_Grade9_ENL1W_2023.pdf
 
 
 ### Strand C — Writing
-- **C1.1**: _…_
-- **C2.1**: _…_
-- **C3.1**: _…_
+- **C1**: generate, gather, and organize ideas and information to write for an intended purpose and audience
+- **C2**: draft and revise their writing, using a variety of literary, informational, and graphic forms and stylistic elements appropriate for the purpose and audience
+- **C3**: use editing, proofreading, and publishing skills and strategies, and knowledge of language conventions, to correct errors, refine expression, and present work effectively
+
 
 ### Strand D — Media Studies
 - **D1.1**: _…_
