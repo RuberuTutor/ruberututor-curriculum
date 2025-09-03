@@ -60,8 +60,9 @@ source_pdf: curriculum/ontario/Mathematics_Grade10_MTH2W_2021.pdf
 - **C2.1**: use coding to represent mathematical concepts, and design simple algorithms to solve algebraic problems
 
 ### Strand D — Data
-- **D1.1**: _…_
-- **D2.1**: _…_
+- **D1.1**: collect, organize, and display data using appropriate tools; describe distributions and key features (e.g., centre, spread, shape)
+- **D1.2**: analyse one- and two-variable data using numerical and graphical methods; draw conclusions and communicate results
+- **D2.1**: apply the process of mathematical modelling with data from real contexts to pose questions, make assumptions, build and test models, and refine conclusions
 
 ### Strand E — Geometry and Measurement
 - **E1.1**: _…_
