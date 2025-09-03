@@ -32,9 +32,9 @@ source_pdf: curriculum/ontario/English_Grade9_ENL1W_2023.pdf
 
 
 ### Strand B — Reading and Literature Studies
-- **B1**: read, understand, and interpret a variety of literary texts, using a range of strategies to construct meaning
-- **B2**: recognize a variety of text forms, text features, and stylistic elements, and demonstrate understanding of how they help communicate meaning
-- **B3**: identify perspectives, values, and issues presented in texts, and make connections to diverse communities, cultures, and contexts, including those of First Nations, Métis, and Inuit individuals, communities, groups, and nations
+- **B1.1**: read and demonstrate understanding of a variety of texts from diverse cultures and perspectives, including Indigenous voices, by summarizing, analyzing, and making inferences
+- **B2.1**: identify text forms, features, and stylistic elements in literary and informational texts, and explain how they help communicate meaning
+- **B3.1**: evaluate perspectives, values, and issues presented in texts, making connections to their own experiences and to those of diverse communities, including First Nations, Métis, and Inuit
 
 
 ### Strand C — Writing
