@@ -36,11 +36,11 @@ source_pdf: curriculum/ontario/English_Grade9_ENL1W_2023.pdf
 - **B2.1**: identify text forms, features, and stylistic elements in literary and informational texts, and explain how they help communicate meaning
 - **B3.1**: evaluate perspectives, values, and issues presented in texts, making connections to their own experiences and to those of diverse communities, including First Nations, Métis, and Inuit
 
-
 ### Strand C — Writing
-- **C1**: generate, gather, and organize ideas and information to write for an intended purpose and audience
-- **C2**: draft and revise their writing, using a variety of literary, informational, and graphic forms and stylistic elements appropriate for the purpose and audience
-- **C3**: use editing, proofreading, and publishing skills and strategies, and knowledge of language conventions, to correct errors, refine expression, and present work effectively
+- **C1.1**: generate and gather ideas for writing, and organize information to suit purpose and audience
+- **C2.1**: draft and revise written work using appropriate forms, conventions, and stylistic elements for clarity and effect
+- **C3.1**: edit, proofread, and publish writing using knowledge of language conventions and tools to improve accuracy and presentation
+
 
 ### Strand D — Media Studies
 - **D1**: demonstrate an understanding of a variety of media texts and how they are constructed for specific purposes and audiences
