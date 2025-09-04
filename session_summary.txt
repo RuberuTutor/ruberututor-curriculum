@@ -1,0 +1,76 @@
+========== SESSION SUMMARY ==========
+
+## Repo & Branch
+/Users/studio/ruberututor-curriculum
+* chore/stage7-qa 8a008d4 [origin/chore/stage7-qa] chore(backup): auto backup 2025-09-04 01:05:22
+origin	https://github.com/RuberuTutor/ruberututor-curriculum (fetch)
+origin	https://github.com/RuberuTutor/ruberututor-curriculum (push)
+
+## Git Status (staged + untracked)
+A  project_logs/conversations/misc/2025-09-04/2025-09-04_chat_full.md
+A  project_logs/conversations/misc/2025-09-04/2025-09-04_chat_full_00.md
+A  project_logs/conversations/misc/2025-09-04/2025-09-04_chat_full_index.md
+A  project_logs/conversations/misc/2025-09-04/2025-09-04_chat_part01.md
+A  project_logs/conversations/misc/2025-09-04_014244/2025-09-04_014244_chat_full.md
+A  project_logs/conversations/misc/2025-09-04_014244/2025-09-04_014244_part00.md
+A  project_logs/conversations/misc/2025-09-04_014244/2025-09-04_014244_part01.md
+A  project_logs/conversations/misc/2025-09-04_014244/2025-09-04_014244_part02.md
+A  project_logs/conversations/misc/2025-09-04_014244/2025-09-04_014244_part03.md
+A  project_logs/conversations/misc/2025-09-04_014244/2025-09-04_014244_part04.md
+A  project_logs/conversations/misc/2025-09-04_014244/2025-09-04_014244_part05.md
+A  project_logs/conversations/misc/2025-09-04_014244/2025-09-04_014244_part06.md
+A  project_logs/conversations/misc/2025-09-04_014721/2025-09-04_014721_chat_full.md
+A  project_logs/conversations/misc/2025-09-04_014721/2025-09-04_014721_part00.md
+A  project_logs/conversations/misc/2025-09-04_014721/2025-09-04_014721_part01.md
+A  project_logs/conversations/misc/2025-09-04_014721/2025-09-04_014721_part02.md
+A  project_logs/conversations/misc/2025-09-04_014721/2025-09-04_014721_part03.md
+A  project_logs/conversations/misc/2025-09-04_014721/2025-09-04_014721_part04.md
+A  project_logs/conversations/misc/2025-09-04_014721/2025-09-04_014721_part05.md
+A  project_logs/conversations/misc/2025-09-04_014721/2025-09-04_014721_part06.md
+A  tools/qa/out/dropbox_diff.txt
+A  tools/qa/out/placeholders.txt
+A  tools/qa/out/source_pdf_report.tsv
+A  tools/qa/run_all.sh
+A  tools/qa/scan_placeholders.sh
+A  tools/qa/validate_coverage.py
+A  tools/qa/verify_source_pdfs.sh
+?? session_summary.txt
+?? tools/qa/summarize_session.sh
+
+## Last 3 Commits
+8a008d4 chore(backup): auto backup 2025-09-04 01:05:22
+ef8d4a6 chore(math): normalize Gr 11–12 math maps to math1112currb.pdf
+8350617 chore(english): point Gr 9–10 maps to english910currb.pdf
+
+## QA Reports (sizes + first few lines)
+--- dropbox_diff.txt ---
+-rw-r--r--  1 studio  staff   5.0K Sep  4 11:00 tools/qa/out/dropbox_diff.txt
+Only in /Users/studio/Dropbox/ruberututor_knowledge_pack/curriculum: .DS_Store
+Only in /Users/studio/Dropbox/ruberututor_knowledge_pack/curriculum/ontario: .DS_Store
+Only in /Users/studio/ruberututor-curriculum/curriculum/ontario: Mathematics_Grade10_MTH2W_2021.pdf
+Only in /Users/studio/ruberututor-curriculum/curriculum/ontario: Mathematics_Grade11_MCR3U_official.pdf
+Only in /Users/studio/ruberututor-curriculum/curriculum/ontario: Mathematics_Grade9_MTH1W_2021_with-Teacher-Supports.pdf
+Only in /Users/studio/Dropbox/ruberututor_knowledge_pack/curriculum/ontario/maps: .DS_Store
+Only in /Users/studio/ruberututor-curriculum/curriculum/ontario/maps/secondary: ENG2D.md
+Only in /Users/studio/ruberututor-curriculum/curriculum/ontario/maps/secondary: ENG4E.md
+Only in /Users/studio/ruberututor-curriculum/curriculum/ontario/maps/secondary: ENG4U.md
+Only in /Users/studio/ruberututor-curriculum/curriculum/ontario/maps/secondary: ENL1W.md
+Only in /Users/studio/ruberututor-curriculum/curriculum/ontario/maps/secondary: ENL2W.md
+Only in /Users/studio/ruberututor-curriculum/curriculum/ontario/maps/secondary: ENL3W.md
+Only in /Users/studio/ruberututor-curriculum/curriculum/ontario/maps/secondary: ENL4W.md
+Only in /Users/studio/ruberututor-curriculum/curriculum/ontario/maps/secondary: MBF3C.md
+Only in /Users/studio/ruberututor-curriculum/curriculum/ontario/maps/secondary: MCF3M.md
+Only in /Users/studio/ruberututor-curriculum/curriculum/ontario/maps/secondary: MCR3U.md
+Only in /Users/studio/ruberututor-curriculum/curriculum/ontario/maps/secondary: MCV4U.md
+Only in /Users/studio/ruberututor-curriculum/curriculum/ontario/maps/secondary: MDM4U.md
+Only in /Users/studio/ruberututor-curriculum/curriculum/ontario/maps/secondary: MHF4U.md
+Only in /Users/studio/ruberututor-curriculum/curriculum/ontario/maps/secondary: MTH1W.md
+
+--- placeholders.txt ---
+-rw-r--r--  1 studio  staff     0B Sep  4 11:09 tools/qa/out/placeholders.txt
+
+--- source_pdf_report.tsv ---
+-rw-r--r--  1 studio  staff    27B Sep  4 11:09 tools/qa/out/source_pdf_report.tsv
+map_file	source_pdf	status
+
+========== END SUMMARY ==========
