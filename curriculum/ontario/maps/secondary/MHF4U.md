@@ -42,6 +42,7 @@ By the end of this course, students will:
 - solve problems involving polynomial and rational functions, including applications.
 
 ---
+source_pdf: curriculum/ontario/pdfs/math1112currb.pdf
 
 ## 3) Specific Expectations
 
