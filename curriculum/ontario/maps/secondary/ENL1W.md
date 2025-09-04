@@ -4,7 +4,7 @@ grade: 9
 subject: English
 stream: De-streamed
 stage: Secondary Curriculum Mapping (Stage 5)
-source_pdf: curriculum/ontario/pdfs/english1112curriculum.pdf
+source_pdf: curriculum/ontario/pdfs/english910currb.pdf
 ---
 
 # Grade 9 English (ENL1W)

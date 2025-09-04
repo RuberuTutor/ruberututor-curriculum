@@ -4,7 +4,7 @@ grade: 10
 subject: English
 stream: De-streamed (project scaffold)
 stage: Secondary Curriculum Mapping (Stage 5)
-source_pdf: curriculum/ontario/pdfs/english1112curriculum.pdf
+source_pdf: curriculum/ontario/pdfs/english910currb.pdf
 ---
 
 # Grade 10 English (ENL2W)

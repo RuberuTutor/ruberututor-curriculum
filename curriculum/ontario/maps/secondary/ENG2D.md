@@ -4,7 +4,7 @@ grade: 10
 subject: English
 stream: Academic
 stage: 6
-source_pdf: curriculum/ontario/pdfs/english1112curriculum.pdf
+source_pdf: curriculum/ontario/pdfs/english910currb.pdf
 ---
 
 # ENG2D — English, Grade 10 (Academic)
