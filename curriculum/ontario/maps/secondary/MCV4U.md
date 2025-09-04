@@ -4,7 +4,7 @@ grade: 11
 subject: Mathematics
 stream: Mixed
 stage: 6
-source_pdf: curriculum/ontario/secondary/math_gr11_mcf3m.pdf
+source_pdf: curriculum/ontario/pdfs/math1112currb.pdf
 ---
 
 # MCF3M — Functions and Applications

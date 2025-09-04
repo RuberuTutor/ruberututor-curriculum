@@ -4,7 +4,7 @@ grade: 11
 subject: Mathematics
 course_code: MCF3M
 stream: University/College Preparation
-source_pdf: curriculum/ontario/secondary/math/MCF3M.pdf
+source_pdf: curriculum/ontario/pdfs/math1112currb.pdf
 
 ---
 
