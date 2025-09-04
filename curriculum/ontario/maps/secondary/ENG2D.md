@@ -1,106 +1,95 @@
 ---
-project: RuberuTutor Curriculum Project — Stage 5
-stage: Secondary Curriculum Mapping (Grades 9–12)
-repo_path: curriculum/ontario/maps/secondary/
-course_code: TBD
-course_title: TBD
-grade: 9–12
-subject: Math | English
-version: v0.1
-status: draft
-last_updated: 2025-09-01
-source_pdf: curriculum/ontario/<official-source>.pdf
-snapshot_doc: curriculum/ontario/snapshots/<file>.docx
+course: ENG2D
+grade: 10
+subject: English
+stream: Academic
+stage: 6
+source_pdf: curriculum/ontario/pdfs/english910currb.pdf
 ---
 
-# {COURSE_CODE} — {COURSE_TITLE}
-
-> **Provenance**: All expectations are verbatim from the official Ontario curriculum (`source_pdf`).
-> **Scope**: Secondary only (Grades 9–12). Keep codes exactly as in the PDF (e.g., B2.1, C1.4).
+# ENG2D — English, Grade 10 (Academic)
 
 ## 1) Strands Overview
-- Strand A — {Title}
-- Strand B — {Title}
-- Strand C — {Title}
-- Strand D — {Title}
-- Strand E — {Title} *(Math if applicable)*
-- Strand F — {Title} *(Math if applicable)*
+- A. Oral Communication
+- B. Reading and Literature Studies
+- C. Writing
+- D. Media Studies
 
-## 2) Overall Expectations (verbatim)
-### Strand A — {Title}
-- **A1**: …
-- **A2**: …
+## 2) Overall Expectations
 
-### Strand B — {Title}
-- **B1**: …
-- **B2**: …
+### Strand A — Oral Communication
+By the end of this course, students will:
+- listen to understand and respond appropriately in a variety of situations for a variety of purposes;
+- use speaking skills and strategies appropriately to communicate with different audiences for a variety of purposes;
+- reflect on and identify their strengths as listeners and speakers, areas for improvement, and the strategies they found most helpful in oral communication situations; :contentReference[oaicite:1]{index=1}
 
-### Strand C — {Title}
-- **C1**: …
-- **C2**: …
+### Strand B — Reading and Literature Studies
+By the end of this course, students will:
+- read and demonstrate an understanding of a variety of literary, informational, and graphic texts, using a range of strategies to construct meaning;
+- recognize a variety of text forms, text features, and stylistic elements and demonstrate understanding of how they help communicate meaning;
+- use knowledge of words and cueing systems to read fluently;
+- reflect on and identify their strengths as readers, areas for improvement, and the strategies they found most helpful before, during, and after reading. :contentReference[oaicite:2]{index=2}
 
-### Strand D — {Title}
-- **D1**: …
-- **D2**: …
+### Strand C — Writing
+By the end of this course, students will:
+- generate, gather, and organize ideas and information to write for an intended purpose and audience;
+- draft and revise their writing, using a variety of forms and stylistic elements appropriate for the purpose and audience;
+- use editing, proofreading, and publishing strategies and knowledge of conventions to present their work effectively;
+- reflect on and identify their strengths as writers, areas for improvement, and the strategies they found most helpful at different stages in the writing process. :contentReference[oaicite:3]{index=3}
 
-### Strand E — {Title} *(if applicable)*
-- **E1**: …
+### Strand D — Media Studies
+By the end of this course, students will:
+- demonstrate an understanding of a variety of media texts;
+- identify media forms and explain how the conventions and techniques associated with them are used to create meaning;
+- create a variety of media texts for different purposes and audiences using appropriate forms and techniques;
+- describe strategies used in interpreting and creating media texts, explain which ones were helpful, and identify steps they can take to improve as media interpreters and producers. :contentReference[oaicite:4]{index=4}
 
-### Strand F — {Title} *(if applicable)*
-- **F1**: …
+## 3) Specific Expectations
 
-## 3) Specific Expectations (verbatim with codes)
-> Keep the original numbering (e.g., **B2.1**, **C1.4**). Do not merge or split.
+### Strand A — Oral Communication
+- A1.1 listen in order to understand and respond appropriately in a variety of situations for a variety of purposes;
+- A1.2 use speaking skills and strategies appropriately to communicate with different audiences for a variety of purposes;
+- A1.3 reflect on and identify their strengths as listeners and speakers, areas for improvement, and the strategies they found most helpful. :contentReference[oaicite:5]{index=5}
 
-### Strand A — {Title}
-- **A1.1**: …
-- **A1.2**: …
-- **A2.1**: …
-- …
+### Strand B — Reading and Literature Studies
+- B1.1 read and demonstrate an understanding of a variety of literary, informational, and graphic texts, using a range of strategies to construct meaning;
+- B1.2 recognize a variety of text forms, text features, and stylistic elements and demonstrate understanding of how they help communicate meaning;
+- B1.3 use knowledge of words and cueing systems to read fluently;
+- B1.4 reflect on and identify their strengths as readers, areas for improvement, and the strategies they found most helpful. :contentReference[oaicite:6]{index=6}
 
-### Strand B — {Title}
-- **B1.1**: …
-- **B1.2**: …
-- **B2.1**: …
-- …
+### Strand C — Writing
+- C1.1 generate, gather, and organize ideas and information to write for an intended purpose and audience;
+- C1.2 draft and revise writing, using a variety of forms and stylistic elements appropriate for the purpose and audience;
+- C1.3 use editing, proofreading, and publishing strategies and conventions to present writing effectively;
+- C1.4 reflect on and identify their strengths as writers, areas for improvement, and the strategies they found most helpful. :contentReference[oaicite:7]{index=7}
 
-### Strand C — {Title}
-- **C1.1**: …
-- **C1.2**: …
-- …
+### Strand D — Media Studies
+- D1.1 demonstrate understanding of a variety of media texts;
+- D1.2 identify media forms and explain how their conventions create meaning;
+- D1.3 create media texts for different purposes and audiences using appropriate forms and techniques;
+- D1.4 describe strategies used in interpreting and creating media texts, explain which ones were helpful, and identify steps to improve as media interpreters and producers. :contentReference[oaicite:8]{index=8}
 
-### Strand D — {Title}
-- **D1.1**: …
-- **D1.2**: …
-- …
+## 4) Planning Tables
 
-### Strand E — {Title} *(if applicable)*
-- **E1.1**: …
-- …
+### 4.1 Worksheet Plan
+| Expectation Code | Topic / Focus                  | Worksheet ID   | Versions | Notes |
+|------------------|--------------------------------|----------------|----------|-------|
+| A1.1–A1.3        | Oral communication strategies  | WS-ENG10-001   | vA–vD    |       |
+| B1.1–B1.4        | Reading comprehension & fluency| WS-ENG10-002   | vA–vD    |       |
+| C1.1–C1.4        | Writing process & conventions  | WS-ENG10-003   | vA–vD    |       |
+| D1.1–D1.4        | Media analysis & production    | WS-ENG10-004   | vA–vD    |       |
 
-### Strand F — {Title} *(if applicable)*
-- **F1.1**: …
-- …
+### 4.2 Assessment Plan
+| Assessment ID | Subject | Grade | Count | Strand Coverage | Notes                        |
+|---------------|---------|-------|-------|-----------------|------------------------------|
+| **AS-E10**    | English | 10    | 1     | Strands A–D     | Culminating; diagnostic task |
 
-## 4) Planning Tables (Worksheets & Assessments vA–vD)
+**Strand Coverage**  
+- A: A1.1–A1.3  
+- B: B1.1–B1.4  
+- C: C1.1–C1.4  
+- D: D1.1–D1.4
 
-### 4.1 Worksheet Plan (by Specific Expectation)
-| Code | Brief Skill/Focus | Worksheet ID | Version | Notes |
-|-----:|-------------------|--------------|---------|-------|
-| B2.1 | …                 | WS-M9-001    | vA–vD   | …     |
+## 5) Changelog
+- 2025-09-03 — Full scaffold with verbatim Overall and Specific Expectations added (Stage 6).
 
-### 4.2 Assessment Plan (by Overall/Specific Expectation)
-| Code | Type | Assessment ID | Version | Evidence/Criteria | Notes |
-|-----:|------|---------------|---------|-------------------|-------|
-| B2.1 | Quiz | AS-M9-001     | vA–vD   | …                 | …     |
-
-## 5) Alignment & Crosswalk (optional)
-- Prior Grades Link:
-- Inter-Strand Connections:
-- Literacy/Numeracy Across Curriculum:
-
-## 6) Implementation Notes
-- Pacing, differentiation, resources.
-
-## 7) Changelog
-- **2025-09-01 (v0.1)** — Initial shell created for {COURSE_CODE}, sourced from {source_pdf}.
