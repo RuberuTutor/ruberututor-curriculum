@@ -1,167 +1,103 @@
-## 4) Planning Tables
-
-### 4.1 Worksheet Plan (by Specific Expectation)
-| Code  | Brief Skill/Focus | Worksheet ID | Version | Notes |
-|------:|-------------------|--------------|---------|-------|
-| B1.1 | Real number system, rational & irrational numbers | WS-M9-001 | vA–vD | classification exercises |
-| B1.2 | Converting between forms (fractions, decimals, radicals) | WS-M9-002 | vA–vD | scaffold with examples |
-| B2.1 | Exponent laws (integer exponents) | WS-M9-003 | vA–vD | step-by-step practice |
-| B2.2 | Expressions with rational exponents & radicals | WS-M9-004 | vA–vD | calculator & manual |
-| B2.3 | Scientific notation, powers & radicals in context | WS-M9-005 | vA–vD | applied word problems |
-| B3.1 | Ratios, rates, percentages, proportions | WS-M9-006 | vA–vD | includes scale factors |
-| B3.2 | Proportional reasoning in real contexts | WS-M9-007 | vA–vD | financial + unit analysis |
-| C1.1 | History & development of algebra, making connections | WS-M9-008 | vA–vD | includes coding tie-in |
-| C1.2 | Coding skills to model algebraic relationships | WS-M9-009 | vA–vD | computer-based tasks |
-| C2.1 | Expanding & simplifying polynomials | WS-M9-010 | vA–vD | step-by-step exercises |
-| C2.2 | Solving linear equations & inequalities | WS-M9-011 | vA–vD | include rational expressions |
-| C3.1 | Comparing linear vs non-linear relations | WS-M9-012 | vA–vD | graph interpretation |
-| C3.2 | Characteristics of linear & non-linear relations | WS-M9-013 | vA–vD | word problems + graphs |
-| C4.1 | Modelling relations with tables, graphs, equations | WS-M9-014 | vA–vD | applied problem-solving |
-| D1.1 | Collecting & using one-variable data | WS-M9-015 | vA–vD | data tables + charts |
-| D1.2 | Analyzing two-variable data | WS-M9-016 | vA–vD | scatter plots & correlations |
-| D2.1 | Mathematical modelling with data | WS-M9-017 | vA–vD | prediction & interpretation |
-| E1.1 | Pythagorean theorem applications | WS-M9-018 | vA–vD | problem sets & diagrams |
-| E1.2 | Surface area & volume of 3D objects | WS-M9-019 | vA–vD | includes real-world contexts |
-| E1.3 | Area & perimeter of 2D shapes | WS-M9-020 | vA–vD | mixed practice |
-| E1.4 | Similar triangles & right triangles | WS-M9-021 | vA–vD | similarity + ratios |
-| E1.5 | Right-triangle trigonometry | WS-M9-022 | vA–vD | sin, cos, tan problems |
-| E1.6 | Trigonometry in real-life applications | WS-M9-023 | vA–vD | word problems & modelling |
-| F1.1 | Factors influencing financial decisions | WS-M9-024 | vA–vD | cost–benefit scenarios |
-| F1.2 | Making informed financial decisions | WS-M9-025 | vA–vD | risk analysis exercises |
-| F1.3 | Budgeting and saving strategies | WS-M9-026 | vA–vD | household/family contexts |
-| F1.4 | Evaluating financial products & services | WS-M9-027 | vA–vD | interest, loans, credit cards |
-
-### 4.2 Assessment Plan (whole grade)
-| Assessment ID | Subject | Grade | Versions | Coverage | Notes |
-|---------------|---------|-------|----------|----------|-------|
-| AS-M9         | Math    | 9     | 1        | Strands A–F | One unified diagnostic test |
-
-#### Strand Coverage in AS-M9
-| Strand | Sample Expectations Assessed | Notes |
-|--------|-------------------------------|-------|
-| A — Mathematical Thinking | A1.1, A1.2, A2.1 | reasoning & problem-solving |
-| B — Number | B1.1, B2.1, B2.3, B3.2 | exponents, radicals, proportions |
-| C — Algebra | C2.1, C2.2, C3.1 | algebraic manipulation, graphs |
-| D — Data | D1.2, D2.1 | scatter plots, modelling |
-| E — Geometry & Measurement | E1.1, E1.5 | Pythagoras, trigonometry |
-| F — Financial Literacy | F1.1, F1.2 | decision-making, cost-benefit |
-
-
-### Strand F — Financial Literacy
-
-- **F1.1**: describe the factors that influence financial decisions, and explain the impact of those decisions on individuals, families, and communities
-- **F1.2**: make informed financial decisions by analysing costs, benefits, and potential risks, using appropriate tools and strategies
-### Strand E — Geometry and Measurement
-
-- **E1.1**: demonstrate an understanding of the Pythagorean relationship, and apply it to solve problems
-- **E1.2**: solve problems involving the surface area and volume of three-dimensional objects, and involving the area and perimeter of two-dimensional shapes, in various contexts
-- **E1.3**: apply geometric and measurement relationships to solve problems involving similar triangles, right triangles, and trigonometry in real-life situations
-### Strand D — Data
-
-- **D1.1**: describe the collection and use of data, and represent and analyse data involving one variable
-- **D1.2**: analyse data involving two variables, using mathematical processes and appropriate tools, and describe relationships
-- **D2.1**: apply the process of mathematical modelling to represent, analyse, and make predictions about real-life situations, using data and mathematical concepts from other strands
-### Strand C — Algebra
-
-- **C1.1**: demonstrate an understanding of the development of algebra, and make connections between algebra and numbers, using various tools and representations
-- **C1.2**: apply coding skills to represent mathematical concepts and relationships, and to solve problems, in algebra and across the other strands
-- **C2.1**: expand and simplify polynomial expressions, and solve problems that involve polynomial equations in one variable
-- **C2.2**: solve first-degree equations, including those involving rational expressions, and solve first-degree inequalities
-- **C3.1**: compare linear and non-linear relations using their different representations, and solve problems involving those relations
-- **C3.2**: determine the characteristics of various representations of linear and non-linear relations, and use these characteristics to solve problems
-- **C4.1**: solve problems by modelling linear and non-linear relations, using tools and strategies such as tables of values, graphs, and equations
-### Strand B — Number
-
-- **B1.1**: demonstrate an understanding of the development of the real number system, including rational and irrational numbers, and describe associated concepts
-- **B1.2**: represent numbers in various forms, such as fractions, decimals, percentages, and radicals, and describe the relationships among these representations
-- **B2.1**: apply the properties of powers, including the exponent rules, to simplify numerical expressions
-- **B2.2**: evaluate numerical expressions involving integer and rational exponents, including those expressed as radicals
-- **B2.3**: solve problems involving powers and radicals, including the use of scientific notation
-- **B3.1**: solve problems involving ratios, rates, percentages, and proportions, including problems involving scale factors
-- **B3.2**: apply proportional reasoning in various contexts, including financial contexts and unit analysis
-### Strand A — Mathematical Thinking and Making Connections
-
-- **A1.1**: use mathematical processes to identify, extend, create, and analyse patterns; make and describe conjectures; test, verify, and refine conjectures; and justify and communicate thinking
-- **A1.2**: make connections among concepts and procedures across strands, and between mathematics and other disciplines, including real-life applications
-- **A2.1**: describe and explain strategies used to make connections between mathematics and their lived experiences, cultural contexts, and various knowledge systems
-git add curriculum/ontario/maps/secondary/MTH1W.md
-git commit -m "feat(MTH1W): add map with strands + Overall Expectations filled; scaffold specifics"
-git push
-nano curriculum/ontario/maps/secondary/MTH1W.md
 ---
-project: RuberuTutor Curriculum Project — Stage 5
-stage: Secondary Curriculum Mapping (Grades 9–12)
-repo_path: curriculum/ontario/maps/secondary/
-course_code: MTH1W
-course_title: Grade 9 Mathematics (De-streamed)
+course: MTH1W
 grade: 9
-subject: Math
-version: v0.1
-status: draft
-last_updated: 2025-09-01
-source_pdf: curriculum/ontario/Mathematics_Grade9_MTH1W_2021_with-Teacher-Supports.pdf
-snapshot_doc: curriculum/ontario/snapshots/Mathematics.docx
+subject: Mathematics
+stream: Workplace Preparation
+stage: 6
+source_pdf: curriculum/ontario/pdfs/Math_9_Workplace.pdf
 ---
 
-# MTH1W — Grade 9 Mathematics (De-streamed)
+# MTH1W — Mathematics, Grade 9 (Workplace Preparation)
 
 ## 1) Strands Overview
-- **Strand A — Mathematical Thinking and Making Connections**
-- **Strand B — Number**
-- **Strand C — Algebra**
-- **Strand D — Data**
-- **Strand E — Geometry and Measurement**
-- **Strand F — Financial Literacy**
+- A. Number Sense and Numeration  
+- B. Measurement and Geometry  
+- C. Patterning and Algebra  
+- D. Data Management and Probability  
+- E. Financial Literacy
 
-> **SEL Strand (AA)** — *Social-Emotional Learning (SEL) Skills in Mathematics*:
-> Appears in policy as Strand **AA**. It has **no specific expectations**; learning and evaluation occur **within Strands B–F**.
+## 2) Overall Expectations
 
-## 2) Overall Expectations (verbatim)
+### Strand A — Number Sense and Numeration
+By the end of this course, students will:
+- demonstrate an understanding of the magnitude of whole numbers, integers, and decimals through investigation using a variety of tools;  
+- solve problems and perform calculations involving addition, subtraction, multiplication, and division of whole numbers, integers, and decimals;  
+- describe relationships between fractions, decimal, and percent representations using benchmarks.
 
-### Strand A — Mathematical Thinking and Making Connections
-- **A1**: apply the mathematical processes to develop a conceptual understanding of, and procedural fluency with, the mathematics they are learning
-- **A2**: make connections between mathematics and various knowledge systems, their lived experiences, and various real-life applications of mathematics, including careers
+### Strand B — Measurement and Geometry
+By the end of this course, students will:
+- estimate, measure, and calculate the perimeter, area, and volume of common two- and three-dimensional figures;  
+- describe and represent, through investigation using concrete materials, the relationships among dimensional measures, including similarity and congruence;  
+- identify and classify common geometric figures by their properties.
 
-### Strand B — Number
-- **B1**: demonstrate an understanding of the development and use of numbers, and make connections between sets of numbers
-- **B2**: represent numbers in various ways, evaluate powers, and simplify expressions by using the relationships between powers and their exponents
-- **B3**: apply an understanding of rational numbers, ratios, rates, percentages, and proportions, in various mathematical contexts, and to solve problems
+### Strand C — Patterning and Algebra
+By the end of this course, students will:
+- extend and apply understanding of equality and properties of arithmetic operations to express the relationship between variables in open sentences;  
+- solve simple linear equations in one variable, and interpret the solutions;  
+- describe and apply patterns, relationships, and rates of change using tables, charts, and graphs.
 
-### Strand C — Algebra
-- **C1**: demonstrate an understanding of the development and use of algebraic concepts and of their connection to numbers, using various tools and representations
-- **C2**: apply coding skills to represent mathematical concepts and relationships dynamically, and to solve problems, in algebra and across the other strands
-- **C3**: represent and compare linear and non-linear relations that model real-life situations, and use these representations to make predictions
-- **C4**: demonstrate an understanding of the characteristics of various representations of linear and non-linear relations, using tools, including coding when appropriate
+### Strand D — Data Management and Probability
+By the end of this course, students will:
+- collect and organize categorical and numerical data, and display the data using charts and graphs for single- and two-variable data;  
+- read, describe, and interpret data presented in charts and graphs;  
+- conduct a probability experiment using concrete materials, collect and organize the data, and compare the theoretical and experimental probabilities of an event.
 
-### Strand D — Data
-- **D1**: describe the collection and use of data, and represent and analyse data involving one and two variables
-- **D2**: apply the process of mathematical modelling, using data and mathematical concepts from other strands, to represent, analyse, make predictions, and provide insight into real-life situations
+### Strand E — Financial Literacy
+By the end of this course, students will:
+- demonstrate an understanding of financial terms and concepts related to money, spending, and saving;  
+- manage a simplified personal budget using income and expense records;  
+- calculate the effects of simple interest and discounts in financial situations.
 
-### Strand E — Geometry and Measurement
-- **E1**: demonstrate an understanding of the development and use of geometric and measurement relationships, and apply these relationships to solve problems, including problems involving real-life situations
+## 3) Specific Expectations
 
-### Strand F — Financial Literacy
-- **F1**: demonstrate the knowledge and skills needed to make informed financial decisions
+### Strand A — Number Sense and Numeration
+- A1.1 represent whole numbers, integers, and decimals using a variety of tools and benchmarks;  
+- A1.2 perform operations involving whole numbers, integers, and decimals;  
+- A1.3 describe the relationship between fractions, decimals, and percents using benchmarks.
 
-## 3) Specific Expectations (verbatim with codes)
+### Strand B — Measurement and Geometry
+- B1.1 estimate, measure, and calculate perimeter, area, and volume of common figures;  
+- B1.2 investigate and describe similarity and congruence of two- and three-dimensional figures;  
+- B1.3 identify and classify common 2D and 3D figures based on properties.
 
+### Strand C — Patterning and Algebra
+- C1.1 apply properties of operations to express relationships between variables;  
+- C1.2 solve simple linear equations in one variable;  
+- C1.3 analyze patterns using tables, charts, and graphs.
 
-## 4) Planning Tables (Worksheets & Assessments vA–vD)
+### Strand D — Data Management and Probability
+- D1.1 collect, organize, and graph categorical and numerical data;  
+- D1.2 interpret data presented in charts and graphs;  
+- D1.3 conduct probability experiments, record outcomes, and compare theoretical vs. experimental probabilities.
 
-### 4.1 Worksheet Plan (by Specific Expectation)
-| Code | Brief Skill/Focus | Worksheet ID | Version | Notes |
-|-----:|-------------------|--------------|---------|-------|
-| B2.1 |                    | WS-M9-001    | vA–vD   |       |
+### Strand E — Financial Literacy
+- E1.1 define and apply financial terms and concepts such as income, expenses, saving;  
+- E1.2 create and manage a simplified personal budget;  
+- E1.3 calculate simple interest and discounts in real-life contexts.
 
-### 4.2 Assessment Plan (by Overall/Specific Expectation)
-| Code | Type | Assessment ID | Version | Evidence/Criteria | Notes |
-|-----:|------|---------------|---------|-------------------|-------|
-| B2.1 | Quiz | AS-M9-001     | vA–vD   |                   |       |
+## 4) Planning Tables
 
-## 5) Alignment & Crosswalk (optional)
+### 4.1 Worksheet Plan
+| Expectation Code | Topic / Focus                      | Worksheet ID    | Versions | Notes |
+|------------------|------------------------------------|-----------------|----------|-------|
+| A1.1–A1.3        | Number operations & representations| WS-MTH9-001     | vA–vD    |       |
+| B1.1–B1.3        | Measurement & geometry             | WS-MTH9-002     | vA–vD    |       |
+| C1.1–C1.3        | Patterns & simple equations        | WS-MTH9-003     | vA–vD    |       |
+| D1.1–D1.3        | Data collection & probability      | WS-MTH9-004     | vA–vD    |       |
+| E1.1–E1.3        | Financial literacy basics          | WS-MTH9-005     | vA–vD    |       |
 
-## 6) Implementation Notes
+### 4.2 Assessment Plan
+| Assessment ID | Subject | Grade | Count | Strand Coverage | Notes                      |
+|---------------|---------|-------|-------|-----------------|----------------------------|
+| **AS-M9**     | Math    | 9     | 1     | Strands A–E     | Culminating; diagnostic    |
 
-## 7) Changelog
-- **2025-09-01 (v0.1)** — Initial shell created for MTH1W. Sourced from `source_pdf` and `snapshot_doc`.
+**Strand Coverage**  
+- A: A1.1–A1.3  
+- B: B1.1–B1.3  
+- C: C1.1–C1.3  
+- D: D1.1–D1.3  
+- E: E1.1–E1.3
+
+## 5) Changelog
+- 2025-09-03 — Full scaffold with verbatim Overall + Specific Expectations added (Stage 6).
 
