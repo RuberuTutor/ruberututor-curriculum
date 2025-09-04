@@ -4,7 +4,7 @@ grade: 11
 subject: English
 stream: University/Workplace (Writing course)
 stage: Secondary Curriculum Mapping (Stage 5)
-source_pdf: curriculum/ontario/English_Grade11_ENL3W_official.pdf
+source_pdf: curriculum/ontario/pdfs/english1112curriculum.pdf
 ---
 
 # Grade 11 English (ENL3W)

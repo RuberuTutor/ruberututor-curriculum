@@ -4,7 +4,7 @@ grade: 12
 subject: English
 stream: Workplace Preparation
 stage: 6
-source_pdf: Ontario Curriculum, Grades 11 & 12: English, Workplace Preparation
+source_pdf: curriculum/ontario/pdfs/english1112curriculum.pdf
 ---
 
 # ENG4E — English, Grade 12 (Workplace Preparation)
