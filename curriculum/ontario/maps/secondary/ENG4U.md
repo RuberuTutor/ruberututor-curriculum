@@ -4,7 +4,7 @@ grade: 12
 subject: English
 stream: University
 stage: 6
-source_pdf: curriculum/ontario/pdfs/english1112currb.pdf
+source_pdf: curriculum/ontario/pdfs/english1112curriculum.pdf
 ---
 
 # ENG4U — English, Grade 12 (University)
@@ -72,24 +72,35 @@ By the end of this course, students will:
 ## 4) Planning Tables
 
 ### 4.1 Worksheet Plan
-| Expectation Code | Topic / Focus                     | Worksheet ID   | Versions | Notes |
-|------------------|-----------------------------------|----------------|----------|-------|
-| A1.1–A1.3        | Advanced oral communication       | WS-ENG12-001   | vA–vD    |       |
-| B1.1–B1.4        | Reading comprehension & analysis  | WS-ENG12-002   | vA–vD    |       |
-| C1.1–C1.4        | Writing process & conventions     | WS-ENG12-003   | vA–vD    |       |
-| D1.1–D1.4        | Media analysis & production       | WS-ENG12-004   | vA–vD    |       |
+| Expectation Code | Topic / Focus | Worksheet ID | Versions | Notes |
+|------------------|---------------|--------------|----------|-------|
+| A1.1 | [title] | WS-E12-001 | vA–vD | |
+| A1.2 | [title] | WS-E12-002 | vA–vD | |
+| A1.3 | [title] | WS-E12-003 | vA–vD | |
+| B1.1 | [title] | WS-E12-004 | vA–vD | |
+| B1.2 | [title] | WS-E12-005 | vA–vD | |
+| B1.3 | [title] | WS-E12-006 | vA–vD | |
+| B1.4 | [title] | WS-E12-007 | vA–vD | |
+| C1.1 | [title] | WS-E12-008 | vA–vD | |
+| C1.2 | [title] | WS-E12-009 | vA–vD | |
+| C1.3 | [title] | WS-E12-010 | vA–vD | |
+| C1.4 | [title] | WS-E12-011 | vA–vD | |
+| D1.1 | [title] | WS-E12-012 | vA–vD | |
+| D1.2 | [title] | WS-E12-013 | vA–vD | |
+| D1.3 | [title] | WS-E12-014 | vA–vD | |
+| D1.4 | [title] | WS-E12-015 | vA–vD | |
 
 ### 4.2 Assessment Plan
-| Assessment ID | Subject | Grade | Count | Strand Coverage | Notes                        |
-|---------------|---------|-------|-------|-----------------|------------------------------|
-| **AS-E12**    | English | 12    | 1     | Strands A–D     | Culminating; diagnostic task |
+| Assessment ID | Subject | Grade | Count | Strand Coverage | Notes |
+|---------------|---------|-------|-------|-----------------|-------|
+| **AS-E12** | English | 12 | 1 | Strands A–D | Culminating; diagnostic coverage |
 
 **Strand Coverage**  
-- A: A1.1–A1.3  
-- B: B1.1–B1.4  
-- C: C1.1–C1.4  
-- D: D1.1–D1.4  
+- Strand A: A1.1, A1.2, A1.3  
+- Strand B: B1.1, B1.2, B1.3, B1.4  
+- Strand C: C1.1, C1.2, C1.3, C1.4  
+- Strand D: D1.1, D1.2, D1.3, D1.4  
 
 ## 5) Changelog
-- 2025-09-03 — Full scaffold with verbatim Overall and Specific Expectations added (Stage 6).
+- 2025-09-03 — Full scaffold with verbatim Overall and Specific Expectations added (Stage 6, ENG4U).
 
