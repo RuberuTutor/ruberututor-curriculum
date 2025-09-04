@@ -4,7 +4,7 @@ grade: 12
 subject: English
 stream: De-streamed
 stage: 6
-source_pdf: curriculum/ontario/english1112curriculum.pdf
+source_pdf: curriculum/ontario/pdfs/english1112curriculum.pdf
 ---
 
 # ENL4W — English, Grade 12
